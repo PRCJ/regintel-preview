@@ -27,6 +27,8 @@ sys.path.insert(0, str(ROOT))
 
 from eva_extract import extract_for_record, looks_like_glyph_dump  # type: ignore
 from eva_llm import get_client, is_placeholder_title, summarize_pdf_text  # type: ignore
+from eva_translate import apply_english, engine_status, needs_english  # type: ignore
+from schema import SCORE_WEB_FIELDS  # type: ignore
 
 EVA_DIR = ROOT / "data" / "eva"
 SUMMARIES_JSONL = EVA_DIR / "summaries.jsonl"
@@ -149,21 +151,37 @@ def publish_web(all_summaries: dict[str, dict], *, max_web: int = 5000) -> None:
                 "source_page": r.get("source_page"),
                 "summary": r.get("summary"),
                 "key_points": r.get("key_points") or [],
+                "title_en": r.get("title_en") or "",
+                "summary_en": r.get("summary_en") or "",
+                "key_points_en": r.get("key_points_en") or [],
+                "translate_engine": r.get("translate_engine") or "",
                 "topics": r.get("topics") or [],
                 "document_type": r.get("document_type"),
                 "method": r.get("method"),
                 "summarized_at": r.get("summarized_at"),
             }
         )
+        for key in SCORE_WEB_FIELDS:
+            if r.get(key) not in (None, "", []):
+                compact[-1][key] = r.get(key)
     WEB_SUMMARIES.parent.mkdir(parents=True, exist_ok=True)
     WEB_SUMMARIES.write_text(
         json.dumps(compact, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
+    with_en = sum(1 for r in compact if str(r.get("summary_en") or "").strip())
+    scored = [r for r in compact if r.get("ai_relevance_score") is not None]
+    bands: dict[str, int] = {}
+    for r in scored:
+        cat = str(r.get("ai_relevance_category") or "unknown")
+        bands[cat] = bands.get(cat, 0) + 1
     meta = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
         "count": len(compact),
         "total_indexed": len(all_summaries),
         "llm_available": get_client() is not None,
+        "translate": {**engine_status(), "with_en": with_en},
+        "scored": len(scored),
+        "score_bands": bands,
     }
     (WEB_SUMMARIES.parent / "eva_meta.json").write_text(
         json.dumps(meta, indent=2) + "\n", encoding="utf-8"
@@ -176,6 +194,8 @@ def main():
     p.add_argument("--jurisdiction", action="append", dest="jurisdictions", help="Filter (substring)")
     p.add_argument("--only-missing", action="store_true", default=True)
     p.add_argument("--reprocess", action="store_true", help="Re-summarize even if present")
+    p.add_argument("--score-only", action="store_true", help="Score existing summaries (see eva_score.py)")
+    p.add_argument("--score-limit", type=int, default=0, help="With --score-only, max rows (0=all)")
     p.add_argument(
         "--fix-glyphs",
         action="store_true",
@@ -189,12 +209,62 @@ def main():
     p.add_argument("--max-pages", type=int, default=15, help="PDF pages to read per file")
     p.add_argument("--delay", type=float, default=0.4)
     p.add_argument("--publish-only", action="store_true", help="Only rebuild web JSON from jsonl")
+    p.add_argument(
+        "--translate-only",
+        action="store_true",
+        help="Fill English title/summary via Argos or deep-translator (no XAI, no re-read PDFs)",
+    )
+    p.add_argument(
+        "--skip-translate",
+        action="store_true",
+        help="Do not auto-translate new summaries to English",
+    )
     args = p.parse_args()
+
+    if args.score_only:
+        from eva_score import score_store  # type: ignore
+
+        stats = score_store(
+            limit=args.score_limit,
+            only_unscored=not args.reprocess,
+            use_llm=get_client() is not None,
+        )
+        print(json.dumps(stats, indent=2))
+        return
 
     existing = load_existing()
     if args.publish_only:
         publish_web(existing)
         print(f"Published {len(existing)} summaries → {WEB_SUMMARIES}")
+        return
+
+    if args.translate_only:
+        st = engine_status()
+        print(f"Translate engine: {st}")
+        todo_ids = [i for i, r in existing.items() if needs_english(r)]
+        if args.limit:
+            todo_ids = todo_ids[: args.limit]
+        print(f"Need English: {len(todo_ids)}")
+        ok = fail = 0
+        for n, rid in enumerate(todo_ids, 1):
+            rec = existing[rid]
+            print(f"[{n}/{len(todo_ids)}] {(rec.get('title') or rid)[:80]}")
+            try:
+                apply_english(rec)
+                existing[rid] = rec
+                ok += 1
+                print(f"  ok engine={rec.get('translate_engine')}")
+            except Exception as e:
+                fail += 1
+                print(f"  FAIL: {e}")
+            if n % 20 == 0:
+                rewrite_jsonl(existing)
+                publish_web(existing)
+            if args.delay:
+                time.sleep(args.delay)
+        rewrite_jsonl(existing)
+        publish_web(existing)
+        print(json.dumps({"ok": ok, "fail": fail, "total": len(existing)}, indent=2))
         return
 
     catalog = load_catalog()
@@ -297,6 +367,11 @@ def main():
                 "text_chars": len(text),
                 "summarized_at": datetime.now(timezone.utc).isoformat(),
             }
+            if not args.skip_translate:
+                try:
+                    apply_english(out)
+                except Exception as te:
+                    print(f"  translate skip: {te}")
             append_summary(out)
             existing[rid] = out
             ok += 1

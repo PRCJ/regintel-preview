@@ -59,6 +59,42 @@ service cloud.firestore {
       allow read: if true;
       allow write: if false;
     }
+    match /regintel_monitored_urls/{docId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /regintel_changes/{docId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /regintel_sources/{docId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /regintel_checklists/{docId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /regintel_checklist_items/{docId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /regintel_themes/{docId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /regintel_policies/{docId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /regintel_policy_impacts/{docId} {
+      allow read: if true;
+      allow write: if false;
+    }
+    match /regintel_notifications/{docId} {
+      allow read: if true;
+      allow write: if false;
+    }
 
     match /{document=**} {
       allow read, write: if false;

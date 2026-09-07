@@ -18,7 +18,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="assets/styles.css?v=home3" />
+  <link rel="stylesheet" href="assets/styles.css?v=rhandar1" />
 </head>
 <body>
   <div class="app">
@@ -27,10 +27,16 @@
         <div class="logo" aria-hidden="true">⚖️</div>
         <div>
           <h1>RegIntel</h1>
-          <p class="subtitle">Deep-crawl a site. Open a card for PDFs, summaries, and translate.</p>
+          <p class="subtitle" id="appSubtitle">Deep-crawl a site. Open a card for PDFs, summaries, and translate.</p>
         </div>
       </div>
     </header>
+    <nav class="app-nav" aria-label="Product views">
+      <button type="button" class="tab active" data-view="home">Home</button>
+      <button type="button" class="tab" data-view="documents">Documents</button>
+      <button type="button" class="tab" data-view="horizon">Horizon</button>
+      <button type="button" class="tab" data-view="pipeline">Pipeline</button>
+    </nav>
 
     <form class="crawl-bar" id="crawlForm">
       <label class="sr-only" for="crawlUrl">Site URL to crawl</label>
@@ -87,6 +93,54 @@
       <div id="summaryEmpty" class="empty" hidden>No PDFs for this site yet.</div>
     </section>
 
+    <section id="viewDocuments" hidden>
+      <div class="toolbar sticky-toolbar">
+        <label class="sr-only" for="docSearch">Search documents</label>
+        <input type="search" id="docSearch" enterkeyhint="search" autocomplete="off" placeholder="Search title or reason…" />
+        <label class="sr-only" for="docBand">Relevance band</label>
+        <select id="docBand" aria-label="Relevance band">
+          <option value="high">High + critical (≥75)</option>
+          <option value="all">All scored</option>
+          <option value="critical">Critical (≥90)</option>
+          <option value="medium">Medium (50–74)</option>
+          <option value="low">Low (25–49)</option>
+          <option value="not_relevant">Not relevant</option>
+          <option value="unscored">Unscored</option>
+        </select>
+        <label class="sr-only" for="docType">Document type</label>
+        <select id="docType" aria-label="Document type">
+          <option value="all">All types</option>
+        </select>
+        <span id="docCount" class="muted row-count" aria-live="polite"></span>
+      </div>
+      <div id="docList" class="pdf-list" role="list"></div>
+      <div id="docEmpty" class="empty" hidden>No documents in this filter.</div>
+    </section>
+
+    <section id="viewHorizon" hidden>
+      <p class="view-lead">What changed on watched sources. First crawl of a source is a baseline (no alerts). Recrawls emit new / updated / removed / redirected.</p>
+      <div id="horizonList" class="pdf-list" role="list"></div>
+      <div id="horizonEmpty" class="empty" hidden>No change events yet. Phase 2 will fingerprint ministry recrawls. Legacy collector updates appear here when present.</div>
+    </section>
+
+    <section id="viewPipeline" hidden>
+      <p class="view-lead">Download → extract → score. Failed or stuck items show here so they can be retried.</p>
+      <div id="pipelineStats" class="crawl-metrics"></div>
+      <div id="pipelineRuns" class="table-wrap" style="margin-top:16px"></div>
+    </section>
+
+    <div class="pdf-xlate-modal" id="docDrawer" hidden>
+      <div class="pdf-xlate-backdrop" id="docDrawerBackdrop"></div>
+      <div class="pdf-xlate-dialog" role="dialog" aria-modal="true" aria-labelledby="docDrawerTitle">
+        <header class="pdf-xlate-head">
+          <h2 id="docDrawerTitle">Document</h2>
+          <button type="button" class="eva-icon-btn" id="docDrawerClose" aria-label="Close">✕</button>
+        </header>
+        <p class="meta-line" id="docDrawerMeta"></p>
+        <div class="pdf-xlate-body" id="docDrawerBody"></div>
+      </div>
+    </div>
+
     <div class="pdf-xlate-modal" id="pdfXlateModal" hidden>
       <div class="pdf-xlate-backdrop" id="pdfXlateBackdrop"></div>
       <div class="pdf-xlate-dialog" role="dialog" aria-modal="true" aria-labelledby="pdfXlateTitle">
@@ -126,6 +180,6 @@
     </button>
   </div>
 
-  <script src="assets/app.js?v=home27" defer></script>
+  <script src="assets/app.js?v=rhandar1" defer></script>
 </body>
 </html>

@@ -1305,6 +1305,9 @@
               }
             })()
           : [];
+      const keyPointsEn = Array.isArray(eva && eva.key_points_en)
+        ? eva.key_points_en
+        : [];
       const catalogTitle = String(p.title || "").replace(
         /[_\s-]+e?[0-9a-f]{6,10}(\.pdf)?$/i,
         "",
@@ -1321,6 +1324,9 @@
         open_url: url,
         summary,
         key_points: keyPoints,
+        title_en: (eva && eva.title_en) || "",
+        summary_en: (eva && eva.summary_en) || "",
+        key_points_en: keyPointsEn,
         has_summary: Boolean(summary),
         method: (eva && eva.method) || "",
         summarized_at: (eva && eva.summarized_at) || "",
@@ -1347,6 +1353,9 @@
         open_url: url,
         summary,
         key_points: Array.isArray(e.key_points) ? e.key_points : [],
+        title_en: e.title_en || "",
+        summary_en: e.summary_en || "",
+        key_points_en: Array.isArray(e.key_points_en) ? e.key_points_en : [],
         has_summary: Boolean(summary),
         method: e.method || "",
         summarized_at: e.summarized_at || "",
@@ -1472,6 +1481,38 @@
     return chunks;
   }
 
+  function evaTranslateApiBase() {
+    try {
+      return (
+        window.REGINTEL_EVA_API ||
+        (typeof localStorage !== "undefined" && localStorage.getItem("regintel_eva_api")) ||
+        ""
+      ).replace(/\/$/, "");
+    } catch {
+      return "";
+    }
+  }
+
+  /** Local Eva server — Argos / deep-translator, no XAI key. */
+  async function translateViaEvaServer(chunk, source, target) {
+    const base = evaTranslateApiBase();
+    if (!base) throw new Error("no eva translate api");
+    const res = await fetch(base + "/api/eva/translate", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        text: chunk,
+        source: source || "auto",
+        target: target,
+      }),
+    });
+    if (!res.ok) throw new Error("Eva translate HTTP " + res.status);
+    const data = await res.json();
+    const t = (data && (data.text || data.translation)) || "";
+    if (!t.trim()) throw new Error("Eva translate empty");
+    return t;
+  }
+
   /** Unofficial Google Translate (client=gtx) — no API key; works in browser CORS. */
   async function translateViaGoogleGtx(chunk, source, target) {
     const sl = source === "zh-CN" ? "zh-CN" : source;
@@ -1494,6 +1535,70 @@
     return data[0]
       .map((row) => (Array.isArray(row) ? row[0] : ""))
       .join("");
+  }
+
+  /** Alternate unofficial Google endpoint (Chrome dictionary client). */
+  async function translateViaGoogleChrome(chunk, source, target) {
+    const sl = source === "zh-CN" ? "zh-CN" : source;
+    const tl = target === "zh-CN" ? "zh-CN" : target;
+    const url =
+      "https://clients5.google.com/translate_a/t?client=dict-chrome-ex&sl=" +
+      encodeURIComponent(sl) +
+      "&tl=" +
+      encodeURIComponent(tl) +
+      "&q=" +
+      encodeURIComponent(chunk);
+    const res = await fetch(url);
+    if (res.status === 429) throw new Error("HTTP 429");
+    if (!res.ok) throw new Error("Google chrome translate HTTP " + res.status);
+    const data = await res.json();
+    if (typeof data === "string") return data;
+    if (Array.isArray(data)) {
+      const first = data[0];
+      if (typeof first === "string") return data.join("");
+      if (Array.isArray(first)) return first.map((r) => (Array.isArray(r) ? r[0] : r)).join("");
+    }
+    throw new Error("Unexpected Chrome translate response");
+  }
+
+  /** Public LibreTranslate mirrors (open-source, no key on these hosts). */
+  async function translateViaLibre(chunk, source, target) {
+    const sl = source === "zh-CN" ? "zh" : source;
+    const tl = target === "zh-CN" ? "zh" : target;
+    const hosts = [
+      "https://translate.fedilab.app",
+      "https://lt.vern.cc",
+      "https://libretranslate.pussthecat.org",
+    ];
+    let lastErr = "";
+    for (const host of hosts) {
+      try {
+        const res = await fetch(host + "/translate", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            q: chunk,
+            source: sl || "auto",
+            target: tl,
+            format: "text",
+          }),
+        });
+        if (res.status === 429) {
+          lastErr = "HTTP 429";
+          continue;
+        }
+        if (!res.ok) {
+          lastErr = "LibreTranslate HTTP " + res.status;
+          continue;
+        }
+        const data = await res.json();
+        if (data && data.translatedText) return data.translatedText;
+        lastErr = "Empty LibreTranslate response";
+      } catch (e) {
+        lastErr = e.message || String(e);
+      }
+    }
+    throw new Error(lastErr || "LibreTranslate failed");
   }
 
   /** MyMemory free tier — secondary; often 429 if overused. */
@@ -1566,11 +1671,15 @@
     const cached = getCachedTranslation(chunk, source, target);
     if (cached != null) return cached;
 
-    const engines = [
+    const engines = [];
+    if (evaTranslateApiBase()) engines.push(translateViaEvaServer);
+    engines.push(
       translateViaGoogleGtx,
+      translateViaGoogleChrome,
+      translateViaLibre,
       translateViaLingva,
       translateViaMyMemory,
-    ];
+    );
     let lastErr = "";
     for (const eng of engines) {
       try {
@@ -1684,11 +1793,22 @@
    * One Google call for the whole Summary card. Falls back to per-field
    * translateTextChunks (Google → Lingva → MyMemory, chunked) on any failure.
    */
-  async function translateCardFields(title, summary, points, targetLang) {
+  async function translateCardFields(title, summary, points, targetLang, precomputed) {
     const titleIn = String(title || "");
     const summaryIn = String(summary || "");
     const pointsIn = (points || []).map((p) => String(p || ""));
     const target = normalizeTranslateLang(targetLang || "en");
+    const pre = precomputed || {};
+    if (
+      target.split("-")[0] === "en" &&
+      (pre.summary || pre.title)
+    ) {
+      return {
+        title: pre.title || titleIn,
+        summary: pre.summary || summaryIn,
+        points: pointsIn.map((p, i) => (pre.points && pre.points[i]) || p),
+      };
+    }
     const blob = [titleIn, summaryIn, ...pointsIn].join("\n");
     const source = normalizeTranslateLang(detectSourceLang(blob || "en"));
     if (source.split("-")[0] === target.split("-")[0]) {
@@ -2066,6 +2186,9 @@
         data-orig-title="${escapeAttr(r.title || "Untitled PDF")}"
         data-orig-summary="${escapeAttr(origSummary)}"
         data-orig-points="${escapeAttr(JSON.stringify(pointsArr))}"
+        data-en-title="${escapeAttr(r.title_en || "")}"
+        data-en-summary="${escapeAttr(r.summary_en || "")}"
+        data-en-points="${escapeAttr(JSON.stringify(r.key_points_en || []))}"
         data-en-cache-key="${escapeAttr(cacheKey)}"
         data-pdf-url="${escapeAttr(link)}">
         <div class="card-badges">${badge}</div>
@@ -2183,11 +2306,26 @@
           const titleEl = card.querySelector(".sum-title");
           const sumEl = card.querySelector(".sum-summary");
           const pointsEl = card.querySelector(".sum-points");
+          let precomputed = null;
+          if (normalizeTranslateLang(targetLang).split("-")[0] === "en") {
+            const preSum = card.getAttribute("data-en-summary") || "";
+            const preTitle = card.getAttribute("data-en-title") || "";
+            let prePoints = [];
+            try {
+              prePoints = JSON.parse(card.getAttribute("data-en-points") || "[]");
+            } catch (_) {
+              prePoints = [];
+            }
+            if (preSum || preTitle) {
+              precomputed = { title: preTitle, summary: preSum, points: prePoints };
+            }
+          }
           const translated = await translateCardFields(
             origTitle,
             origSummary,
             origPoints,
             targetLang,
+            precomputed,
           );
           const titleOut = translated.title;
           const summaryOut = translated.summary;
@@ -3094,18 +3232,17 @@
     }
 
     function showHome() {
-      if (home) home.hidden = false;
-      if (detail) detail.hidden = true;
-      try {
-        history.replaceState(null, "", location.pathname + location.search);
-      } catch (_) {
-        /* ignore */
-      }
+      setAppView("home");
     }
 
     function openSite(site) {
+      setAppView("home", { skipHash: true });
       if (home) home.hidden = true;
       if (detail) detail.hidden = false;
+      const crawlForm = document.getElementById("crawlForm");
+      const crawlStatus = document.getElementById("crawlStatus");
+      if (crawlForm) crawlForm.hidden = true;
+      if (crawlStatus) crawlStatus.hidden = true;
       if (detailName) detailName.textContent = site.code || site.name;
       if (detailMeta) {
         const withSum = (evaSummaries || []).filter(
@@ -3487,6 +3624,305 @@
     }
   }
 
+  const APP_VIEWS = ["home", "documents", "horizon", "pipeline"];
+  const VIEW_SUBTITLES = {
+    home: "Deep-crawl a site. Open a card for PDFs, summaries, and translate.",
+    documents: "Scored PDFs. Default filter is high + critical (≥75).",
+    horizon: "Change inbox. Baseline crawls do not alert.",
+    pipeline: "Extract and score queues plus recent fetch runs.",
+  };
+
+  function setAppView(name, opts) {
+    const view = APP_VIEWS.includes(name) ? name : "home";
+    const home = document.getElementById("viewHome");
+    const detail = document.getElementById("viewDetail");
+    const docs = document.getElementById("viewDocuments");
+    const horizon = document.getElementById("viewHorizon");
+    const pipeline = document.getElementById("viewPipeline");
+    const crawlForm = document.getElementById("crawlForm");
+    const crawlStatus = document.getElementById("crawlStatus");
+    if (detail && !(opts && opts.keepDetail)) detail.hidden = true;
+    if (home) home.hidden = view !== "home";
+    if (docs) docs.hidden = view !== "documents";
+    if (horizon) horizon.hidden = view !== "horizon";
+    if (pipeline) pipeline.hidden = view !== "pipeline";
+    if (crawlForm) crawlForm.hidden = view !== "home";
+    if (crawlStatus) crawlStatus.hidden = view !== "home";
+    document.querySelectorAll(".app-nav .tab").forEach((btn) => {
+      btn.classList.toggle("active", btn.getAttribute("data-view") === view);
+    });
+    const sub = document.getElementById("appSubtitle");
+    if (sub) sub.textContent = VIEW_SUBTITLES[view] || VIEW_SUBTITLES.home;
+    if (!(opts && opts.skipHash)) {
+      try {
+        const hash = view === "home" ? "" : "#" + view;
+        history.replaceState(null, "", location.pathname + location.search + hash);
+      } catch (_) {
+        /* ignore */
+      }
+    }
+  }
+
+  function mergeDocuments(pdfs, summaries) {
+    const catById = new Map();
+    const catByUrl = new Map();
+    for (const p of pdfs || []) {
+      if (p && p.id) catById.set(p.id, p);
+      const u = String((p && (p.open_url || p.url)) || "").split("#")[0];
+      if (u) catByUrl.set(u, p);
+    }
+    return (summaries || []).map((s) => {
+      const u = String((s && (s.open_url || s.url)) || "").split("#")[0];
+      const cat = (s.id && catById.get(s.id)) || (u && catByUrl.get(u)) || {};
+      return Object.assign({}, cat, s);
+    });
+  }
+
+  function scoreBandOf(row) {
+    const n = Number(row && row.ai_relevance_score);
+    if (!Number.isFinite(n)) return "unscored";
+    return String(row.ai_relevance_category || "") || "unscored";
+  }
+
+  function bandMatches(row, band) {
+    const n = Number(row && row.ai_relevance_score);
+    const cat = scoreBandOf(row);
+    if (band === "all") return cat !== "unscored";
+    if (band === "unscored") return cat === "unscored";
+    if (band === "high") return Number.isFinite(n) && n >= 75;
+    if (band === "critical") return Number.isFinite(n) && n >= 90;
+    return cat === band;
+  }
+
+  function initDocuments(pdfs, summaries) {
+    const list = document.getElementById("docList");
+    const empty = document.getElementById("docEmpty");
+    const countEl = document.getElementById("docCount");
+    const search = document.getElementById("docSearch");
+    const bandSel = document.getElementById("docBand");
+    const typeSel = document.getElementById("docType");
+    const drawer = document.getElementById("docDrawer");
+    const drawerTitle = document.getElementById("docDrawerTitle");
+    const drawerMeta = document.getElementById("docDrawerMeta");
+    const drawerBody = document.getElementById("docDrawerBody");
+    if (!list) return;
+    const rows = mergeDocuments(pdfs, summaries);
+    const types = new Set();
+    rows.forEach((r) => {
+      const t = r.ai_document_type || r.document_type;
+      if (t) types.add(String(t).toUpperCase());
+    });
+    if (typeSel) {
+      const keep = typeSel.value || "all";
+      typeSel.innerHTML =
+        '<option value="all">All types</option>' +
+        [...types]
+          .sort()
+          .map((t) => `<option value="${escapeAttr(t)}">${escapeHtml(t)}</option>`)
+          .join("");
+      if ([...typeSel.options].some((o) => o.value === keep)) typeSel.value = keep;
+    }
+
+    function openDrawer(row) {
+      if (!drawer) return;
+      const title = row.english_title || displayTitleForPdf(row);
+      if (drawerTitle) drawerTitle.textContent = title;
+      if (drawerMeta) {
+        const bits = [
+          row.ai_relevance_category
+            ? row.ai_relevance_category + " · " + String(row.ai_relevance_score)
+            : "unscored",
+          row.ai_document_type || row.document_type,
+          row.regulator || row.jurisdiction,
+        ].filter(Boolean);
+        drawerMeta.textContent = bits.join(" · ");
+      }
+      const url = row.open_url || row.url || "";
+      const reason = row.ai_relevance_reason || "";
+      const summary = row.english_summary || row.summary || "";
+      const pts = row.key_points || [];
+      if (drawerBody) {
+        drawerBody.innerHTML =
+          (reason ? `<p><strong>Why this score.</strong> ${escapeHtml(reason)}</p>` : "") +
+          (summary ? `<p>${escapeHtml(summary)}</p>` : "") +
+          (pts.length
+            ? "<ul>" + pts.map((p) => "<li>" + escapeHtml(p) + "</li>").join("") + "</ul>"
+            : "") +
+          (url
+            ? `<p><a href="${escapeAttr(url)}" target="_blank" rel="noopener">Open PDF</a></p>`
+            : "");
+      }
+      drawer.hidden = false;
+    }
+
+    const closeDrawer = () => {
+      if (drawer) drawer.hidden = true;
+    };
+    const backdrop = document.getElementById("docDrawerBackdrop");
+    const closeBtn = document.getElementById("docDrawerClose");
+    if (backdrop) backdrop.addEventListener("click", closeDrawer);
+    if (closeBtn) closeBtn.addEventListener("click", closeDrawer);
+
+    function paint() {
+      const q = String((search && search.value) || "")
+        .trim()
+        .toLowerCase();
+      const band = (bandSel && bandSel.value) || "high";
+      const type = (typeSel && typeSel.value) || "all";
+      const shown = rows.filter((r) => {
+        if (!bandMatches(r, band)) return false;
+        if (type !== "all") {
+          const t = String(r.ai_document_type || r.document_type || "").toUpperCase();
+          if (t !== type) return false;
+        }
+        if (!q) return true;
+        const blob = [
+          r.title,
+          r.english_title,
+          r.summary,
+          r.ai_relevance_reason,
+          r.jurisdiction,
+          r.regulator,
+        ]
+          .join(" ")
+          .toLowerCase();
+        return blob.includes(q);
+      });
+      shown.sort((a, b) => (Number(b.ai_relevance_score) || -1) - (Number(a.ai_relevance_score) || -1));
+      if (countEl) countEl.textContent = shown.length + " of " + rows.length;
+      list.innerHTML = shown
+        .slice(0, MAX_CARDS)
+        .map((r) => {
+          const cat = scoreBandOf(r);
+          const score = r.ai_relevance_score;
+          const badge =
+            cat === "unscored"
+              ? `<span class="score-badge">unscored</span>`
+              : `<span class="score-badge ${escapeAttr(cat)}">${escapeHtml(cat)} ${escapeHtml(String(score))}</span>`;
+          return `<article class="pdf-card" role="listitem" data-id="${escapeAttr(r.id || "")}">
+            <div class="doc-card-head">
+              <p class="authority-line">${escapeHtml(r.english_title || displayTitleForPdf(r))}</p>
+              ${badge}
+            </div>
+            <p class="muted">${escapeHtml([r.regulator || r.jurisdiction, r.ai_document_type || r.document_type].filter(Boolean).join(" · "))}</p>
+            <p class="doc-reason">${escapeHtml(r.ai_relevance_reason || (r.summary || "").slice(0, 180))}</p>
+          </article>`;
+        })
+        .join("");
+      if (empty) empty.hidden = shown.length > 0;
+      list.querySelectorAll(".pdf-card").forEach((card) => {
+        card.addEventListener("click", () => {
+          const id = card.getAttribute("data-id");
+          const row = rows.find((r) => String(r.id) === String(id));
+          if (row) openDrawer(row);
+        });
+      });
+    }
+
+    if (search) search.addEventListener("input", paint);
+    if (bandSel) bandSel.addEventListener("change", paint);
+    if (typeSel) typeSel.addEventListener("change", paint);
+    paint();
+  }
+
+  function updatesToChanges(updates) {
+    return (updates || []).map((u) => ({
+      id: u.id,
+      title: u.title,
+      summary: u.topical_relevance || "",
+      change_type:
+        /changed/i.test(String(u.title || "")) ? "updated" : "new_publication",
+      source_url: u.link || u.source_url,
+      detected_date: u.discovered_at,
+      jurisdiction: u.country,
+      status: u.alert_status === "seed" ? "dismissed" : "new",
+      authority: u.authority,
+    }));
+  }
+
+  function initHorizon(updates) {
+    const list = document.getElementById("horizonList");
+    const empty = document.getElementById("horizonEmpty");
+    if (!list) return;
+    const rows = updatesToChanges(updates).filter((r) => r.status === "new");
+    list.innerHTML = rows
+      .slice(0, 80)
+      .map((r) => {
+        const when = r.detected_date ? new Date(r.detected_date).toLocaleDateString() : "";
+        const href = isHttpUrl(r.source_url)
+          ? `<a href="${escapeAttr(r.source_url)}" target="_blank" rel="noopener">Open source</a>`
+          : "";
+        return `<article class="pdf-card" role="listitem">
+          <div class="doc-card-head">
+            <p class="authority-line">${escapeHtml(r.title || "Change")}</p>
+            <span class="change-type ${escapeAttr(r.change_type)}">${escapeHtml(r.change_type)}</span>
+          </div>
+          <p class="muted">${escapeHtml([r.authority || r.jurisdiction, when].filter(Boolean).join(" · "))}</p>
+          <p class="doc-reason">${escapeHtml(r.summary || "")}</p>
+          ${href}
+        </article>`;
+      })
+      .join("");
+    if (empty) empty.hidden = rows.length > 0;
+  }
+
+  function initPipeline(summaries, fetchRuns, crawlStatus) {
+    const stats = document.getElementById("pipelineStats");
+    const runsEl = document.getElementById("pipelineRuns");
+    if (!stats) return;
+    const rows = summaries || [];
+    const scored = rows.filter((r) => r.ai_relevance_score != null).length;
+    const pending = rows.filter((r) => !r.ai_status || r.ai_status === "pending").length;
+    const failed = rows.filter((r) => r.ai_status === "failed").length;
+    const high = rows.filter((r) => Number(r.ai_relevance_score) >= 75).length;
+    const phase = (crawlStatus && (crawlStatus.phase || crawlStatus.message)) || "idle";
+    stats.innerHTML = [
+      ["Summaries", rows.length],
+      ["Scored", scored],
+      ["High+", high],
+      ["Pending AI", pending],
+      ["Failed", failed],
+      ["Crawl", phase],
+    ]
+      .map(
+        ([label, val]) =>
+          `<div class="metric"><div class="metric-val">${escapeHtml(String(val))}</div><div class="metric-label">${escapeHtml(label)}</div></div>`,
+      )
+      .join("");
+    const runs = Array.isArray(fetchRuns) ? fetchRuns.slice(-12).reverse() : [];
+    if (runsEl) {
+      if (!runs.length) {
+        runsEl.innerHTML = '<p class="muted">No fetch runs recorded yet.</p>';
+      } else {
+        runsEl.innerHTML =
+          '<table class="data-table"><thead><tr><th>When</th><th>Authority</th><th>Status</th><th>New</th></tr></thead><tbody>' +
+          runs
+            .map((r) => {
+              return `<tr>
+                <td>${escapeHtml(String(r.started_at || "").replace("T", " ").slice(0, 19))}</td>
+                <td>${escapeHtml(r.authority || r.jurisdiction || "")}</td>
+                <td>${escapeHtml(r.status || "")}</td>
+                <td class="num">${escapeHtml(String(r.new_items ?? r.item_count ?? ""))}</td>
+              </tr>`;
+            })
+            .join("") +
+          "</tbody></table>";
+      }
+    }
+  }
+
+  function initAppNav() {
+    document.querySelectorAll(".app-nav .tab").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        setAppView(btn.getAttribute("data-view") || "home");
+      });
+    });
+    window.addEventListener("hashchange", () => {
+      const raw = (location.hash || "").replace(/^#/, "");
+      if (APP_VIEWS.includes(raw)) setAppView(raw, { skipHash: true });
+    });
+  }
+
   async function load() {
     let pdfs = [];
     let ministries = [];
@@ -3494,12 +3930,16 @@
     let evaMeta = null;
     const statusEl = document.getElementById("crawlStatus");
     try {
-      const [pdfsRes, minRes, evaRes, evaMetaRes] = await Promise.all([
-        fetchJson("data/pdfs_catalog.json"),
-        fetchJson("data/saudi_ministries.json").catch(() => []),
-        fetchJson("data/eva_summaries.json").catch(() => []),
-        fetchJson("data/eva_meta.json").catch(() => null),
-      ]);
+      const [pdfsRes, minRes, evaRes, evaMetaRes, updatesRes, runsRes, crawlRes] =
+        await Promise.all([
+          fetchJson("data/pdfs_catalog.json"),
+          fetchJson("data/saudi_ministries.json").catch(() => []),
+          fetchJson("data/eva_summaries.json").catch(() => []),
+          fetchJson("data/eva_meta.json").catch(() => null),
+          fetchJson("data/updates.json").catch(() => []),
+          fetchJson("data/fetch_runs.json").catch(() => []),
+          fetchJson("data/crawl_status.json").catch(() => ({})),
+        ]);
       if (!Array.isArray(pdfsRes)) throw new Error("PDF catalog is not a list");
       pdfs = pdfsRes.filter((p) => isAllowedSaudiMinistryRow(p));
       ministries = Array.isArray(minRes) && minRes.length ? minRes : defaultMinistries();
@@ -3507,6 +3947,9 @@
         isAllowedSaudiMinistryRow(e),
       );
       evaMeta = evaMetaRes;
+      window.__regintelUpdates = Array.isArray(updatesRes) ? updatesRes : [];
+      window.__regintelFetchRuns = Array.isArray(runsRes) ? runsRes : [];
+      window.__regintelCrawlStatus = crawlRes && typeof crawlRes === "object" ? crawlRes : {};
     } catch (e) {
       if (statusEl) statusEl.textContent = "Failed to load catalog: " + (e.message || e);
       const host = document.getElementById("siteList");
@@ -3519,8 +3962,15 @@
       return;
     }
 
+    initAppNav();
     initHome(pdfs, ministries, evaSummaries);
     initEva(evaSummaries, evaMeta, pdfs, ministries);
+    initDocuments(pdfs, evaSummaries);
+    initHorizon(window.__regintelUpdates || []);
+    initPipeline(evaSummaries, window.__regintelFetchRuns || [], window.__regintelCrawlStatus || {});
+    const bootHash = (location.hash || "").replace(/^#/, "");
+    if (APP_VIEWS.includes(bootHash)) setAppView(bootHash, { skipHash: true });
+    else if (!/^site=/i.test(bootHash)) setAppView("home", { skipHash: true });
   }
 
 

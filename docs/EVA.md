@@ -40,6 +40,31 @@ export XAI_MODEL=grok-4.5
 
 Without `XAI_API_KEY`, Eva still indexes PDFs using **extractive** summaries (no cloud LLM).
 
+## Translate (no xAI key)
+
+Card **Translate** and **Translate PDF** do **not** need SpaceXAI. English fields are filled with the free **deep-translator** library (optional offline **Argos Translate** if `EVA_TRANSLATE_ARGOS=1`).
+
+```bash
+.venv/bin/pip install deep-translator
+.venv/bin/python collector/eva_translate.py --status
+# backfill English on existing summaries
+.venv/bin/python collector/eva_summarize.py --translate-only --limit 200
+```
+
+New summaries get `title_en` / `summary_en` / `key_points_en` automatically. The site uses those fields instantly when you pick English.
+
+For live / full-PDF translate from the browser, run the local Eva server (still no xAI key required for `/api/eva/translate`):
+
+```bash
+.venv/bin/python tools/eva_server.py --port 8787
+```
+
+```js
+localStorage.setItem("regintel_eva_api", "http://127.0.0.1:8787");
+```
+
+Without the local server, the page still tries public free engines (Google gtx, LibreTranslate, Lingva, MyMemory).
+
 ## Build Eva’s knowledge (batch)
 
 ```bash

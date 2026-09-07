@@ -1,14 +1,19 @@
 #!/usr/bin/env python3
 """
-Optional local Eva API for LLM chat (keeps XAI_API_KEY server-side).
+Optional local Eva API (LLM chat if XAI_API_KEY is set; translate works without it).
 
   export XAI_API_KEY=...
   .venv/bin/python tools/eva_server.py --port 8787
 
 Endpoints:
   GET  /health
+  GET  /api/health
   GET  /api/eva/meta
+  GET  /api/documents
+  GET  /api/changes
+  GET  /api/pipeline
   POST /api/eva/ask  {"question":"...","k":8}
+  POST /api/eva/translate  {"text":"...","target":"en","source":"ar"}  (Argos / deep-translator, no XAI)
   POST /api/crawl    {"url":"https://…","label":"Saudi Arabia - MEWA"}
 """
 from __future__ import annotations
@@ -27,6 +32,79 @@ sys.path.insert(0, str(ROOT / "collector"))
 
 from eva_agent import ask, load_summaries  # type: ignore
 from eva_llm import get_client  # type: ignore
+from eva_translate import engine_status, translate_text  # type: ignore
+
+WEB_DATA = ROOT / "web" / "data"
+DATA = ROOT / "data"
+
+
+def _load_json(name: str, default):
+    for folder in (WEB_DATA, DATA):
+        path = folder / name
+        if path.exists():
+            try:
+                return json.loads(path.read_text(encoding="utf-8"))
+            except json.JSONDecodeError:
+                return default
+    return default
+
+
+def _documents_payload():
+    rows = load_summaries()
+    bands = {}
+    for r in rows:
+        cat = str(r.get("ai_relevance_category") or "unscored")
+        bands[cat] = bands.get(cat, 0) + 1
+    return {"ok": True, "count": len(rows), "bands": bands, "documents": rows}
+
+
+def _changes_payload():
+    cached = _load_json("changes.json", None)
+    if isinstance(cached, list):
+        rows = cached
+    elif isinstance(cached, dict) and isinstance(cached.get("changes"), list):
+        rows = cached["changes"]
+    else:
+        updates = _load_json("updates.json", [])
+        rows = []
+        if isinstance(updates, list):
+            for u in updates:
+                rows.append(
+                    {
+                        "id": u.get("id"),
+                        "title": u.get("title"),
+                        "summary": u.get("topical_relevance") or "",
+                        "change_type": "updated" if "changed" in str(u.get("title") or "").lower() else "new_publication",
+                        "source_url": u.get("link") or u.get("source_url"),
+                        "detected_date": u.get("discovered_at"),
+                        "jurisdiction": u.get("country"),
+                        "status": "new" if u.get("alert_status") == "new" else u.get("alert_status") or "new",
+                        "priority": "medium",
+                        "ai_status": "pending",
+                        "authority": u.get("authority"),
+                    }
+                )
+    return {"ok": True, "count": len(rows), "changes": rows}
+
+
+def _pipeline_payload():
+    runs = _load_json("fetch_runs.json", [])
+    status = _load_json("crawl_status.json", {})
+    crawls = _load_json("active_crawls.json", {})
+    docs = load_summaries()
+    pending_ai = sum(1 for r in docs if not r.get("ai_status") or r.get("ai_status") == "pending")
+    failed = sum(1 for r in docs if r.get("ai_status") == "failed")
+    scored = sum(1 for r in docs if r.get("ai_relevance_score") is not None)
+    return {
+        "ok": True,
+        "summaries": len(docs),
+        "scored": scored,
+        "pending_ai": pending_ai,
+        "failed_ai": failed,
+        "fetch_runs": len(runs) if isinstance(runs, list) else 0,
+        "crawl_status": status if isinstance(status, dict) else {},
+        "active_crawls": crawls if isinstance(crawls, dict) else {},
+    }
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -51,7 +129,7 @@ class Handler(BaseHTTPRequestHandler):
 
     def do_GET(self):
         path = urlparse(self.path).path
-        if path in ("/health", "/api/eva/health"):
+        if path in ("/health", "/api/eva/health", "/api/health"):
             return self._json(
                 200,
                 {
@@ -59,8 +137,15 @@ class Handler(BaseHTTPRequestHandler):
                     "agent": "Eva",
                     "summaries": len(load_summaries()),
                     "llm": get_client() is not None,
+                    "translate": engine_status(),
                 },
             )
+        if path == "/api/documents":
+            return self._json(200, _documents_payload())
+        if path == "/api/changes":
+            return self._json(200, _changes_payload())
+        if path == "/api/pipeline":
+            return self._json(200, _pipeline_payload())
         if path == "/api/eva/meta":
             return self._json(
                 200,
@@ -68,6 +153,7 @@ class Handler(BaseHTTPRequestHandler):
                     "agent": "Eva",
                     "summaries": len(load_summaries()),
                     "llm": get_client() is not None,
+                    "translate": engine_status(),
                 },
             )
         return self._json(404, {"error": "not found"})
@@ -126,6 +212,25 @@ class Handler(BaseHTTPRequestHandler):
                     "html_url": f"https://github.com/{repo}/actions/workflows/crawl-ministry.yml",
                 },
             )
+        if path == "/api/eva/translate":
+            n = int(self.headers.get("Content-Length") or 0)
+            raw = self.rfile.read(n) if n else b"{}"
+            try:
+                payload = json.loads(raw.decode("utf-8"))
+            except json.JSONDecodeError:
+                return self._json(400, {"error": "invalid json"})
+            text = payload.get("text") or ""
+            if not str(text).strip():
+                return self._json(400, {"error": "text required"})
+            try:
+                res = translate_text(
+                    str(text),
+                    target=str(payload.get("target") or "en"),
+                    source=payload.get("source") or None,
+                )
+                return self._json(200, res)
+            except Exception as e:
+                return self._json(500, {"error": str(e)[:400]})
         if path != "/api/eva/ask":
             return self._json(404, {"error": "not found"})
         n = int(self.headers.get("Content-Length") or 0)

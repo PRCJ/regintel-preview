@@ -1139,3 +1139,68 @@ a.link:hover { text-decoration: underline; }
   font-size: 0.75rem;
   color: var(--muted);
 }
+
+.app-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0 0 14px;
+  padding: 4px;
+  background: rgba(21, 31, 54, 0.75);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+}
+.app-nav .tab {
+  flex: 1 1 calc(50% - 6px);
+}
+@media (min-width: 640px) {
+  .app-nav .tab { flex: 1 1 0; }
+}
+.view-lead {
+  margin: 0 0 14px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+.score-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  border-radius: 999px;
+  padding: 3px 8px;
+  border: 1px solid var(--border);
+}
+.score-badge.critical { color: #fecaca; background: rgba(240, 113, 120, 0.18); border-color: rgba(240, 113, 120, 0.4); }
+.score-badge.high { color: #fde68a; background: rgba(245, 165, 36, 0.16); border-color: rgba(245, 165, 36, 0.4); }
+.score-badge.medium { color: #93c5fd; background: rgba(91, 140, 255, 0.16); border-color: rgba(91, 140, 255, 0.35); }
+.score-badge.low { color: var(--muted); background: rgba(139, 155, 184, 0.12); }
+.score-badge.not_relevant { color: #cbd5e1; background: rgba(15, 23, 42, 0.5); }
+.doc-card-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: flex-start;
+}
+.doc-reason {
+  margin: 6px 0 0;
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.4;
+}
+.change-type {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border-radius: 6px;
+  padding: 2px 6px;
+  border: 1px solid var(--border);
+}
+.change-type.new_url, .change-type.new_publication { color: var(--ok); border-color: rgba(127, 217, 146, 0.4); }
+.change-type.updated, .change-type.document_updated, .change-type.amendment { color: var(--warn); border-color: rgba(245, 165, 36, 0.4); }
+.change-type.removed { color: var(--danger); border-color: rgba(240, 113, 120, 0.4); }
+.change-type.redirected { color: #c4b5fd; }

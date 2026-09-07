@@ -7,6 +7,22 @@
         { "fieldPath": "site_code", "order": "ASCENDING" },
         { "fieldPath": "downloaded_at", "order": "DESCENDING" }
       ]
+    },
+    {
+      "collectionGroup": "regintel_summaries",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "ai_relevance_category", "order": "ASCENDING" },
+        { "fieldPath": "ai_relevance_score", "order": "DESCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "regintel_changes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "status", "order": "ASCENDING" },
+        { "fieldPath": "detected_date", "order": "DESCENDING" }
+      ]
     }
   ],
   "fieldOverrides": []

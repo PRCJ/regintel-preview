@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-08-20T16:23:17.082634+00:00",
-  "count": 1897,
-  "total_indexed": 1897,
-  "site_scope": "Saudi ministries (SDAIA, TGA, MC, MEWA)",
-  "llm_available": false
+  "updated_at": "2026-09-07T12:49:18.394986+00:00",
+  "count": 2213,
+  "total_indexed": 2213,
+  "llm_available": false,
+  "translate": {
+    "argos": false,
+    "deep_translator": true,
+    "primary": "deep-translator",
+    "with_en": 7
+  },
+  "scored": 2213,
+  "score_bands": {
+    "not_relevant": 1032,
+    "high": 1117,
+    "critical": 12,
+    "medium": 43,
+    "low": 9
+  }
 }

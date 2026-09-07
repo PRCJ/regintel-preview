@@ -62,6 +62,12 @@ jobs:
           python -u "${ARGS[@]}" || true
           # also fill remaining slots from general catalog if Saudi few
           python -u collector/eva_summarize.py --limit "$LIMIT" --delay 0.35 || true
+          # English fields via Argos / deep-translator — no XAI
+          python -u collector/eva_summarize.py --translate-only --limit 80 --delay 0.05 || true
+          python -u collector/eva_score.py --heuristic || true
+          if [ -n "${XAI_API_KEY:-}" ]; then
+            python -u collector/eva_score.py --limit 40 --llm --reprocess || true
+          fi
 
       - name: Commit Eva index
         run: |
