@@ -1,5 +1,634 @@
 [
   {
+    "id": "10ee032ec069d0c3",
+    "title": "50.pdf",
+    "jurisdiction": "Saudi Arabia - MOJ",
+    "source_kind": "ministry",
+    "url": "https://moj.gov.sa/Documents/Regulations/pdf/En/50.pdf",
+    "open_url": "https://moj.gov.sa/Documents/Regulations/pdf/En/50.pdf",
+    "source_page": "https://www.moj.gov.sa/",
+    "summary": "Translation of Saudi Laws. Lawsuits relating to real estate and rental thereof shall not be considered business transactions.» This shall enter into force upon the establishment and commencement commercial courts «...if the contractor undertakes to supply materials and equipment necessary therefor.» b) The phrase mentioned at the end of Article 3 which reads: « b) Articles amending court dates with respect to court dates that started prior to this Law’s entry into force a) Articles amending jurisdiction with respect to lawsuits filed prior to this Law’s entry into force 4- This Law shall repeal the provisions of the Law of Shariah Judiciary Jurisdiction, issued by High Ratification (109) dated 24/1/1372H, provided that the provisions relating to notarization of statements and contracts as well as provisions relating to minutes, records, jurisdictions and powers of clerks and other judicial assistants remain in force pending issuance of relevant regulations",
+    "key_points": [
+      "Lawsuits relating to real estate and rental thereof shall not be considered business transactions.» This shall enter into force upon the establishment and commencement commercial courts",
+      "«...if the contractor undertakes to supply materials and equipment necessary therefor.» b) The phrase mentioned at the end of Article 3 which reads: «",
+      "b) Articles amending court dates with respect to court dates that started prior to this Law’s entry into force",
+      "a) Articles amending jurisdiction with respect to lawsuits filed prior to this Law’s entry into force",
+      "4- This Law shall repeal the provisions of the Law of Shariah Judiciary Jurisdiction, issued by High Ratification (109) dated 24/1/1372H, provided that the provisions relating to notarization of statements and contracts as well as provisions relating to minutes, records, jurisdictions and powers of clerks and other judicial assistants remain in force pending issuance of relevant regulations"
+    ],
+    "title_en": "50.pdf",
+    "summary_en": "Translation of Saudi Laws. Lawsuits relating to real estate and rental thereof shall not be considered business transactions.» This shall enter into force upon the establishment and commencement commercial courts «...if the contractor undertakes to supply materials and equipment necessary therefor.» b) The phrase mentioned at the end of Article 3 which reads: « b) Articles amending court dates with respect to court dates that started prior to this Law’s entry into force a) Articles amending jurisdiction with respect to lawsuits filed prior to this Law’s entry into force 4- This Law shall repeal the provisions of the Law of Shariah Judiciary Jurisdiction, issued by High Ratification (109) dated 24/1/1372H, provided that the provisions relating to notarization of statements and contracts as well as provisions relating to minutes, records, jurisdictions and powers of clerks and other judicial assistants remain in force pending issuance of relevant regulations",
+    "key_points_en": [
+      "Lawsuits relating to real estate and rental thereof shall not be considered business transactions.» This shall enter into force upon the establishment and commencement commercial courts",
+      "«...if the contractor undertakes to supply materials and equipment necessary therefor.» b) The phrase mentioned at the end of Article 3 which reads: «",
+      "b) Articles amending court dates with respect to court dates that started prior to this Law’s entry into force",
+      "a) Articles amending jurisdiction with respect to lawsuits filed prior to this Law’s entry into force",
+      "4- This Law shall repeal the provisions of the Law of Shariah Judiciary Jurisdiction, issued by High Ratification (109) dated 24/1/1372H, provided that the provisions relating to notarization of statements and contracts as well as provisions relating to minutes, records, jurisdictions and powers of clerks and other judicial assistants remain in force pending issuance of relevant regulations"
+    ],
+    "translate_engine": "same",
+    "topics": [
+      "article",
+      "place",
+      "process",
+      "residence",
+      "court",
+      "person"
+    ],
+    "document_type": "other",
+    "method": "extractive",
+    "summarized_at": "2026-09-07T21:39:50.721246+00:00",
+    "ai_relevance_score": 78,
+    "ai_relevance_category": "high",
+    "ai_document_type": "GUIDANCE",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Strong legal/regulatory keywords in title or summary.",
+    "english_title": "50.pdf",
+    "english_summary": "Translation of Saudi Laws. Lawsuits relating to real estate and rental thereof shall not be considered business transactions.» This shall enter into force upon the establishment and commencement commercial courts «...if the contractor undertakes to supply materials and equipment necessary therefor.» b) The phrase mentioned at the end of Article 3 which reads: « b) Articles amending court dates with respect to court dates that started prior to this Law’s entry into force a) Articles amending jurisdiction with respect to lawsuits filed prior to this Law’s entry into force 4- This Law shall repeal the provisions of the Law of Shariah Judiciary Jurisdiction, issued by High Ratification (109) dated 24/1/1372H, provided that the provisions relating to notarization of statements and contracts as well as provisions relating to minutes, records, jurisdictions and powers of clerks and other judicial assistants remain in force pending issuance of relevant regulations",
+    "regulator": "Ministry of Justice (MOJ)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.611062+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "b6d48814f1a9a8b7",
+    "title": "09.pdf",
+    "jurisdiction": "Saudi Arabia - MOJ",
+    "source_kind": "ministry",
+    "url": "https://moj.gov.sa/Documents/Regulations/pdf/En/09.pdf",
+    "open_url": "https://moj.gov.sa/Documents/Regulations/pdf/En/09.pdf",
+    "source_page": "https://www.moj.gov.sa/",
+    "summary": "Implementing Regulations of the Law of Criminal Procedure Implementing Regulations of the Law of Criminal Pr issued under the Environmental Law. Implemented by Ministry of Justice. To apply you must submit: defendant, a description of the charges, a copy of the statement of claim, and.",
+    "key_points": [
+      "Regulator: Ministry of Justice",
+      "Apply with: defendant, a description of the charges, a copy of the statement of claim, and"
+    ],
+    "title_en": "09.pdf",
+    "summary_en": "Implementing Regulations of the Law of Criminal Procedure Implementing Regulations of the Law of Criminal Pr issued under the Environmental Law. Implemented by Ministry of Justice. To apply you must submit: defendant, a description of the charges, a copy of the statement of claim, and.",
+    "key_points_en": [
+      "Regulator: Ministry of Justice",
+      "Apply with: defendant, a description of the charges, a copy of the statement of claim, and"
+    ],
+    "translate_engine": "same",
+    "topics": [
+      "regulation",
+      "MEWA",
+      "environment"
+    ],
+    "document_type": "regulation",
+    "method": "extractive_regulation",
+    "summarized_at": "2026-09-07T21:39:44.711636+00:00",
+    "ai_relevance_score": 92,
+    "ai_relevance_category": "critical",
+    "ai_document_type": "REGULATION",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Document type is a law/regulation that typically creates obligations.",
+    "english_title": "09.pdf",
+    "english_summary": "Implementing Regulations of the Law of Criminal Procedure Implementing Regulations of the Law of Criminal Pr issued under the Environmental Law. Implemented by Ministry of Justice. To apply you must submit: defendant, a description of the charges, a copy of the statement of claim, and.",
+    "regulator": "Ministry of Justice (MOJ)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.610339+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "1b30cfc6d1a26e18",
+    "title": "96.pdf",
+    "jurisdiction": "Saudi Arabia - MOJ",
+    "source_kind": "ministry",
+    "url": "https://moj.gov.sa/Documents/Regulations/pdf/En/96.pdf",
+    "open_url": "https://moj.gov.sa/Documents/Regulations/pdf/En/96.pdf",
+    "source_page": "https://www.moj.gov.sa/",
+    "summary": "96 issued under the Environmental Law. It applies to the commercial court and to cases under its jurisdiction. Implemented by Ministry of Justice.",
+    "key_points": [
+      "Regulator: Ministry of Justice"
+    ],
+    "title_en": "96.pdf",
+    "summary_en": "96 issued under the Environmental Law. It applies to the commercial court and to cases under its jurisdiction. Implemented by Ministry of Justice.",
+    "key_points_en": [
+      "Regulator: Ministry of Justice"
+    ],
+    "translate_engine": "same",
+    "topics": [
+      "regulation",
+      "MEWA",
+      "environment"
+    ],
+    "document_type": "regulation",
+    "method": "extractive_regulation",
+    "summarized_at": "2026-09-07T21:39:40.666801+00:00",
+    "ai_relevance_score": 92,
+    "ai_relevance_category": "critical",
+    "ai_document_type": "REGULATION",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Document type is a law/regulation that typically creates obligations.",
+    "english_title": "96.pdf",
+    "english_summary": "96 issued under the Environmental Law. It applies to the commercial court and to cases under its jurisdiction. Implemented by Ministry of Justice.",
+    "regulator": "Ministry of Justice (MOJ)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.610086+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "bfa7cc641cf095c0",
+    "title": "Rules of Professional Conduct for Lawyers.pdf",
+    "jurisdiction": "Saudi Arabia - MOJ",
+    "source_kind": "ministry",
+    "url": "https://moj.gov.sa/Documents/Regulations/pdf/En/Rules%20of%20Professional%20Conduct%20for%20Lawyers.pdf",
+    "open_url": "https://moj.gov.sa/Documents/Regulations/pdf/En/Rules%20of%20Professional%20Conduct%20for%20Lawyers.pdf",
+    "source_page": "https://www.moj.gov.sa/",
+    "summary": "Rules of Professional Conduct for Lawyers issued under the Environmental Law. It applies to anyone who breaches the Rules. Implemented by Ministry of Justice.",
+    "key_points": [
+      "Regulator: Ministry of Justice"
+    ],
+    "title_en": "Rules of Professional Conduct for Lawyers.pdf",
+    "summary_en": "Rules of Professional Conduct for Lawyers issued under the Environmental Law. It applies to anyone who breaches the Rules. Implemented by Ministry of Justice.",
+    "key_points_en": [
+      "Regulator: Ministry of Justice"
+    ],
+    "translate_engine": "same",
+    "topics": [
+      "regulation",
+      "MEWA",
+      "environment"
+    ],
+    "document_type": "regulation",
+    "method": "extractive_regulation",
+    "summarized_at": "2026-09-07T21:39:38.254029+00:00",
+    "ai_relevance_score": 92,
+    "ai_relevance_category": "critical",
+    "ai_document_type": "REGULATION",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Document type is a law/regulation that typically creates obligations.",
+    "english_title": "Rules of Professional Conduct for Lawyers.pdf",
+    "english_summary": "Rules of Professional Conduct for Lawyers issued under the Environmental Law. It applies to anyone who breaches the Rules. Implemented by Ministry of Justice.",
+    "regulator": "Ministry of Justice (MOJ)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.609897+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "635bfeaff5800be4",
+    "title": "The Implementing Regulations of the Commercial Courts Law",
+    "jurisdiction": "Saudi Arabia - MOJ",
+    "source_kind": "ministry",
+    "url": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/pdf/The%20Implementing%20Regulations%20of%20the%20Commercial%20Courts%20Law.pdf",
+    "open_url": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/pdf/The%20Implementing%20Regulations%20of%20the%20Commercial%20Courts%20Law.pdf",
+    "source_page": "https://www.moj.gov.sa",
+    "summary": "Implementing Regulations of the Commercial Courts Law guidance issued under the Environmental Law (Royal Decree (M/93), dated 15/8/1441H, providing for approv). Implemented by Ministry of Justice. To apply you must submit: accordingly. Please find enclosed herewith a copy of the Resolu tion and the.",
+    "key_points": [
+      "Parent law: Environmental Law — Royal Decree (M/93), dated 15/8/1441H, providing for approv",
+      "Regulator: Ministry of Justice",
+      "Apply with: accordingly. Please find enclosed herewith a copy of the Resolu tion and the"
+    ],
+    "title_en": "The Implementing Regulations of the Commercial Courts Law",
+    "summary_en": "Implementing Regulations of the Commercial Courts Law guidance issued under the Environmental Law (Royal Decree (M/93), dated 15/8/1441H, providing for approv). Implemented by Ministry of Justice. To apply you must submit: accordingly. Please find enclosed herewith a copy of the Resolu tion and the.",
+    "key_points_en": [
+      "Parent law: Environmental Law — Royal Decree (M/93), dated 15/8/1441H, providing for approv",
+      "Regulator: Ministry of Justice",
+      "Apply with: accordingly. Please find enclosed herewith a copy of the Resolu tion and the"
+    ],
+    "translate_engine": "same",
+    "topics": [
+      "regulation",
+      "MEWA",
+      "environment"
+    ],
+    "document_type": "regulation",
+    "method": "extractive_regulation",
+    "summarized_at": "2026-09-07T21:39:29.768450+00:00",
+    "ai_relevance_score": 92,
+    "ai_relevance_category": "critical",
+    "ai_document_type": "REGULATION",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Document type is a law/regulation that typically creates obligations.",
+    "english_title": "The Implementing Regulations of the Commercial Courts Law",
+    "english_summary": "Implementing Regulations of the Commercial Courts Law guidance issued under the Environmental Law (Royal Decree (M/93), dated 15/8/1441H, providing for approv). Implemented by Ministry of Justice. To apply you must submit: accordingly. Please find enclosed herewith a copy of the Resolu tion and the.",
+    "regulator": "Ministry of Justice (MOJ)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.609641+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "c1525a6598d22774",
+    "title": "The Draft Amendments of the Investment Accounts Instructions and the Rules for Foreign Investment in Securities and ar",
+    "jurisdiction": "Saudi Arabia - CMA",
+    "source_kind": "ministry",
+    "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Investment%20Accounts%20Instructions%20and%20the%20Rules%20for%20Foreign%20Investment%20in%20Securities%20and_ar.pdf",
+    "open_url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Investment%20Accounts%20Instructions%20and%20the%20Rules%20for%20Foreign%20Investment%20in%20Securities%20and_ar.pdf",
+    "source_page": "https://cma.gov.sa/RulesRegulations/Consulting",
+    "summary": "The Draft Amendments of the Investment Accounts Instructions and the Rules for Foreign Investment in Securities and ar. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "key_points": [],
+    "title_en": "The Draft Amendments of the Investment Accounts Instructions and the Rules for Foreign Investment in Securities and ar",
+    "summary_en": "The Draft Amendments of the Investment Accounts Instructions and the Rules for Foreign Investment in Securities and ar. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "key_points_en": [],
+    "translate_engine": "same",
+    "topics": [],
+    "document_type": "other",
+    "method": "extractive_unreadable",
+    "summarized_at": "2026-09-07T21:39:14.594164+00:00",
+    "ai_relevance_score": 78,
+    "ai_relevance_category": "high",
+    "ai_document_type": "GUIDANCE",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Strong legal/regulatory keywords in title or summary.",
+    "english_title": "The Draft Amendments of the Investment Accounts Instructions and the Rules for Foreign Investment in Securities and ar",
+    "english_summary": "The Draft Amendments of the Investment Accounts Instructions and the Rules for Foreign Investment in Securities and ar. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "regulator": "Capital Market Authority (CMA)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.609281+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "71dbd89df059a1f2",
+    "title": "The Draft Amendments of the Capital Market Institutions Regulations and Investment Accounts Instructions ar",
+    "jurisdiction": "Saudi Arabia - CMA",
+    "source_kind": "ministry",
+    "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Capital%20Market%20Institutions%20Regulations%20and%20Investment%20Accounts%20Instructions_ar.pdf",
+    "open_url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Capital%20Market%20Institutions%20Regulations%20and%20Investment%20Accounts%20Instructions_ar.pdf",
+    "source_page": "https://cma.gov.sa/RulesRegulations/Consulting",
+    "summary": "The Draft Amendments of the Capital Market Institutions Regulations and Investment Accounts Instructions ar. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "key_points": [],
+    "title_en": "The Draft Amendments of the Capital Market Institutions Regulations and Investment Accounts Instructions ar",
+    "summary_en": "The Draft Amendments of the Capital Market Institutions Regulations and Investment Accounts Instructions ar. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "key_points_en": [],
+    "translate_engine": "same",
+    "topics": [],
+    "document_type": "other",
+    "method": "extractive_unreadable",
+    "summarized_at": "2026-09-07T21:39:11.521050+00:00",
+    "ai_relevance_score": 78,
+    "ai_relevance_category": "high",
+    "ai_document_type": "GUIDANCE",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Strong legal/regulatory keywords in title or summary.",
+    "english_title": "The Draft Amendments of the Capital Market Institutions Regulations and Investment Accounts Instructions ar",
+    "english_summary": "The Draft Amendments of the Capital Market Institutions Regulations and Investment Accounts Instructions ar. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "regulator": "Capital Market Authority (CMA)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.608833+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "eb190500f7dc8a93",
+    "title": "The Draft Amendments to the Implementing Regulation of the Companies Law for Listed Joint Stock Companies AR",
+    "jurisdiction": "Saudi Arabia - CMA",
+    "source_kind": "ministry",
+    "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20to%20the%20Implementing%20Regulation%20of%20the%20Companies%20Law%20for%20Listed%20Joint%20Stock%20Companies_AR.pdf",
+    "open_url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20to%20the%20Implementing%20Regulation%20of%20the%20Companies%20Law%20for%20Listed%20Joint%20Stock%20Companies_AR.pdf",
+    "source_page": "https://cma.gov.sa/RulesRegulations/Consulting",
+    "summary": "The Draft Amendments to the Implementing Regulation of the Companies Law for Listed Joint Stock Companies AR issued under the Environmental Law. Implemented by CMA.",
+    "key_points": [
+      "Regulator: CMA"
+    ],
+    "title_en": "The Draft Amendments to the Implementing Regulation of the Companies Law for Listed Joint Stock Companies AR",
+    "summary_en": "The Draft Amendments to the Implementing Regulation of the Companies Law for Listed Joint Stock Companies AR issued under the Environmental Law. Implemented by CMA.",
+    "key_points_en": [
+      "Regulator: CMA"
+    ],
+    "translate_engine": "same",
+    "topics": [
+      "regulation",
+      "MEWA",
+      "environment"
+    ],
+    "document_type": "regulation",
+    "method": "extractive_regulation",
+    "summarized_at": "2026-09-07T21:39:09.432548+00:00",
+    "ai_relevance_score": 92,
+    "ai_relevance_category": "critical",
+    "ai_document_type": "REGULATION",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Document type is a law/regulation that typically creates obligations.",
+    "english_title": "The Draft Amendments to the Implementing Regulation of the Companies Law for Listed Joint Stock Companies AR",
+    "english_summary": "The Draft Amendments to the Implementing Regulation of the Companies Law for Listed Joint Stock Companies AR issued under the Environmental Law. Implemented by CMA.",
+    "regulator": "Capital Market Authority (CMA)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.608427+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "c95d79e9ae6c43fc",
+    "title": "Regulatory Framework for Equity Crowdfunding ar",
+    "jurisdiction": "Saudi Arabia - CMA",
+    "source_kind": "ministry",
+    "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Regulatory-Framework-for-Equity-Crowdfunding-ar.pdf",
+    "open_url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Regulatory-Framework-for-Equity-Crowdfunding-ar.pdf",
+    "source_page": "https://cma.gov.sa/RulesRegulations/Consulting",
+    "summary": "Regulatory Framework for Equity Crowdfunding ar. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "key_points": [],
+    "title_en": "Regulatory Framework for Equity Crowdfunding ar",
+    "summary_en": "Regulatory Framework for Equity Crowdfunding ar. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "key_points_en": [],
+    "translate_engine": "same",
+    "topics": [],
+    "document_type": "other",
+    "method": "extractive_unreadable",
+    "summarized_at": "2026-09-07T21:39:07.589656+00:00",
+    "ai_relevance_score": 78,
+    "ai_relevance_category": "high",
+    "ai_document_type": "GUIDANCE",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Strong legal/regulatory keywords in title or summary.",
+    "english_title": "Regulatory Framework for Equity Crowdfunding ar",
+    "english_summary": "Regulatory Framework for Equity Crowdfunding ar. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "regulator": "Capital Market Authority (CMA)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.608039+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "5e964f7636ccb21a",
+    "title": "Rules on the Offer of Securities and Continuing Obligations ar",
+    "jurisdiction": "Saudi Arabia - CMA",
+    "source_kind": "ministry",
+    "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-on-the-Offer-of-Securities-and-Continuing-Obligations-ar.pdf",
+    "open_url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-on-the-Offer-of-Securities-and-Continuing-Obligations-ar.pdf",
+    "source_page": "https://cma.gov.sa/RulesRegulations/Consulting",
+    "summary": "Rules on the Offer of Securities and Continuing Obligations ar. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "key_points": [],
+    "title_en": "Rules on the Offer of Securities and Continuing Obligations ar",
+    "summary_en": "Rules on the Offer of Securities and Continuing Obligations ar. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "key_points_en": [],
+    "translate_engine": "same",
+    "topics": [],
+    "document_type": "other",
+    "method": "extractive_unreadable",
+    "summarized_at": "2026-09-07T21:39:04.083027+00:00",
+    "ai_relevance_score": 78,
+    "ai_relevance_category": "high",
+    "ai_document_type": "GUIDANCE",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Strong legal/regulatory keywords in title or summary.",
+    "english_title": "Rules on the Offer of Securities and Continuing Obligations ar",
+    "english_summary": "Rules on the Offer of Securities and Continuing Obligations ar. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "regulator": "Capital Market Authority (CMA)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.607801+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "ab3a93dbaaa5cbf9",
+    "title": "Rules for Registering Auditors of Entities ar",
+    "jurisdiction": "Saudi Arabia - CMA",
+    "source_kind": "ministry",
+    "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-for-Registering-Auditors-of-Entities-ar.pdf",
+    "open_url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-for-Registering-Auditors-of-Entities-ar.pdf",
+    "source_page": "https://cma.gov.sa/RulesRegulations/Consulting",
+    "summary": "Rules for Registering Auditors of Entities ar. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "key_points": [],
+    "title_en": "Rules for Registering Auditors of Entities ar",
+    "summary_en": "Rules for Registering Auditors of Entities ar. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "key_points_en": [],
+    "translate_engine": "same",
+    "topics": [],
+    "document_type": "other",
+    "method": "extractive_unreadable",
+    "summarized_at": "2026-09-07T21:38:56.352998+00:00",
+    "ai_relevance_score": 78,
+    "ai_relevance_category": "high",
+    "ai_document_type": "GUIDANCE",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Strong legal/regulatory keywords in title or summary.",
+    "english_title": "Rules for Registering Auditors of Entities ar",
+    "english_summary": "Rules for Registering Auditors of Entities ar. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "regulator": "Capital Market Authority (CMA)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.607543+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "73bf9a3cd55b43e3",
+    "title": "المسودة النهائية لمشروع الضوابط والإجراءات التنظيمية",
+    "jurisdiction": "Saudi Arabia - CMA",
+    "source_kind": "ministry",
+    "url": "https://cma.gov.sa/MediaCenter/PR/Documents/المسودة%20النهائية%20لمشروع%20الضوابط%20والإجراءات%20التنظيمية.pdf",
+    "open_url": "https://cma.gov.sa/MediaCenter/PR/Documents/المسودة%20النهائية%20لمشروع%20الضوابط%20والإجراءات%20التنظيمية.pdf",
+    "source_page": "https://cma.gov.sa/RulesRegulations/Consulting",
+    "summary": "المسودة النهائية لمشروع الضوابط والإجراءات التنظيمية. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "key_points": [],
+    "title_en": "",
+    "summary_en": "",
+    "key_points_en": [],
+    "translate_engine": "",
+    "topics": [],
+    "document_type": "other",
+    "method": "extractive_unreadable",
+    "summarized_at": "2026-09-07T21:38:54.229984+00:00",
+    "ai_relevance_score": 78,
+    "ai_relevance_category": "high",
+    "ai_document_type": "GUIDANCE",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Strong legal/regulatory keywords in title or summary.",
+    "english_title": "المسودة النهائية لمشروع الضوابط والإجراءات التنظيمية",
+    "english_summary": "المسودة النهائية لمشروع الضوابط والإجراءات التنظيمية. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "regulator": "Capital Market Authority (CMA)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.607307+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "ef1c56678b9432cc",
+    "title": "investment funds compliance guide",
+    "jurisdiction": "Saudi Arabia - CMA",
+    "source_kind": "ministry",
+    "url": "https://cma.gov.sa/RulesRegulations/Guides/Documents/investment-funds-compliance-guide.pdf",
+    "open_url": "https://cma.gov.sa/RulesRegulations/Guides/Documents/investment-funds-compliance-guide.pdf",
+    "source_page": "https://cma.gov.sa/RulesRegulations/Guides",
+    "summary": "investment funds compliance guide. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "key_points": [],
+    "title_en": "investment funds compliance guide",
+    "summary_en": "investment funds compliance guide. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "key_points_en": [],
+    "translate_engine": "same",
+    "topics": [],
+    "document_type": "other",
+    "method": "extractive_unreadable",
+    "summarized_at": "2026-09-07T21:38:51.182464+00:00",
+    "ai_relevance_score": 78,
+    "ai_relevance_category": "high",
+    "ai_document_type": "GUIDANCE",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Strong legal/regulatory keywords in title or summary.",
+    "english_title": "investment funds compliance guide",
+    "english_summary": "investment funds compliance guide. Eva could not extract readable text from this PDF (custom Arabic font encoding).",
+    "regulator": "Capital Market Authority (CMA)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.606755+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "ec302e5cf92b3e53",
+    "title": "Policy on Application of the CPMI IOSCO Principles for Financial Market Infrastructures by SDCs and CCPs ar",
+    "jurisdiction": "Saudi Arabia - CMA",
+    "source_kind": "ministry",
+    "url": "https://cma.gov.sa/RulesRegulations/Guides/Documents/Policy on Application of the CPMI-IOSCO Principles for Financial Market Infrastructures by SDCs and CCPs_ar.pdf",
+    "open_url": "https://cma.gov.sa/RulesRegulations/Guides/Documents/Policy on Application of the CPMI-IOSCO Principles for Financial Market Infrastructures by SDCs and CCPs_ar.pdf",
+    "source_page": "https://cma.gov.sa/RulesRegulations/Guides",
+    "summary": "This is the ۱K Ô‹Ñ—‹ ٤ ÊÍÈ·j= N Kô‹Ñ—‹= issued by CMA. Purpose: Collect applicant details for official processing. Complete every field, sign the declaration, and submit any supporting certificates the form names (for example commercial registration).",
+    "key_points": [
+      "۱K Ô‹Ñ—‹ ٤ ÊÍÈ·j= N Kô‹Ñ—‹=",
+      "Collect applicant details for official processing"
+    ],
+    "title_en": "Policy on Application of the CPMI IOSCO Principles for Financial Market Infrastructures by SDCs and CCPs ar",
+    "summary_en": "This is the ۱K Ô‹Ñ—‹ ٤ ÊÍÈ·j= N Kô‹Ñ—‹= issued by CMA. Purpose: Collect applicant details for official processing. Complete every field, sign the declaration, and submit any supporting certificates the form names (for example commercial registration).",
+    "key_points_en": [
+      "۱K Ô‹Ñ—‹ ٤ ÊÍÈ·j= N Kô‹Ñ—‹=",
+      "Collect applicant details for official processing"
+    ],
+    "translate_engine": "same",
+    "topics": [
+      "form"
+    ],
+    "document_type": "form",
+    "method": "extractive_form",
+    "summarized_at": "2026-09-07T21:38:48.174094+00:00",
+    "ai_relevance_score": 78,
+    "ai_relevance_category": "high",
+    "ai_document_type": "GUIDANCE",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Strong legal/regulatory keywords in title or summary.",
+    "english_title": "Policy on Application of the CPMI IOSCO Principles for Financial Market Infrastructures by SDCs and CCPs ar",
+    "english_summary": "This is the ۱K Ô‹Ñ—‹ ٤ ÊÍÈ·j= N Kô‹Ñ—‹= issued by CMA. Purpose: Collect applicant details for official processing. Complete every field, sign the declaration, and submit any supporting certificates the form names (for example commercial registration).",
+    "regulator": "Capital Market Authority (CMA)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.606539+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "5d4ceb7ae58fa0b9",
+    "title": "Download Capital Market Law Full Version",
+    "jurisdiction": "Saudi Arabia - CMA",
+    "source_kind": "ministry",
+    "url": "https://cma.gov.sa/en/RulesRegulations/CMALaw/Documents/CMA_Law.pdf",
+    "open_url": "https://cma.gov.sa/en/RulesRegulations/CMALaw/Documents/CMA_Law.pdf",
+    "source_page": "https://cma.gov.sa/en/RulesRegulations/CMALaw/Pages/default.aspx",
+    "summary": "CMA Law issued under the Environmental Law. Implemented by Ministry of Finance after deducting all current and capital.",
+    "key_points": [
+      "Regulator: Ministry of Finance after deducting all current and capital"
+    ],
+    "title_en": "Download Capital Market Law Full Version",
+    "summary_en": "CMA Law issued under the Environmental Law. Implemented by Ministry of Finance after deducting all current and capital.",
+    "key_points_en": [
+      "Regulator: Ministry of Finance after deducting all current and capital"
+    ],
+    "translate_engine": "same",
+    "topics": [
+      "regulation",
+      "MEWA",
+      "environment"
+    ],
+    "document_type": "regulation",
+    "method": "extractive_regulation",
+    "summarized_at": "2026-09-07T21:38:45.919931+00:00",
+    "ai_relevance_score": 92,
+    "ai_relevance_category": "critical",
+    "ai_document_type": "REGULATION",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Document type is a law/regulation that typically creates obligations.",
+    "english_title": "Download Capital Market Law Full Version",
+    "english_summary": "CMA Law issued under the Environmental Law. Implemented by Ministry of Finance after deducting all current and capital.",
+    "regulator": "Capital Market Authority (CMA)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.606099+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "c0a78f3abac60cd2",
+    "title": "Commodities Exchange en",
+    "jurisdiction": "Saudi Arabia - CMA",
+    "source_kind": "ministry",
+    "url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Commodities_Exchange__en.pdf",
+    "open_url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Commodities_Exchange__en.pdf",
+    "source_page": "https://cma.gov.sa/en/RulesRegulations/Guides/Pages/default.aspx",
+    "summary": "Commodities Exchange en. Internal - داخل ي The Main Inquiries Received by the Capital Market Authority on the Authorization Applications to Carry Out Commodity Exchange Activities in the Kingdom 2 Internal - داخل ي ▪ ▪ ▪ 3 Internal - داخل ي • • • • 4 Internal - داخل ي 5 Internal - داخل ي 6 Internal - داخل ي 7 Internal - داخل ي",
+    "key_points": [
+      "Internal - داخل ي The Main Inquiries Received by the Capital Market Authority on the Authorization Applications to Carry Out Commodity Exchange Activities in the Kingdom 2 Internal - داخل ي ▪ ▪ ▪ 3 Internal - داخل ي • • • • 4 Internal - داخل ي 5 Internal - داخل ي 6 Internal - داخل ي 7 Internal - داخل ي"
+    ],
+    "title_en": "Commodities Exchange en",
+    "summary_en": "Commodities Exchange en. Internal - داخل ي The Main Inquiries Received by the Capital Market Authority on the Authorization Applications to Carry Out Commodity Exchange Activities in the Kingdom 2 Internal - داخل ي ▪ ▪ ▪ 3 Internal - داخل ي • • • • 4 Internal - داخل ي 5 Internal - داخل ي 6 Internal - داخل ي 7 Internal - داخل ي",
+    "key_points_en": [
+      "Internal - داخل ي The Main Inquiries Received by the Capital Market Authority on the Authorization Applications to Carry Out Commodity Exchange Activities in the Kingdom 2 Internal - داخل ي ▪ ▪ ▪ 3 Internal - داخل ي • • • • 4 Internal - داخل ي 5 Internal - داخل ي 6 Internal - داخل ي 7 Internal - داخل ي"
+    ],
+    "translate_engine": "same",
+    "topics": [
+      "internal",
+      "داخل",
+      "inquiries",
+      "received",
+      "capital",
+      "market"
+    ],
+    "document_type": "other",
+    "method": "extractive",
+    "summarized_at": "2026-09-07T21:38:41.205324+00:00",
+    "ai_relevance_score": 78,
+    "ai_relevance_category": "high",
+    "ai_document_type": "GUIDANCE",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Strong legal/regulatory keywords in title or summary.",
+    "english_title": "Commodities Exchange en",
+    "english_summary": "Commodities Exchange en. Internal - داخل ي The Main Inquiries Received by the Capital Market Authority on the Authorization Applications to Carry Out Commodity Exchange Activities in the Kingdom 2 Internal - داخل ي ▪ ▪ ▪ 3 Internal - داخل ي • • • • 4 Internal - داخل ي 5 Internal - داخل ي 6 Internal - داخل ي 7 Internal - داخل ي",
+    "regulator": "Capital Market Authority (CMA)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.605863+00:00",
+    "score_method": "heuristic"
+  },
+  {
+    "id": "bced25c318446cef",
+    "title": "Secretary of the Board guide",
+    "jurisdiction": "Saudi Arabia - CMA",
+    "source_kind": "ministry",
+    "url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Secretary of the Board guide.pdf",
+    "open_url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Secretary of the Board guide.pdf",
+    "source_page": "https://cma.gov.sa/en/RulesRegulations/Guides/Pages/default.aspx",
+    "summary": "Secretary of the Board guide issued under the Environmental Law. Implemented by CMA. To apply you must submit: The Secretary of the Board must provide the Board members with all information needed in the.",
+    "key_points": [
+      "Regulator: CMA",
+      "Apply with: The Secretary of the Board must provide the Board members with all information needed in the"
+    ],
+    "title_en": "Secretary of the Board guide",
+    "summary_en": "Secretary of the Board guide issued under the Environmental Law. Implemented by CMA. To apply you must submit: The Secretary of the Board must provide the Board members with all information needed in the.",
+    "key_points_en": [
+      "Regulator: CMA",
+      "Apply with: The Secretary of the Board must provide the Board members with all information needed in the"
+    ],
+    "translate_engine": "same",
+    "topics": [
+      "regulation",
+      "MEWA",
+      "environment"
+    ],
+    "document_type": "regulation",
+    "method": "extractive_regulation",
+    "summarized_at": "2026-09-07T21:38:37.311609+00:00",
+    "ai_relevance_score": 92,
+    "ai_relevance_category": "critical",
+    "ai_document_type": "REGULATION",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Document type is a law/regulation that typically creates obligations.",
+    "english_title": "Secretary of the Board guide",
+    "english_summary": "Secretary of the Board guide issued under the Environmental Law. Implemented by CMA. To apply you must submit: The Secretary of the Board must provide the Board members with all information needed in the.",
+    "regulator": "Capital Market Authority (CMA)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-07T21:41:37.605420+00:00",
+    "score_method": "heuristic"
+  },
+  {
     "id": "f61217ddfe0260bb",
     "title": "Environment Week 2026 visual identity guideline (ENVA)",
     "jurisdiction": "Saudi Arabia - MEWA",
@@ -81388,9 +82017,15 @@
       "المســتلم يمكنــه مشــاركة المعلومــات مــع آخريــن في نفــس الجهــة أو جهــة أخــرى عــلى علاقــة معهــم أو في نفــس"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Cyber Resilience Aspects of Business Continuity Management )BCM( 1-3",
+      "Operational Technology Cybersecurity Controls",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "cybersecurity",
       "management",
@@ -81432,9 +82067,15 @@
       "ملحق المنهجية والمواءمة لضوابط الأمن السيبراني للأنظمة التشغيليةإشـــــارة المــــشــــاركــــة: أبــيــض"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Operational Technology Cybersecurity Controls Methodology",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "management",
       "operational",
@@ -81476,9 +82117,15 @@
       "1-20 سياسة أمن قواعد البياناتDatabase Security) لضمان حماية قواعد البيانات ل<اسم"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "cybersecurity",
       "management",
@@ -81520,9 +82167,15 @@
       "نطاقالعمل ............................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match",
       "cybersecurity",
@@ -81564,9 +82217,15 @@
       "الأدوار والمسؤوليات ............................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "security",
       "screen",
@@ -81608,9 +82267,15 @@
       "الأدوار والمسؤوليات ............................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "malware",
       "filtering",
@@ -81652,9 +82317,15 @@
       "الأدوار والمسؤوليات .................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "security",
       "defense",
@@ -81696,9 +82367,15 @@
       "الأدوار والمسؤوليات .................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match",
       "proxy",
@@ -81738,9 +82415,15 @@
       "الأدوار والمسؤوليات ............................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match",
       "chart"
@@ -81778,9 +82461,15 @@
       "بنود السياسة ....................................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "privilege",
       "management",
@@ -81822,9 +82511,15 @@
       "الأدوار والمسؤوليات .................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "event",
       "match",
@@ -81866,9 +82561,15 @@
       "الأدوار والمسؤوليات .................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "management",
       "patch",
@@ -81910,9 +82611,15 @@
       "نطاق العمل ............................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "device",
       "management",
@@ -81954,9 +82661,15 @@
       "بنود السياسة ....................................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "screening",
       "vetting",
@@ -81998,9 +82711,15 @@
       "الأدوار والمسؤوليات .................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match",
       "threat",
@@ -82042,9 +82761,15 @@
       "الأدوار والمسؤوليات .................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "scans",
       "threat",
@@ -82086,9 +82811,15 @@
       "بنود السياسة ....................................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "database",
       "match",
@@ -82130,9 +82861,15 @@
       "الالتزام بالسياسة ......................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "architecture",
       "environment",
@@ -82174,9 +82911,15 @@
       "حوكمة الأمن السيبراني ..........................................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "department",
       "cybersecurity",
@@ -82218,9 +82961,15 @@
       "الغرض ..........................................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "private",
       "advanced",
@@ -82262,9 +83011,15 @@
       "الأدوار والمسؤوليات ...........................................................................................................................13"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "proxy",
       "servers",
@@ -82306,9 +83061,15 @@
       "المعايير ..........................................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "email",
       "client",
@@ -82394,9 +83155,15 @@
       "الأدوار والمسؤوليات .........................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "malware",
       "protection",
@@ -82438,9 +83205,15 @@
       "الأدوار والمسؤوليات ................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "workstations",
       "screen",
@@ -82482,9 +83255,15 @@
       "الغرض ................................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "bootloader",
       "mobile",
@@ -82526,9 +83305,15 @@
       "الأدوار والمسؤوليات .........................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "security",
       "match",
@@ -82570,9 +83355,15 @@
       "الأدوار والمسؤوليات ............................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "servers",
       "server",
@@ -82614,9 +83405,15 @@
       "نطاق العمل ......................................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match",
       "database",
@@ -82658,9 +83455,15 @@
       "الأدوار والمسؤوليات .................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "owner",
       "match",
@@ -82746,9 +83549,15 @@
       "الأدوار والمسؤوليات ................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "owasp",
       "injection",
@@ -82790,9 +83599,15 @@
       "نطاق العمل ............................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "management",
       "analysis",
@@ -82834,9 +83649,15 @@
       "الأدوار والمسؤوليات ............................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match",
       "cloud",
@@ -82877,9 +83698,15 @@
       "الأدوار والمسؤوليات ................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "encryption",
       "https",
@@ -82921,9 +83748,15 @@
       "الأدوار والمسؤوليات .................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "routers",
       "match",
@@ -82964,9 +83797,15 @@
       "الغرض ................................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match",
       "disaster",
@@ -83008,9 +83847,15 @@
       "الأدوار والمسؤوليات ............................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match",
       "infrastructure",
@@ -83052,9 +83897,15 @@
       "<صاحب الصلاحية ............................................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "secure",
       "match",
@@ -83096,9 +83947,15 @@
       "مبادرات ومشاريع الأمن السيبراني Cybersecurity Initiatives and Projects) ..............................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "cybersecurity",
       "vision",
@@ -83140,9 +83997,15 @@
       ")Cybersecurity Incident and Threat Management( المعتمدة في<اسم الجهة>"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "analysis",
       "management",
@@ -83184,9 +84047,15 @@
       "الأدوار والمسؤوليات .........................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match"
     ],
@@ -83223,9 +84092,15 @@
       "مسؤوليتها من استخدام هذا النموذج كما هو، وتؤكد على أن هذا النموذج ما هو إلا مثال توضيحي."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match"
     ],
@@ -83262,9 +84137,15 @@
       "نطاق العمل ......................................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "management",
       "database",
@@ -83306,9 +84187,15 @@
       "الأدوار والمسؤوليات ............................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match"
     ],
@@ -83345,9 +84232,15 @@
       "الأدوار والمسؤوليات ............................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match",
       "masking",
@@ -83389,9 +84282,15 @@
       "الأدوار والمسؤوليات .................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "ssdlc",
       "match"
@@ -83429,9 +84328,15 @@
       "الأدوار والمسؤوليات ............................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match"
     ],
@@ -83468,9 +84373,15 @@
       "التحديث والمراجعة ............................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Roles and responsibilities ............................................................................................................",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match"
     ],
@@ -83507,9 +84418,15 @@
       "الأدوار والمسؤوليات .........................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "restricted",
       "match"
@@ -83547,9 +84464,15 @@
       "التحديث والمراجعة ..............................................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "embedded-url. Purpose ............................................................................................................................................... Scope of work .......................................................................................................................................... Commitment to procedure ................................................................................................................................... Roles and responsibilities ............................................................................................................................... Update and review ...................................................................................................................................",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match",
       "cloud",
@@ -83588,9 +84511,15 @@
       "إرشادات ملاحظات وتوصيات التدقيق ..................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match"
     ],
@@ -83627,9 +84556,15 @@
       "الأدوار والمسؤوليات .........................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "embedded-url. Standards ................................................................................................................................ Compliance with the standard ................................................................................................................................ Purpose ................................................................................................................................ Scope of work ................................................................................................................................ Roles and responsibilities ................................................................................................................................",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Roles and responsibilities ............................................................................................................"
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "attack",
       "security",
@@ -83671,9 +84606,15 @@
       "الغرض ........................................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "asset",
       "physical",
@@ -83715,9 +84656,15 @@
       "الأدوار والمسؤوليات ................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "asset",
       "inventory",
@@ -83759,9 +84706,15 @@
       "الالتزام بالمعيار ......................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "backup",
       "protection",
@@ -83803,9 +84756,15 @@
       "الأدوار والمسؤوليات .............................................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "match",
       "syslog",
@@ -83845,9 +84804,15 @@
       "الالتزام بالمعيار ...................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "5 Preventing information asset data loss",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "information",
       "match",
@@ -83889,9 +84854,15 @@
       "الالتزام بالمعيار ................................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "3 Data in Transit Encryption",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "encryption",
       "https",
@@ -83933,9 +84904,15 @@
       "الأدوار والمسؤوليات ............................................................................................................"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "attacks",
       "service",
@@ -83977,9 +84954,15 @@
       "الأدوار والمسؤوليات ...........................................................................................................................18"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "access",
       "management",
@@ -84021,9 +85004,15 @@
       "الأدوار والمسؤوليات .........................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Standards ...............................................................................................................................",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "traffic",
       "match",
@@ -84065,9 +85054,15 @@
       "الغرض ..........................................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Purpose ..............................................................................................................................."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "security",
       "management",
@@ -84109,9 +85104,15 @@
       "الأدوار والمسؤوليات .........................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "response",
       "match",
@@ -84152,10 +85153,16 @@
       "ﺗﺰوﻳﺪ اﻟﻬﻴﺌﺔ ﺑﺘﻘﺮﻳﺮ ﻋﻦ ﺑﺮﻧﺎﻣﺞ اﻷﻣﻦ اﻟﺴﻴﺒﺮاﻧﻲ ﻟﻤﻘﺪم ﺧﺪﻣﺎت ﻣﺮﻛﺰ ﻋﻤﻠﻴﺎت اﻷﻣﻦ اﻟﺴﻴﺒﺮاﻧﻲ اﻟﻤُﺪَار ﻟﻤﺮاﺟﻌﺘﻪ، ﻋﻠﻰ أن ﻳﻜﻮن اﻟﺘﻘﺮﻳﺮ ﻣﺘﻮاﺋﻤﺎً ﻣﻊ وﺛﻴﻘﺔ",
       "ﺗﻘﺪﻳﻢ ﺗﻘﺮﻳﺮ ﺑﺎﻻﻟﺘﺰام ﺑﺠﻤﻴﻊ اﻟﻤﺘﻄﻠﺒﺎت اﻟﻔﻨﻴﺔ، اﻟﻤﺤﺪدة ﻓﻲ وﺛﻴﻘﺔ )اﻟﻤﺘﻄﻠﺒﺎت اﻟﻔﻨﻴﺔ ﻟﻤﻘﺪﻣﻲ ﺧﺪﻣﺎت ﻣﺮﻛﺰ ﻋﻤﻠﻴﺎت اﻷﻣﻦ اﻟﺴﻴﺒﺮاﻧﻲ اﻟﻤُﺪار( واﺟﺘﻴﺎز"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [],
     "document_type": "other",
     "method": "extractive",
@@ -84278,9 +85285,15 @@
       "تم إنشاء نظام بروتوكول الإشارة الضوئية لمشاركة أكبر قدر من المعلومات الحساسة"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "modelling",
       "report",
@@ -84320,9 +85333,15 @@
       "والـبـحــوث والتطــويـر وعـمـلـيـات الــتـــصـنـــيـع، ونــقــل الـتـقـنـيـة"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [],
     "document_type": "other",
     "method": "extractive",
@@ -84357,9 +85376,15 @@
       "........................................................................................................21"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "........................................................................................................21"
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "cybersecurity",
       "sdaia",
@@ -84401,9 +85426,15 @@
       "المقدمة ..............................................................................................................................................................."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "National Framework for Cybersecurity Information Sharing and Incidents",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "restricted",
       "national",
@@ -84488,9 +85519,15 @@
       "ﺑﺸﺄن ﺗﺤﺪﻳﺜﺎت اﻟﻮﺛﺎﺋﻖ اﻟﺼﺎدرة ﻋﻦ اﻟﻬﻴﺌﺔ اﻟﻮﻃﻨﻴﺔ ﻟﻸﻣﻦ اﻟﺴﻴﺒﺮاﻧﻲ، ﺗﻮد اﻟﻬﻴﺌﺔ"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Oriented Stream Cipher.” In: Robshaw M., Billet O.",
+      "Authenticated encryption with associated data",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "algorithms",
       "cipher",
@@ -84527,10 +85564,12 @@
     "key_points": [
       "إﺻﺪار اﻟﺸﻌﺎر اﻟﻌﻤﻮديإﺻﺪار اﻟﺸﻌﺎر ﻟﻠﻈﻬﻮر ﻳﺴﺎر اﻟﺼﻔﺤﺔإﺻﺪار اﻟﺸﻌﺎر ﻟﻠﻈﻬﻮر ﻳﻤﻴﻦ اﻟﺼﻔﺤﺔ"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "pantone",
       "regular",
@@ -84571,9 +85610,15 @@
       "إنشاء كلمة مرور لضبط صلاحيات وصول طفلك للإعدادات"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "android",
       "store",
@@ -84615,9 +85660,15 @@
       "احـــرص علـــى (إنترنـــت الأشيـــــاء)الأجهـــــزة الذكيــــــــة"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "october"
     ],
@@ -84654,9 +85705,15 @@
       "البريـــد الإلكترونـــي أو منصّـــات التواصـــل الاجتماعـــي أو الرســـائل النصيّـــة"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "The appearance of one or more of these indicators does not necessarily mean that the device has been hacked.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "october"
     ],
@@ -84693,9 +85750,15 @@
       "ﺗﺜﺒﻴﺖ ﻛﺎﻓـــﺔ اﻟﺘﺤــﺪﻳﺜﺎت ﻟﻠﻨﻈﺎم وﻟﻠﺘﻄﺒﻴﻘﺎت ﻟﻤﻌﺎﻟﺠﺔ وإﻏﻼق اﻟﺜﻐﺮات اﻷﻣﻨﻴﺔ."
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Deal cautiously with links and files, especially those of unknown origin.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [],
     "document_type": "other",
     "method": "extractive",
@@ -84730,9 +85793,15 @@
       "إنشاء كلمة مرور لضبط صلاحيات وصول طفلك للإعدادات"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "embedded-url. Towards a safe cyberspace for our children Parental control Cyber awareness guide Create a password to control your child’s access to settings Create A password to set your child's access to settings",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Cyber ​​awareness guide",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "android",
       "store",
@@ -84773,10 +85842,16 @@
       "ةدﺎﻤﻟا ﺔﻨﻣﺎﺜﻟا : ﻊﻣ ةﺎﻋاﺮﻣ ﺎﻣ ﺺﻨﻳ ﻪﻴﻠﻋ مﺎﻈﻨﻟا ﺢﺋاﻮﻠﻟاو ﻲﻓ نﺄﺷ حﺎﺼﻓﻹا ﻦﻋ تﺎﻧﺎﻴﺒﻟا ،ﺔﻴﺼﺨﺸﻟا ﻰﻠﻋ ﺔﻬﺟ ﻢﻜﺤﺘﻟا ﺪﻨﻋ ﺎﻫرﺎﻴﺘﺧا ﺔﻬﺟ ﺔﺠﻟﺎﻌﻤﻟا نأ مﺰﺘﻠﺗ رﺎﻴﺘﺧﺎﺑ ﺔﻬﺠﻟا ﻲﺘﻟا ﺮﻓﻮﺗ تﺎﻧﺎﻤﻀﻟا ﺔﻣزﻼﻟا ﺬﻴﻔﻨﺘﻟ مﺎﻜﺣأ مﺎﻈﻨﻟا ،ﺢﺋاﻮﻠﻟاو ﺎﻬﻴﻠﻋو ﻖﻘﺤﺘﻟا ﻦﻣ ماﺰﺘﻟا ﻚﻠﺗ ﺔﻬﺠﻟا مﺎﻜﺣﺄﺑ مﺎﻈﻨﻟا ،ﺢﺋاﻮﻠﻟاو ﻻو ﻞﺨﻳ ﻚﻟذ ﺎﻬﺗﺎﻴﻟوﺆﺴﻤﺑ هﺎﺠﺗ ﺣﺎﺻ ﺐ تﺎﻧﺎﻴﺒﻟا ﺔﻴﺼﺨﺸﻟا وأ ﺔﻬﺠﻟا ﺔﺼﺘﺨﻤﻟا ﺐﺴﺤﺑ لاﻮﺣﻷا .",
       "ةدﺎﻤﻟا ﺔﺴﻣﺎﺨﻟا : 1- ﺎﻤﻴﻓ اﺪﻋ لاﻮﺣﻷا صﻮﺼﻨﻤﻟا ﺎﻬﻴﻠﻋ ﻲﻓ مﺎﻈﻨﻟا ، ﻻ ﺗزﻮﺠ ﺔﺠﻟﺎﻌﻣ تﺎﻧﺎﻴﺒﻟا ﺔﻴﺼﺨﺸﻟا وأ ﺮﻴﻴﻐﺗ ضﺮﻐﻟا ﻦﻣ ﺎﻬﺘﺠﻟﺎﻌﻣ إﻻَّ ﺪﻌﺑ ﺔﻘﻓاﻮﻣ ﺎﻬﺒﺣﺎﺻ .وﺗُﺒﻴﻦ اﻟﻠﻮاﺋﺢ ﺷﺮوط ،ﺔﻘﻓاﻮﻤﻟا لاﻮﺣﻷاو ﻲﺘﻟا ﺐﺠﻳ ﺎﻬﻴﻓ نأ نﻮﻜﺗ ﺔﻘﻓاﻮﻤﻟا ﺔﺤﻳﺮﺻ ، وطوﺮﺸﻟا مﺎﻜﺣﻷاو ﺔﻘﻠﻌﺘﻤﻟا لﻮﺼﺤﻟﺎﺑ ﻰﻠﻋ ﺔﻘﻓاﻮﻤﻟا ﻦﻣ ﻲﻟﻮﻟا ﻲﻋﺮﺸﻟا اذإ نﺎﻛ ﺐﺣﺎﺻ تﺎﻧﺎﻴﺒﻟا ﺔﻴﺼﺨﺸﻟا ﺺﻗﺎﻧ وأ ﻢﻳﺪﻋ ﺔﻴﻠﻫﻷا ."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know. Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Dhamla 3rd and Norshala: You are trying to get better and better - Including No, my uncle still has nothing to do with it - there is nothing wrong with the people of Tanaiip. Zaffah is a bully, a person who erases a bullshit in our country, I may have been dispersed to the whole year: 1- Risqaq Alatlaa Alaa Tanipla They get - Ambbahiv Tavlmala Yaitbalaa - Ala'laqa Da'na Nkmmn Nevvumla O Nilmaala Redqalabo Mzalala, he started killing Tamla, and he got to Mazalala.",
+      "2- By decision of the head of the competent authority, a committee (or more) of no less than Its members are (three), one of whom is called president, and among them is a specialist I am in Rashtsmo; I think that Lott is waiting for us in Taflakhmla due to a fall Rathnana and Umma Amargala Zosannamla Ahili Raqfala (1) From this, Damla to those By withdrawing Aouna Falakhmla Baktarmla’s attention to Damo, Ahritha came to curse I have always used a delicate dialect and developed a beautiful language.",
+      "Dhamla, for example: My uncle’s aunt is Sunni in Japan. We still haven’t tried to raise a family. About Tanaibla We still have the right to vote, and we still have the right to vote. They tried to talk to him, he's still rude, he still doesn't like it, he still doesn't like it. I tried to do this to my brother, and because of this, he attacked another computer in person. He is used as a sihra for his wife.",
+      "Damla Samakhla: 1- Amiv, call Laloha, Zosanmala, Helei, in Mazanla, do not marry. The people of Tanaibla are not in person, nor are there any people who migrate to the world except the people of the country. The regulations shall stipulate the terms and conditions of Nokat Qaqafumala, Haris, and Torshala Makhalu, Qalatamalla, Laala's Companions If someone has a tanaba, he will identify two people or leave Oh God."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [],
     "document_type": "other",
     "method": "extractive",
@@ -84810,10 +85885,16 @@
       "8- إﺧﻔﺎء اﻟﻬﻮﻳﺔ إزاﻟﺔ اﻟﻤﻌﺮﻓﺎت اﻟﻤﺒﺎﺷﺮة وﻏﻴﺮ اﻟﻤﺒﺎﺷﺮة اﻟﺘﻲ ﺗﺪل ﻋﻠﻰ ﻫﻮﻳﺔ ﺻﺎﺣﺐ اﻟﺒﻴﺎﻧﺎت اﻟﺸﺨﺼﻴﺔ ﺑﺸﻜﻞ",
       "5- ﻋﻠﻰ ﺟﻬﺔ اﻟﺘﺤﻜﻢ اﺗﺨﺎذ اﻹﺟﺮاءات اﻟﺘﻨﻈﻴﻤﻴﺔ واﻹدارﻳﺔ واﻟﺘﻘﻨﻴﺔ اﻟﻤﻨﺎﺳﺒﺔ ﻟﺘﻔﺎدي آﺛﺎر ﻣﻌ ﺎﻟﺠﺔ اﻟﺒﻴﺎﻧﺎت"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "7- Encoding: Converting the main identifiers that indicate the identity of the data owner character into symbols that make it impossible",
+      "The controlling body must take the necessary organizational, administrative and technical measures to ensure the security of Personal data and privacy",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [],
     "document_type": "other",
     "method": "extractive",
@@ -84847,10 +85928,16 @@
       "ﺾﻳﻮﻔﺘﻟا : )ئدﺎﺒﻤﻟا تاذ ﺔﻗﻼﻌﻟا : أﺪﺒﻤﻟا ﻊﺑاﺮﻟا : عﻼﻃﻻا حﺮﺼﻤﻟا ،ﻪﺑ أﺪﺒﻤﻟا ﻊﺑﺎﺴﻟا : ﻦﻣأ تﺎﻧﺎﻴﺒﻟا .( أ- ﺪـﻳﺪـﺤﺗ ﻦﻴﻟﻮﺨﻤﻟا ﺐـﻠﻄﺑ تﺎﻧﺎـﻴﺒﻟا ﺎـﻬﻴﻘﻠﺗو ىﺪﻟ فاﺮﻃأ ﺔـﻴﻠﻤﻋ ﺔﻛرﺎــــــﺸﻤﻟا وﻓﻘـﺎً ﻂﺑاﻮــــــﻀﻟ ماﺪﺨﺘـﺳﻻا لﻮـﺻﻮﻟاو ﻰﻟإ تﺎﻧﺎﻴﺒﻟا ﺔﺤـﺿﻮﻤﻟا ﻲﻓ ﺔـﺳﺎﻴـﺳ ﻒﻴﻨـﺼﺗ ،تﺎﻧﺎﻴﺒﻟا ﻰﻠﻋ نأ ﻢﺘﻳ ﻦﻴﻴﻌﺗ وأ ﺾﻳﻮﻔﺗ ﺺﺨــﺸﻟا ﺐــﺳﺎﻨﻤﻟا –ﺐــﺴﺣ تﻼﻫﺆﻤﻟا ﺐﻳرﺪﺘﻟاو بﻮﻠﻄﻤﻟا – نﺎﻤــﻀﻟ ﻞﻣﺎﻌﺘﻟا ﻊﻣ تﺎﻧﺎﻴﺒﻟا ﻞﻜﺸﺑ لوﺆﺴﻣ .",
       "ب- نأ ﻢﺘﻳ ﺪــﻳﺪــﺤﺗ دﺪــﻋ تاﺮﻣ ﺔــﻛرﺎــــــــﺸﻣ ،تﺎــﻧﺎــﻴﺒﻟا تﺎــﺒﻠﻄﺘﻤﻟاو ﺔــﻣزﻼﻟا ،ﺔــﻌﺟاﺮﻤﻠﻟ ءاﺮﺟإو ،تﻼﻳﺪﻌﺘﻟا تاءاﺮﺟﻹاو ﻲﺘﻟا ﻢﺘﻴـﺳ ﺎﻫذﺎﺨﺗا ﺪﻨﻋ ءﺎﻬﺘﻧا ﺔﻴﻗﺎﻔﺗﻻا )ﻞﺜﻣ ءﺎﻔﺧإ ﺔﻳﻮﻫ بﺎﺤــﺻأ تﺎﻧﺎﻴﺒﻟا وأ ءﺎﻐﻟإ لﻮﺻﻮﻟا ﻰﻟإ تﺎﻧﺎﻴﺒﻟا وأ ﺎﻬﻓﻼﺗإ .( ج- نأ ﻢﺘﻳ ﺪﻳﺪﺤﺗ فاﺮﻃﻷا ﻦﻳﺬﻟا ﻖﺤﻳ ﻢﻬﻟ ءﺎﻬﻧإ ﺔﻛرﺎــــــﺸﻣ تﺎﻧﺎﻴﺒﻟا ﻞﺒﻗ ﺦﻳرﺎﺘﻟا ﻖﻔﺘﻤﻟا ،ﻪﻴﻠﻋ ﺪﻨﺘﺴﻤﻟاو ،ﻲﻣﺎﻈﻨﻟا ةﺮﺘﻓو رﺎﻌﺷﻹا حﻮﻤﺴﻤﻟا ﺎﻬﺑ ."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Data sharing policy",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know. Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "I thought this was a joke, I don't think so. It's a shame that uncle Muqaddam Baltala was hacked, oh, he's a bastard, or he's a bastard. Lamshio Kallajasla tells the captors of Derbla Enortkla Tanayblau Nzakmla to Ataasula, Enortakla, Atracha, Tousla, Aoedifla, or Tarakhla or Arsala Evargotovla or Atatukhamla or Aqathula Butukamla Khathab, Dila or Aya Akash-e-Kharkh-e-Nam Laksha Tanaibla for the body.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "B- What did you say? Ajjarmalla Arajjao, Talaidla Taarajlaa, Mtisa recites these letters, don't Our end is to stop them (then we will blow it up with a tannibal meter or two until we reach... Tanaypla or Ahvalata. (c) You are the most disgraceful and disgraceful to your brother. What's wrong with you? Rise up and go again."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [],
     "document_type": "other",
     "method": "extractive",
@@ -84885,9 +85972,15 @@
       "وﺿــ\u0000ن اﻟﺘﻌﺎﻣﻞ ﺑﺸــﻜﻞ آﻣﻦ ﻣﻊ اﳌﻌﻠﻮﻣﺎت اﻟﺤﺴــﺎﺳــﺔ واﳌﻌﻠﻮﻣﺎت اﻟﺨﺎﺻــﺔ ﺑﺄﻋ\u0000ل اﻟﺠﻬﺔ وﺣ\u0000ﻳﺘﻬﺎ أﺛﻨﺎء اﻟﻨﻘﻞ واﻟﺘﺨﺰﻳﻦ"
     ],
     "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Cybersecurity Awareness and Training Program)",
+      "Cybersecurity Awareness and Training Program",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "cybersecurity",
       "management",
