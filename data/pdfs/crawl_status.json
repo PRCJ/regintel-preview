@@ -1,19 +1,14 @@
 {
-  "updated_at": "2026-08-20T14:39:11.845889+00:00",
-  "phase": "discovering",
-  "message": "discovering ia.gov.sa: pages=50 listed=0",
-  "run_id": "32378936273",
-  "github_run_url": "https://github.com/tmai-tech/regintel/actions/runs/32378936273",
+  "updated_at": "2026-09-07T20:32:14.233698+00:00",
+  "phase": "idle",
+  "message": "merged 17 ministry PDFs from parallel crawl",
+  "run_id": "34157068780",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/34157068780",
   "totals": {
-    "pdfs": 2063,
+    "pdfs": 2080,
     "errors": 22131,
     "source_reports": 53,
-    "jurisdictions": 14,
-    "ministry_listed": 0,
-    "ministry_downloaded": 0,
-    "ministry_failed": 0,
-    "ministry_scanned": 0,
-    "ministry_to_download": 0
+    "jurisdictions": 14
   },
   "by_jurisdiction": [
     {
@@ -42,7 +37,7 @@
     },
     {
       "jurisdiction": "Saudi Arabia - CMA",
-      "count": 50
+      "count": 62
     },
     {
       "jurisdiction": "Saudi Arabia - SASO",
@@ -61,12 +56,12 @@
       "count": 10
     },
     {
-      "jurisdiction": "Saudi Arabia - SAMA",
+      "jurisdiction": "Saudi Arabia - MOJ",
       "count": 9
     },
     {
-      "jurisdiction": "Saudi Arabia - MOJ",
-      "count": 4
+      "jurisdiction": "Saudi Arabia - SAMA",
+      "count": 9
     },
     {
       "jurisdiction": "British Columbia",
@@ -76,124 +71,114 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2063
+      "count": 2080
     }
   ],
-  "current_source": {
-    "jurisdiction": "Saudi Arabia - IA",
-    "url": "https://www.ia.gov.sa/",
-    "source_kind": "ministry_pipeline",
-    "listed": 0,
-    "downloaded": 0,
-    "download_failed": 0,
-    "scanned_pdf": 0,
-    "to_download": 0,
-    "pages_visited": 50
-  },
+  "current_source": null,
   "recent_pdfs": [
     {
-      "title": "Rules of Professional Conduct for Lawyers.pdf",
+      "title": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Secretary of the Board guide.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Secretary of the Board guide.pdf",
+      "downloaded_at": "2026-09-07T19:58:21.396502+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Commodities_Exchange__en.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Commodities_Exchange__en.pdf",
+      "downloaded_at": "2026-09-07T19:58:08.250773+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download Capital Market Law Full Version",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/en/RulesRegulations/CMALaw/Documents/CMA_Law.pdf",
+      "downloaded_at": "2026-09-07T19:57:51.690499+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Guides/Documents/Policy on Application of the CPMI-IOSCO Principles for Financial Ma",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Guides/Documents/Policy on Application of the CPMI-IOSCO Principles for Financial Market Infrastructures by SDCs and CCPs_ar.pdf",
+      "downloaded_at": "2026-09-07T19:55:13.428620+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Guides/Documents/investment-funds-compliance-guide.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Guides/Documents/investment-funds-compliance-guide.pdf",
+      "downloaded_at": "2026-09-07T19:55:12.551356+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/MediaCenter/PR/Documents/المسودة%20النهائية%20لمشروع%20الضوابط%20والإجراءات%20التنظيمية.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/MediaCenter/PR/Documents/المسودة%20النهائية%20لمشروع%20الضوابط%20والإجراءات%20التنظيمية.pdf",
+      "downloaded_at": "2026-09-07T19:55:11.346920+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-for-Registering-Auditors-of-Entities-ar.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-for-Registering-Auditors-of-Entities-ar.pdf",
+      "downloaded_at": "2026-09-07T19:55:10.135734+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-on-the-Offer-of-Securities-and-Continuing-Obligations-ar.",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-on-the-Offer-of-Securities-and-Continuing-Obligations-ar.pdf",
+      "downloaded_at": "2026-09-07T19:55:09.257322+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Regulatory-Framework-for-Equity-Crowdfunding-ar.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Regulatory-Framework-for-Equity-Crowdfunding-ar.pdf",
+      "downloaded_at": "2026-09-07T19:55:04.921903+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20to%20the%20Implementing%20Regulation",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20to%20the%20Implementing%20Regulation%20of%20the%20Companies%20Law%20for%20Listed%20Joint%20Stock%20Companies_AR.pdf",
+      "downloaded_at": "2026-09-07T19:55:03.385451+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Capital%20Market%20Instit",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Capital%20Market%20Institutions%20Regulations%20and%20Investment%20Accounts%20Instructions_ar.pdf",
+      "downloaded_at": "2026-09-07T19:55:02.817978+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Investment%20Accounts%20I",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Investment%20Accounts%20Instructions%20and%20the%20Rules%20for%20Foreign%20Investment%20in%20Securities%20and_ar.pdf",
+      "downloaded_at": "2026-09-07T19:55:02.249036+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/96.pdf",
       "jurisdiction": "Saudi Arabia - MOJ",
-      "url": "https://moj.gov.sa/Documents/Regulations/pdf/En/Rules%20of%20Professional%20Conduct%20for%20Lawyers.pdf",
-      "downloaded_at": "2026-08-20T14:16:15.214483+00:00",
+      "url": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/96.pdf",
+      "downloaded_at": "2026-09-07T19:51:25.035837+00:00",
       "source_kind": "ministry"
     },
     {
-      "title": "96.pdf",
+      "title": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/09.pdf",
       "jurisdiction": "Saudi Arabia - MOJ",
-      "url": "https://moj.gov.sa/Documents/Regulations/pdf/En/96.pdf",
-      "downloaded_at": "2026-08-20T14:16:14.239640+00:00",
+      "url": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/09.pdf",
+      "downloaded_at": "2026-09-07T19:51:24.611279+00:00",
       "source_kind": "ministry"
     },
     {
-      "title": "09.pdf",
+      "title": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/50.pdf",
       "jurisdiction": "Saudi Arabia - MOJ",
-      "url": "https://moj.gov.sa/Documents/Regulations/pdf/En/09.pdf",
-      "downloaded_at": "2026-08-20T14:16:13.557187+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "50.pdf",
-      "jurisdiction": "Saudi Arabia - MOJ",
-      "url": "https://moj.gov.sa/Documents/Regulations/pdf/En/50.pdf",
-      "downloaded_at": "2026-08-20T14:16:10.186236+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "r1425.pdf",
-      "jurisdiction": "Saudi Arabia - SASO",
-      "url": "https://saso.gov.sa/ar/mediacenter/AnnualReports/r1425.pdf",
-      "downloaded_at": "2026-08-17T14:50:47.649727+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "report saso Final 2014",
-      "jurisdiction": "Saudi Arabia - SASO",
-      "url": "https://saso.gov.sa/ar/mediacenter/AnnualReports/report%20saso%20Final%202014.pdf",
-      "downloaded_at": "2026-08-17T13:15:37.740937+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "SASO Annual Report 1436-1435",
-      "jurisdiction": "Saudi Arabia - SASO",
-      "url": "https://saso.gov.sa/ar/mediacenter/AnnualReports/SASO%20Annual%20Report%201436-1435.pdf",
-      "downloaded_at": "2026-08-17T12:44:41.215427+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "SASO annual report 2019+1",
-      "jurisdiction": "Saudi Arabia - SASO",
-      "url": "https://saso.gov.sa/ar/mediacenter/AnnualReports/SASO%20annual%20report%202019+1.pdf",
-      "downloaded_at": "2026-08-17T12:32:43.097097+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "SASO-Report-2021-Spread1",
-      "jurisdiction": "Saudi Arabia - SASO",
-      "url": "https://saso.gov.sa/ar/mediacenter/AnnualReports/SASO-Report-2021-Spread1.pdf",
-      "downloaded_at": "2026-08-17T12:01:50.910104+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "r1428",
-      "jurisdiction": "Saudi Arabia - SASO",
-      "url": "https://saso.gov.sa/ar/mediacenter/AnnualReports/r1428.pdf",
-      "downloaded_at": "2026-08-16T17:39:46.670367+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "r1430",
-      "jurisdiction": "Saudi Arabia - SASO",
-      "url": "https://saso.gov.sa/ar/mediacenter/AnnualReports/r1430.pdf",
-      "downloaded_at": "2026-08-16T17:14:52.641062+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "r1431",
-      "jurisdiction": "Saudi Arabia - SASO",
-      "url": "https://saso.gov.sa/ar/mediacenter/AnnualReports/r1431.pdf",
-      "downloaded_at": "2026-08-16T16:45:54.489823+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "r1432",
-      "jurisdiction": "Saudi Arabia - SASO",
-      "url": "https://saso.gov.sa/ar/mediacenter/AnnualReports/r1432.pdf",
-      "downloaded_at": "2026-08-16T16:05:08.175233+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "r1433",
-      "jurisdiction": "Saudi Arabia - SASO",
-      "url": "https://saso.gov.sa/ar/mediacenter/AnnualReports/r1433.pdf",
-      "downloaded_at": "2026-08-16T15:59:12.689990+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "SASO_Annual__Report_2015-2",
-      "jurisdiction": "Saudi Arabia - SASO",
-      "url": "https://saso.gov.sa/ar/mediacenter/AnnualReports/SASO_Annual__Report_2015-2.pdf",
-      "downloaded_at": "2026-08-16T15:48:02.805642+00:00",
+      "url": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/50.pdf",
+      "downloaded_at": "2026-09-07T19:51:23.984716+00:00",
       "source_kind": "ministry"
     }
   ],
@@ -350,24 +335,5 @@
     "pdfs_rejected_junk": 0,
     "errors": 14
   },
-  "manifest_generated_at": "2026-08-20T14:16:17.999771+00:00",
-  "ministry_document_list": {
-    "label": "Saudi Arabia - IA",
-    "target_url": "https://www.ia.gov.sa/",
-    "counts": {
-      "to_download": 0,
-      "downloaded": 0,
-      "download_failed": 0,
-      "scanned_pdf": 0,
-      "listed_total": 0
-    },
-    "discovery_methods": {},
-    "pages_visited": 50,
-    "sitemaps_used": [
-      "https://ia.gov.sa/_layouts/15/sitemap.aspx"
-    ],
-    "datasources_found": 94,
-    "list_file": "data/ministry_document_list.json",
-    "updated_at": "2026-08-20T14:39:09.171741+00:00"
-  }
+  "manifest_generated_at": "2026-08-20T14:16:17.999771+00:00"
 }

@@ -1,30 +1,27 @@
 {
-  "updated_at": "2026-08-20T16:23:17.082634+00:00",
+  "updated_at": "2026-09-07T20:32:14.233698+00:00",
   "phase": "idle",
-  "message": "Saudi ministries · 1704 PDFs · 1897 summaries",
+  "message": "merged 17 ministry PDFs from parallel crawl",
+  "run_id": "34157068780",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/34157068780",
   "totals": {
-    "pdfs": 1704,
-    "errors": 0,
-    "source_reports": 0,
-    "jurisdictions": 14,
-    "ministry_listed": 0,
-    "ministry_downloaded": 0,
-    "ministry_failed": 0,
-    "ministry_scanned": 0,
-    "ministry_to_download": 0
+    "pdfs": 2080,
+    "errors": 22131,
+    "source_reports": 53,
+    "jurisdictions": 14
   },
   "by_jurisdiction": [
     {
       "jurisdiction": "Saudi Arabia - SDAIA",
-      "count": 572
+      "count": 860
     },
     {
       "jurisdiction": "Saudi Arabia - MEWA",
-      "count": 306
+      "count": 365
     },
     {
       "jurisdiction": "Saudi Arabia - MOMAH",
-      "count": 297
+      "count": 307
     },
     {
       "jurisdiction": "Saudi Arabia - MC",
@@ -36,11 +33,11 @@
     },
     {
       "jurisdiction": "Saudi Arabia - ZATCA",
-      "count": 92
+      "count": 93
     },
     {
       "jurisdiction": "Saudi Arabia - CMA",
-      "count": 50
+      "count": 62
     },
     {
       "jurisdiction": "Saudi Arabia - SASO",
@@ -48,7 +45,7 @@
     },
     {
       "jurisdiction": "Saudi Arabia - GOSI",
-      "count": 31
+      "count": 32
     },
     {
       "jurisdiction": "Saudi Arabia - MOF",
@@ -59,12 +56,12 @@
       "count": 10
     },
     {
-      "jurisdiction": "Saudi Arabia - SAMA",
+      "jurisdiction": "Saudi Arabia - MOJ",
       "count": 9
     },
     {
-      "jurisdiction": "Saudi Arabia - MOJ",
-      "count": 4
+      "jurisdiction": "Saudi Arabia - SAMA",
+      "count": 9
     },
     {
       "jurisdiction": "British Columbia",
@@ -74,26 +71,269 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 1704
+      "count": 2080
     }
   ],
   "current_source": null,
-  "recent_pdfs": [],
-  "last_source_reports": [],
-  "stats": {},
-  "ministry_document_list": {
-    "label": "Saudi Arabia - IA",
-    "target_url": "https://www.ia.gov.sa/",
-    "counts": {
-      "to_download": 0,
-      "downloaded": 0,
-      "download_failed": 0,
-      "scanned_pdf": 0,
-      "listed_total": 0
+  "recent_pdfs": [
+    {
+      "title": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Secretary of the Board guide.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Secretary of the Board guide.pdf",
+      "downloaded_at": "2026-09-07T19:58:21.396502+00:00",
+      "source_kind": "ministry"
     },
-    "discovery_methods": {},
-    "pages_visited": 50,
-    "list_file": "data/ministry_document_list.json",
-    "updated_at": "2026-08-20T14:39:09.171234+00:00"
-  }
+    {
+      "title": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Commodities_Exchange__en.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Commodities_Exchange__en.pdf",
+      "downloaded_at": "2026-09-07T19:58:08.250773+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download Capital Market Law Full Version",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/en/RulesRegulations/CMALaw/Documents/CMA_Law.pdf",
+      "downloaded_at": "2026-09-07T19:57:51.690499+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Guides/Documents/Policy on Application of the CPMI-IOSCO Principles for Financial Ma",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Guides/Documents/Policy on Application of the CPMI-IOSCO Principles for Financial Market Infrastructures by SDCs and CCPs_ar.pdf",
+      "downloaded_at": "2026-09-07T19:55:13.428620+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Guides/Documents/investment-funds-compliance-guide.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Guides/Documents/investment-funds-compliance-guide.pdf",
+      "downloaded_at": "2026-09-07T19:55:12.551356+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/MediaCenter/PR/Documents/المسودة%20النهائية%20لمشروع%20الضوابط%20والإجراءات%20التنظيمية.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/MediaCenter/PR/Documents/المسودة%20النهائية%20لمشروع%20الضوابط%20والإجراءات%20التنظيمية.pdf",
+      "downloaded_at": "2026-09-07T19:55:11.346920+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-for-Registering-Auditors-of-Entities-ar.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-for-Registering-Auditors-of-Entities-ar.pdf",
+      "downloaded_at": "2026-09-07T19:55:10.135734+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-on-the-Offer-of-Securities-and-Continuing-Obligations-ar.",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-on-the-Offer-of-Securities-and-Continuing-Obligations-ar.pdf",
+      "downloaded_at": "2026-09-07T19:55:09.257322+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Regulatory-Framework-for-Equity-Crowdfunding-ar.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Regulatory-Framework-for-Equity-Crowdfunding-ar.pdf",
+      "downloaded_at": "2026-09-07T19:55:04.921903+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20to%20the%20Implementing%20Regulation",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20to%20the%20Implementing%20Regulation%20of%20the%20Companies%20Law%20for%20Listed%20Joint%20Stock%20Companies_AR.pdf",
+      "downloaded_at": "2026-09-07T19:55:03.385451+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Capital%20Market%20Instit",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Capital%20Market%20Institutions%20Regulations%20and%20Investment%20Accounts%20Instructions_ar.pdf",
+      "downloaded_at": "2026-09-07T19:55:02.817978+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Investment%20Accounts%20I",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Investment%20Accounts%20Instructions%20and%20the%20Rules%20for%20Foreign%20Investment%20in%20Securities%20and_ar.pdf",
+      "downloaded_at": "2026-09-07T19:55:02.249036+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/96.pdf",
+      "jurisdiction": "Saudi Arabia - MOJ",
+      "url": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/96.pdf",
+      "downloaded_at": "2026-09-07T19:51:25.035837+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/09.pdf",
+      "jurisdiction": "Saudi Arabia - MOJ",
+      "url": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/09.pdf",
+      "downloaded_at": "2026-09-07T19:51:24.611279+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/50.pdf",
+      "jurisdiction": "Saudi Arabia - MOJ",
+      "url": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/50.pdf",
+      "downloaded_at": "2026-09-07T19:51:23.984716+00:00",
+      "source_kind": "ministry"
+    }
+  ],
+  "last_source_reports": [
+    {
+      "jurisdiction": "Saudi Arabia - Nazaha",
+      "source_kind": "ministry",
+      "source_url": "https://nazaha.gov.sa",
+      "pages_crawled": 1,
+      "js_pages": 0,
+      "pdfs_candidates": 0,
+      "pdfs_downloaded": 0,
+      "error": "[1] ERROR https://nazaha.gov.sa -> [Errno 101] Network is unreachable"
+    },
+    {
+      "jurisdiction": "Saudi Arabia - SAIP",
+      "source_kind": "ministry",
+      "source_url": "https://www.saip.gov.sa",
+      "pages_crawled": 210,
+      "js_pages": 11,
+      "pdfs_candidates": 73,
+      "pdfs_downloaded": 0,
+      "error": null
+    },
+    {
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "site",
+      "source_url": "https://sdaia.gov.sa",
+      "pages_crawled": 400,
+      "js_pages": 58,
+      "pdfs_candidates": 243,
+      "pdfs_regulatory": 0,
+      "pdfs_rejected_junk": 0,
+      "pdfs_downloaded": 150,
+      "error": null
+    },
+    {
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "site",
+      "source_url": "https://sdaia.gov.sa/en",
+      "pages_crawled": 400,
+      "js_pages": 40,
+      "pdfs_candidates": 328,
+      "pdfs_regulatory": 0,
+      "pdfs_rejected_junk": 0,
+      "pdfs_downloaded": 66,
+      "error": null
+    },
+    {
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "site",
+      "source_url": "https://sdaia.gov.sa/ar",
+      "pages_crawled": 400,
+      "js_pages": 58,
+      "pdfs_candidates": 243,
+      "pdfs_regulatory": 0,
+      "pdfs_rejected_junk": 0,
+      "pdfs_downloaded": 0,
+      "error": null
+    },
+    {
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "site",
+      "source_url": "https://sdaia.gov.sa/en/SDAIA/about/Documents/",
+      "pages_crawled": 1,
+      "js_pages": 1,
+      "pdfs_candidates": 0,
+      "pdfs_regulatory": 0,
+      "pdfs_rejected_junk": 0,
+      "pdfs_downloaded": 0,
+      "error": null
+    },
+    {
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "site",
+      "source_url": "https://sdaia.gov.sa/ar/SDAIA/about/Documents/",
+      "pages_crawled": 1,
+      "js_pages": 1,
+      "pdfs_candidates": 0,
+      "pdfs_regulatory": 0,
+      "pdfs_rejected_junk": 0,
+      "pdfs_downloaded": 0,
+      "error": null
+    },
+    {
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "site",
+      "source_url": "https://sdaia.gov.sa/Documents/",
+      "pages_crawled": 1,
+      "js_pages": 1,
+      "pdfs_candidates": 0,
+      "pdfs_regulatory": 0,
+      "pdfs_rejected_junk": 0,
+      "pdfs_downloaded": 0,
+      "error": null
+    },
+    {
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "site",
+      "source_url": "https://sdaia.gov.sa/ndmo/Files/",
+      "pages_crawled": 1,
+      "js_pages": 1,
+      "pdfs_candidates": 0,
+      "pdfs_regulatory": 0,
+      "pdfs_rejected_junk": 0,
+      "pdfs_downloaded": 0,
+      "error": null
+    },
+    {
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "site",
+      "source_url": "https://dgp.sdaia.gov.sa/",
+      "pages_crawled": 262,
+      "js_pages": 44,
+      "pdfs_candidates": 102,
+      "pdfs_regulatory": 0,
+      "pdfs_rejected_junk": 0,
+      "pdfs_downloaded": 0,
+      "error": "possible_rate_limit"
+    },
+    {
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "site",
+      "source_url": "https://sdaia.gov.sa/en/SDAIA/about/",
+      "pages_crawled": 400,
+      "js_pages": 41,
+      "pdfs_candidates": 328,
+      "pdfs_regulatory": 0,
+      "pdfs_rejected_junk": 0,
+      "pdfs_downloaded": 0,
+      "error": null
+    },
+    {
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "site",
+      "source_url": "https://sdaia.gov.sa/ar/SDAIA/about/",
+      "pages_crawled": 400,
+      "js_pages": 57,
+      "pdfs_candidates": 243,
+      "pdfs_regulatory": 0,
+      "pdfs_rejected_junk": 0,
+      "pdfs_downloaded": 0,
+      "error": null
+    }
+  ],
+  "stats": {
+    "sources_visited": 10,
+    "pages_crawled": 2266,
+    "js_pages": 302,
+    "pdfs_discovered": 216,
+    "pdfs_downloaded": 216,
+    "pdfs_skipped_existing": 1257,
+    "pdfs_capped": 0,
+    "pdfs_rejected_junk": 0,
+    "errors": 14
+  },
+  "manifest_generated_at": "2026-08-20T14:16:17.999771+00:00"
 }
