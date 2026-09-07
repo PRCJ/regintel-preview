@@ -2,6 +2,25 @@
 
 BCI regulatory / legal-act intelligence: **Python collector** + **Kotlin Android app** on **Firebase App Distribution** + **iOS-friendly web UI** on GitHub Pages (same Firebase pattern as [RoomCraft](https://github.com/tmai-tech/RoomCraft)).
 
+## Team preview (Rhandar-level drop)
+
+Production Pages is unchanged. Share these with testers:
+
+| What | Link |
+|------|------|
+| **Live preview** | https://roomcraft-e1312--rhandar-level-56hqwy9h.web.app |
+| **GitHub (clone / PRs)** | https://github.com/PRCJ/regintel-preview |
+| **GitHub Pages** | https://prcj.github.io/regintel-preview/ |
+| Tests | [docs/TESTING.md](docs/TESTING.md) |
+
+```bash
+git clone https://github.com/PRCJ/regintel-preview.git
+cd regintel-preview
+.venv/bin/pip install -r requirements-dev.txt   # after creating the venv
+.venv/bin/pytest
+cd e2e && npm install && npx playwright install --with-deps chromium && npm test
+```
+
 ## Get the app
 
 | Platform | How |

@@ -954,6 +954,10 @@ a.link:hover { text-decoration: underline; }
   align-items: stretch;
   margin-bottom: 8px;
 }
+.crawl-bar[hidden],
+.crawl-status[hidden] {
+  display: none !important;
+}
 .crawl-bar input {
   flex: 1 1 auto;
   min-width: 0;

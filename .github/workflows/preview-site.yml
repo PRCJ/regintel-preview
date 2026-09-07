@@ -1,0 +1,40 @@
+# Publishes web/ for the team preview repo (PRCJ/regintel-preview).
+# Does not replace tmai-tech production Pages unless this workflow exists there too;
+# path filter + environment name keep it isolated.
+name: Preview site (web/)
+
+on:
+  push:
+    branches: [main, preview/rhandar-level]
+    paths:
+      - "web/**"
+      - ".github/workflows/preview-site.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: preview-site
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+      - id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Print URL
+        run: |
+          echo "### Team preview" >> "$GITHUB_STEP_SUMMARY"
+          echo "${{ steps.deployment.outputs.page_url }}" >> "$GITHUB_STEP_SUMMARY"
