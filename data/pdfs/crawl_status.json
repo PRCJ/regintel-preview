@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-08T05:03:12.530480+00:00",
+  "updated_at": "2026-09-08T13:31:49.445883+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "34186603567",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/34186603567",
+  "message": "merged 13 ministry PDFs from parallel crawl",
+  "run_id": "34228268311",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/34228268311",
   "totals": {
-    "pdfs": 2080,
+    "pdfs": 2093,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -13,7 +13,7 @@
   "by_jurisdiction": [
     {
       "jurisdiction": "Saudi Arabia - SDAIA",
-      "count": 860
+      "count": 873
     },
     {
       "jurisdiction": "Saudi Arabia - MEWA",
@@ -71,11 +71,102 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2080
+      "count": 2093
     }
   ],
   "current_source": null,
   "recent_pdfs": [
+    {
+      "title": "Download File",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/047a4149-ba11-4919-9341-260164125ba5/The+Rules+Governing+the+National+Register+of+Controllers+Within+the+Kingdom.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-047a4149-ba11-4919-9341-260164125ba5-q1h55or",
+      "downloaded_at": "2026-09-08T13:03:13.957695+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download File",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/1f2c6774-2afe-41b4-b96b-4762c5c71b00/Guidelines+for+Binding+Common+Rules+%28BCR%29+For+Personal+Data+Transfer.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-1f2c6774-2afe-41b4-b96b-4762c5c71b00-q1h57D6",
+      "downloaded_at": "2026-09-08T13:03:12.357192+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download File",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/16aec46f-ea3d-47f6-8e0d-e49ffa2349d5/Risk+Assessment+Guideline+for+Transferring+Personal+Data+Outside+the+Kingdom.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-16aec46f-ea3d-47f6-8e0d-e49ffa2349d5-q1h56hw",
+      "downloaded_at": "2026-09-08T13:03:08.855791+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download File",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/19ec3250-16a6-47c7-8e8c-b8e1d6f86633/Personal+Data+Processing+Activities+Records+Guideline.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-19ec3250-16a6-47c7-8e8c-b8e1d6f86633-q1h57wD",
+      "downloaded_at": "2026-09-08T13:03:00.173803+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download File",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/1d3217bd-64b2-4e87-86a1-f0d094712cd4/Personal+Data+Disclosure+Cases+Guideline.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-1d3217bd-64b2-4e87-86a1-f0d094712cd4-q1h53Fx",
+      "downloaded_at": "2026-09-08T13:02:53.219337+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download File",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/26a4b6a4-121f-4dc1-b22a-08b5f71ce101/Personal+Data+Destruction%2C+Anonymization%2C+and+Encryption+Guideline.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-26a4b6a4-121f-4dc1-b22a-08b5f71ce101-q1h56aq",
+      "downloaded_at": "2026-09-08T13:02:46.439067+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download File",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/f579bc32-fda8-47bd-bc6f-66b8cb77985c/ENG-Guide+to+the+saudi+PDP+law+for+controllersprocessors.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-f579bc32-fda8-47bd-bc6f-66b8cb77985c-q1h56Hb",
+      "downloaded_at": "2026-09-08T13:02:39.658178+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download File",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/affd3916-0c4d-46e9-bb66-613a860fd541/Minimum+Personal+Data+Determination+Guideline.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-affd3916-0c4d-46e9-bb66-613a860fd541-q1h57pz",
+      "downloaded_at": "2026-09-08T13:02:35.968790+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download File",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/3125da48-43dd-46bc-9156-1f7b91ab8f54/Elaboration+and+Developing+Privacy+Policy+Guideline.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-3125da48-43dd-46bc-9156-1f7b91ab8f54-q1h53Ml",
+      "downloaded_at": "2026-09-08T13:02:28.274080+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download File",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/2a9a4744-a2ae-444f-bad2-6dacde843637/The+impelementing+regulation+of+the+personal+data+protection+law.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-2a9a4744-a2ae-444f-bad2-6dacde843637-q1h56nV",
+      "downloaded_at": "2026-09-08T13:02:23.207806+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download File",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/b5d1907f-1b54-469d-8609-204ede2fa928/Data+Sharing+Policy.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-b5d1907f-1b54-469d-8609-204ede2fa928-q1h54DW",
+      "downloaded_at": "2026-09-08T13:02:20.741815+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download File",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/381e1ec2-9a51-42a9-94ff-18cfb4d46e26/Rules+Governing+the+Issuance+of+Accreditation+Certificates+for+Controllers+and+Processers.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-381e1ec2-9a51-42a9-94ff-18cfb4d46e26-q1h54yH",
+      "downloaded_at": "2026-09-08T13:01:50.424871+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download File",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/e5bbede0-1119-4f70-b4ef-f043ce58d780/Regulation+on+Personal+Data+Transfer+Outside+the+Kingdom..pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-e5bbede0-1119-4f70-b4ef-f043ce58d780-q1h54UK",
+      "downloaded_at": "2026-09-08T13:01:49.020338+00:00",
+      "source_kind": "ministry"
+    },
     {
       "title": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Secretary of the Board guide.pdf",
       "jurisdiction": "Saudi Arabia - CMA",
@@ -88,97 +179,6 @@
       "jurisdiction": "Saudi Arabia - CMA",
       "url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Commodities_Exchange__en.pdf",
       "downloaded_at": "2026-09-07T19:58:08.250773+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download Capital Market Law Full Version",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/en/RulesRegulations/CMALaw/Documents/CMA_Law.pdf",
-      "downloaded_at": "2026-09-07T19:57:51.690499+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://cma.gov.sa/RulesRegulations/Guides/Documents/Policy on Application of the CPMI-IOSCO Principles for Financial Ma",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/RulesRegulations/Guides/Documents/Policy on Application of the CPMI-IOSCO Principles for Financial Market Infrastructures by SDCs and CCPs_ar.pdf",
-      "downloaded_at": "2026-09-07T19:55:13.428620+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://cma.gov.sa/RulesRegulations/Guides/Documents/investment-funds-compliance-guide.pdf",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/RulesRegulations/Guides/Documents/investment-funds-compliance-guide.pdf",
-      "downloaded_at": "2026-09-07T19:55:12.551356+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://cma.gov.sa/MediaCenter/PR/Documents/المسودة%20النهائية%20لمشروع%20الضوابط%20والإجراءات%20التنظيمية.pdf",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/MediaCenter/PR/Documents/المسودة%20النهائية%20لمشروع%20الضوابط%20والإجراءات%20التنظيمية.pdf",
-      "downloaded_at": "2026-09-07T19:55:11.346920+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-for-Registering-Auditors-of-Entities-ar.pdf",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-for-Registering-Auditors-of-Entities-ar.pdf",
-      "downloaded_at": "2026-09-07T19:55:10.135734+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-on-the-Offer-of-Securities-and-Continuing-Obligations-ar.",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Rules-on-the-Offer-of-Securities-and-Continuing-Obligations-ar.pdf",
-      "downloaded_at": "2026-09-07T19:55:09.257322+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Regulatory-Framework-for-Equity-Crowdfunding-ar.pdf",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/Regulatory-Framework-for-Equity-Crowdfunding-ar.pdf",
-      "downloaded_at": "2026-09-07T19:55:04.921903+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20to%20the%20Implementing%20Regulation",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20to%20the%20Implementing%20Regulation%20of%20the%20Companies%20Law%20for%20Listed%20Joint%20Stock%20Companies_AR.pdf",
-      "downloaded_at": "2026-09-07T19:55:03.385451+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Capital%20Market%20Instit",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Capital%20Market%20Institutions%20Regulations%20and%20Investment%20Accounts%20Instructions_ar.pdf",
-      "downloaded_at": "2026-09-07T19:55:02.817978+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Investment%20Accounts%20I",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/RulesRegulations/Consulting/Documents/The%20Draft%20Amendments%20of%20the%20Investment%20Accounts%20Instructions%20and%20the%20Rules%20for%20Foreign%20Investment%20in%20Securities%20and_ar.pdf",
-      "downloaded_at": "2026-09-07T19:55:02.249036+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/96.pdf",
-      "jurisdiction": "Saudi Arabia - MOJ",
-      "url": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/96.pdf",
-      "downloaded_at": "2026-09-07T19:51:25.035837+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/09.pdf",
-      "jurisdiction": "Saudi Arabia - MOJ",
-      "url": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/09.pdf",
-      "downloaded_at": "2026-09-07T19:51:24.611279+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/50.pdf",
-      "jurisdiction": "Saudi Arabia - MOJ",
-      "url": "https://www.moj.gov.sa/Documents/Regulations/pdf/En/50.pdf",
-      "downloaded_at": "2026-09-07T19:51:23.984716+00:00",
       "source_kind": "ministry"
     }
   ],
