@@ -187681,6 +187681,19 @@
       "http_status": 200,
       "content_type": "application/pdf",
       "downloaded_at": "2026-09-08T13:03:13.957695+00:00"
+    },
+    {
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/2373caf0-1d44-47a5-8363-64605f1f16be/Mechanism+for+Requesting+a+Legal+Opinion.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-2373caf0-1d44-47a5-8363-64605f1f16be-q2blqiD",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "ministry",
+      "source_page": "https://dgp.sdaia.gov.sa/wps/portal/pdp/knowledgecenter",
+      "title": "Download File",
+      "path": "data/pdfs/Saudi_Arabia_SDAIA/ministry/Mechanism+for+Requesting+a+Legal+Opinion.pdf",
+      "bytes": 1886361,
+      "sha256": "b6e41f0fdbb342fb",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-09-10T22:39:10.784122+00:00"
     }
   ],
   "discovered": [

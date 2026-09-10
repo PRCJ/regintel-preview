@@ -1,5 +1,30 @@
 [
   {
+    "id": "b6e41f0fdbb342fb",
+    "title": "Download File",
+    "filename": "Mechanism+for+Requesting+a+Legal+Opinion.pdf",
+    "jurisdiction": "Saudi Arabia - SDAIA",
+    "site_code": "SDAIA",
+    "source_kind": "ministry",
+    "law_type": "other",
+    "year": 2026,
+    "years": [
+      2026
+    ],
+    "language": "und",
+    "status": "downloaded",
+    "host": "dgp.sdaia.gov.sa",
+    "filename_tags": [],
+    "source_page": "https://dgp.sdaia.gov.sa/wps/portal/pdp/knowledgecenter",
+    "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/2373caf0-1d44-47a5-8363-64605f1f16be/Mechanism+for+Requesting+a+Legal+Opinion.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-2373caf0-1d44-47a5-8363-64605f1f16be-q2blqiD",
+    "open_url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/2373caf0-1d44-47a5-8363-64605f1f16be/Mechanism+for+Requesting+a+Legal+Opinion.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-2373caf0-1d44-47a5-8363-64605f1f16be-q2blqiD",
+    "download_url": null,
+    "bytes": 1886361,
+    "sha256": "b6e41f0fdbb342fb",
+    "downloaded_at": "2026-09-10T22:39:10.784122+00:00",
+    "local_path": "data/pdfs/Saudi_Arabia_SDAIA/ministry/Mechanism+for+Requesting+a+Legal+Opinion.pdf"
+  },
+  {
     "id": "8568189a221fac7b",
     "title": "Download File",
     "filename": "The+Rules+Governing+the+National+Register+of+Controllers+Within+the+Kingdom.pdf",

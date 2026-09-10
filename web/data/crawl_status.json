@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-10T19:47:44.303087+00:00",
+  "updated_at": "2026-09-10T23:07:38.610430+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "34518187412",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/34518187412",
+  "message": "merged 1 ministry PDFs from parallel crawl",
+  "run_id": "34537400716",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/34537400716",
   "totals": {
-    "pdfs": 2093,
+    "pdfs": 2094,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -13,7 +13,7 @@
   "by_jurisdiction": [
     {
       "jurisdiction": "Saudi Arabia - SDAIA",
-      "count": 873
+      "count": 874
     },
     {
       "jurisdiction": "Saudi Arabia - MEWA",
@@ -71,11 +71,18 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2093
+      "count": 2094
     }
   ],
   "current_source": null,
   "recent_pdfs": [
+    {
+      "title": "Download File",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/2373caf0-1d44-47a5-8363-64605f1f16be/Mechanism+for+Requesting+a+Legal+Opinion.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-2373caf0-1d44-47a5-8363-64605f1f16be-q2blqiD",
+      "downloaded_at": "2026-09-10T22:39:10.784122+00:00",
+      "source_kind": "ministry"
+    },
     {
       "title": "Download File",
       "jurisdiction": "Saudi Arabia - SDAIA",
@@ -172,13 +179,6 @@
       "jurisdiction": "Saudi Arabia - CMA",
       "url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Secretary of the Board guide.pdf",
       "downloaded_at": "2026-09-07T19:58:21.396502+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Commodities_Exchange__en.pdf",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Commodities_Exchange__en.pdf",
-      "downloaded_at": "2026-09-07T19:58:08.250773+00:00",
       "source_kind": "ministry"
     }
   ],
