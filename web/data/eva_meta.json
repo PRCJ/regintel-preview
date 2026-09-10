@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T05:01:44.907160+00:00",
+  "updated_at": "2026-09-10T11:36:36.721934+00:00",
   "count": 2230,
   "total_indexed": 2230,
   "llm_available": false,
@@ -7,7 +7,7 @@
     "argos": false,
     "deep_translator": true,
     "primary": "deep-translator",
-    "with_en": 790
+    "with_en": 866
   },
   "scored": 2230,
   "score_bands": {
