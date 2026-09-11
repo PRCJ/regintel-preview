@@ -1,5 +1,55 @@
 [
   {
+    "id": "b6e41f0fdbb342fb",
+    "title": "Download File",
+    "jurisdiction": "Saudi Arabia - SDAIA",
+    "source_kind": "ministry",
+    "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/2373caf0-1d44-47a5-8363-64605f1f16be/Mechanism+for+Requesting+a+Legal+Opinion.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-2373caf0-1d44-47a5-8363-64605f1f16be-q2blqiD",
+    "open_url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/2373caf0-1d44-47a5-8363-64605f1f16be/Mechanism+for+Requesting+a+Legal+Opinion.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-2373caf0-1d44-47a5-8363-64605f1f16be-q2blqiD",
+    "source_page": "https://dgp.sdaia.gov.sa/wps/portal/pdp/knowledgecenter",
+    "summary": "Download File. Article 2: Scope and Purpose This Mechanism applies to all entities governed by the Data Sharing Policy, the General Rules for Secondary Use of Data, the rules governing Collaborative Data Labs, and the Data Monetization Policy If the criterion specified in Subparagraph (a) of this Paragraph does not apply, consideration shall be given to whether the data fields in dispute resulted from the Entity's operations and activities assigned to it under its governing laws or regulations Article 1: Definitions The following terms and expressions, wherever used in this document, shall have the meanings assigned to them below, unless the context requires otherwise: Disputes arising from the application of the Data Sharing Controls, a Data Sharing Agreement, or a Data Use License, as applicable Rejection by the Saudi Data & AI Authority (SDAIA) of a request to access the Collaborative Data Labs",
+    "key_points": [
+      "Article 2: Scope and Purpose This Mechanism applies to all entities governed by the Data Sharing Policy, the General Rules for Secondary Use of Data, the rules governing Collaborative Data Labs, and the Data Monetization Policy",
+      "If the criterion specified in Subparagraph (a) of this Paragraph does not apply, consideration shall be given to whether the data fields in dispute resulted from the Entity's operations and activities assigned to it under its governing laws or regulations",
+      "Article 1: Definitions The following terms and expressions, wherever used in this document, shall have the meanings assigned to them below, unless the context requires otherwise:",
+      "Disputes arising from the application of the Data Sharing Controls, a Data Sharing Agreement, or a Data Use License, as applicable",
+      "Rejection by the Saudi Data & AI Authority (SDAIA) of a request to access the Collaborative Data Labs"
+    ],
+    "title_en": "Download File",
+    "summary_en": "Download File. Article 2: Scope and Purpose This Mechanism applies to all entities governed by the Data Sharing Policy, the General Rules for Secondary Use of Data, the rules governing Collaborative Data Labs, and the Data Monetization Policy If the criterion specified in Subparagraph (a) of this Paragraph does not apply, consideration shall be given to whether the data fields in dispute resulted from the Entity's operations and activities assigned to it under its governing laws or regulations Article 1: Definitions The following terms and expressions, wherever used in this document, shall have the meanings assigned to them below, unless the context requires otherwise: Disputes arising from the application of the Data Sharing Controls, a Data Sharing Agreement, or a Data Use License, as applicable Rejection by the Saudi Data & AI Authority (SDAIA) of a request to access the Collaborative Data Labs",
+    "key_points_en": [
+      "Article 2: Scope and Purpose This Mechanism applies to all entities governed by the Data Sharing Policy, the General Rules for Secondary Use of Data, the rules governing Collaborative Data Labs, and the Data Monetization Policy",
+      "If the criterion specified in Subparagraph (a) of this Paragraph does not apply, consideration shall be given to whether the data fields in dispute resulted from the Entity's operations and activities assigned to it under its governing laws or regulations",
+      "Article 1: Definitions The following terms and expressions, wherever used in this document, shall have the meanings assigned to them below, unless the context requires otherwise:",
+      "Disputes arising from the application of the Data Sharing Controls, a Data Sharing Agreement, or a Data Use License, as applicable",
+      "Rejection by the Saudi Data & AI Authority (SDAIA) of a request to access the Collaborative Data Labs"
+    ],
+    "translate_engine": "same",
+    "topics": [
+      "request",
+      "entity",
+      "office",
+      "article",
+      "legal",
+      "mechanism"
+    ],
+    "document_type": "other",
+    "method": "extractive",
+    "summarized_at": "2026-09-11T04:55:48.589554+00:00",
+    "ai_relevance_score": 78,
+    "ai_relevance_category": "high",
+    "ai_document_type": "GUIDANCE",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Strong legal/regulatory keywords in title or summary.",
+    "english_title": "Download File",
+    "english_summary": "Download File. Article 2: Scope and Purpose This Mechanism applies to all entities governed by the Data Sharing Policy, the General Rules for Secondary Use of Data, the rules governing Collaborative Data Labs, and the Data Monetization Policy If the criterion specified in Subparagraph (a) of this Paragraph does not apply, consideration shall be given to whether the data fields in dispute resulted from the Entity's operations and activities assigned to it under its governing laws or regulations Article 1: Definitions The following terms and expressions, wherever used in this document, shall have the meanings assigned to them below, unless the context requires otherwise: Disputes arising from the application of the Data Sharing Controls, a Data Sharing Agreement, or a Data Use License, as applicable Rejection by the Saudi Data & AI Authority (SDAIA) of a request to access the Collaborative Data Labs",
+    "regulator": "Saudi Data and Artificial Intelligence Authority (SDAIA)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-11T04:57:47.972022+00:00",
+    "score_method": "heuristic"
+  },
+  {
     "id": "10ee032ec069d0c3",
     "title": "50.pdf",
     "jurisdiction": "Saudi Arabia - MOJ",
@@ -14308,10 +14358,16 @@
       "المركبات والأثاث الرجيع بجمرك ميناء ينبع",
       "المركبات والأثاث الرجيع بجمرك ميناء ينبع"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Yunbu1.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Returned vehicles and furniture at Yanbu Port customs",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "public",
       "المركبات",
@@ -14352,10 +14408,16 @@
       "بيان المركبات الرجيع بجمرك ميناء الملك عبدالله برابغ",
       "بيان الأثاث الرجيع بجمرك ميناء الملك عبدالله برابغ"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Rabigh1.pdf. Returned vehicles, furniture and scrap at King Abdullah Port customs in Rabigh Vehicles, furniture and scrap returned at King Abdullah Port customs in Rabigh Inspection and inspection committee in the central and sub-warehouses Returned vehicles declaration at King Abdullah Port customs Rabigh Returned furniture declaration at King Abdullah Port customs Rabigh",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Declaration of returned furniture at King Abdullah Port customs in Rabigh"
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "الرجيع",
       "ميناء",
@@ -14396,10 +14458,16 @@
       "التاريخ 16رمضان1446هـ الموافق16مارس2025م",
       "التاريخ 16رمضان1446هـ الموافق16مارس2025م"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Jazan1.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "ميناء",
       "جازان",
@@ -14440,10 +14508,16 @@
       "المادة الحادية عشرة: الضوابط والإجراءات والنماذج والمستندات اللازمة لتطبيق أحكام النظام",
       ") ةرقفلل اًقفو2( من المادة الخامســــة من النظام، يجوز ســــداد الضــــريبة بعد يف يراقعلا فّرــــصتلا خيرات"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "New Rett Regulation.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "على",
       "العقاري",
@@ -14525,10 +14599,13 @@
       "الأثاث والسكراب الرجيع بجمرك منفذ الحديثة",
       "الأثاث والسكراب الرجيع بجمرك منفذ الحديثة"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "سكراب",
       "الأثاث",
@@ -15611,10 +15688,16 @@
       "المادة السادسة: رسوم وأجور الخدمات الجمركية الملغاة",
       "المادة الرابعة: المقابل المالي لمناطق الإيداع"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "The Fees Rules on Customs Services.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "فــي",
       "الجمركيــة",
@@ -15684,10 +15767,14 @@
       "1ميتسوبيشي باص لوحة رقم(ا هـ ل 3417)2013م",
       "4هونداي سنتافيه لوحة رقم(ح ا ي 7487)2014م"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Khafji22.pdf",
+    "summary_en": "Khafji22.pdf. 9فورد جراند ماركيز لوحة رقم(ا و ل 7514)2010م 1ميتسوبيشي باص لوحة رقم(ا هـ ل 3417)2013م 4هونداي سنتافيه لوحة رقم(ح ا ي 7487)2014م",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "لوحة",
       "رقم",
@@ -15724,10 +15811,12 @@
     "key_points": [
       "بيان المركبات والسكراب والأجهزة الرجيع بمنفذ جمرك سلوى"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Salwa11.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "الرجيع",
       "بمنفذ",
@@ -15768,10 +15857,16 @@
       "مُحــدد أو كميــة محددة مــن المنتجات المطابقــة لمتطلبات المواصفــة /الائحة الخاصة",
       "راصد« نظام في تقارير كمعدي الصحية التجمعات قبل من المضافة المستشفيات عدد ):جدول رقم"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "SASO_Annual_Report2020",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "رقم",
       "جدول",
@@ -15812,10 +15907,16 @@
       "صورة رقمية للنظام الإلكتروني لإدارة المشاريعشكل رقم (٤):٨٤",
       "الجهـــات الحكوميـــة ذاتِ العاقـــة مثـــل وزارة"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "SASO_Annual_Report_2018",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "رقم",
       "فـــي",
@@ -15856,10 +15957,16 @@
       "تأكيد الجودةكافة الأنشطة المخططة والنظامية المطبقة في نظام الجودة، ويتم إظهارها",
       ":)12جدول رقمالتقرير فترة خلال البلديات من والواردة المنجزة التراخيص عدد75"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "SASO_Annual_Report_2017",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "جدول",
       "رسم",
@@ -15900,10 +16007,16 @@
       "مشاركات الهيئة في نشاطات واجتماعات المنظمات العربية والإقليمية والدولية خلال جدول رقم",
       "مجموع المواصفات القياسية السعودية المعتمدة منذ نشأة الهيئة حتى تاريخ إعداد جدول رقم"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "SASO_Annual_Report_2016",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "القياسية",
       "المواصفات",
@@ -15944,10 +16057,16 @@
       "كافة الأنشطة المخططة والنظامية المطبقة في نظام الجودة ويتم",
       "الطرازات التي تم اصدار تراخيص باستخدام بطاقة كفاءة استهلاك الطاقة لها حسب المنتج منذ بدء البرنامجرسم بياني رقم6"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "SASO_Annual__Report_2015-2",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "رقم",
       "بياني",
@@ -15988,10 +16107,16 @@
       "بحمل العلامة بإنتاجها خلال فترة معينة\" (سنة في العادة) وفي مقابل ذلك يقوم الجهاز بفرض نظام من",
       "وثيقة توفر المتطلبات الفنية إما بشكل مباشر أو بالإشارة إلى أو ضمن مواصفة قياسية أو مواصفة فنية أو قواعد ممارسة (وتكون"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "الهيئة",
       "أهم",
@@ -16032,10 +16157,16 @@
       "بالمملكة والجهود الحثيثة التي تبذل لخدمة القت",
       "اأما في مجال اعتماد المختبرات فقد تم اعتماد"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "r1432",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "التي",
       "الهيئة",
@@ -16076,10 +16207,16 @@
       "وفي مجال اعتماد الخدمات بلغ مجموع المختبرات المعتمدة من قبل الهيئة",
       "اإظهارها عند الحاجة لتوافر الثقة بوجود الملاءمة لمتطلبات الجودة"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "r1431",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "الهيئة",
       "عدد",
@@ -16164,10 +16301,16 @@
       "(ايزو).\" المميزة لكيان والتي توؤثر في قدرته على تلبية الاحتياجات المعلنة وال",
       "نحو تطوير وتحديث اإدارتها واأجهزتها ومختبراتها من خلال اتباع درجات متقدمة من"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "r1428",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "التقرير",
       "للعام",
@@ -16205,10 +16348,13 @@
       "شكل(4) توفي ئ نقاطصرفصح ئ عندمواقعالحاويات",
       "سلةمهملاتحجم45 لي ئ سلةمهملاتحجم120 لي ئ"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "شكل",
       "حواجزوعلاماتارضية",
@@ -16293,10 +16439,16 @@
       "الاعتراض كتابة إلى اللجنة المنصوص عليها في المادة (السابعة) من النظام خلال ستين يوماً من تاريخ إبلاغه بالقرار ، وعلى اللجنة",
       "وفق الضوابط المشار إليها في الفقرة الفرعية (د) من الفقرة (1 )من المادة(التاسعة) من اللائحة، فتمدد مهلة السداد بما لا يتجاوز"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "المادة",
       "الرسم",
@@ -16337,10 +16489,16 @@
       "تتقاض ى الوزارة مقابلاً ماليًّا عن الخدمات التي تقدمها وفق أحكام النظام، على أن تحدد هذ ه الخدمات",
       "تحدد اللائحة قواعد وإجراءات عمل اللجنة -المنصوص عليها في الفقرة (1 )من هذه المادة-والفريق المساند"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "المادة",
       "على",
@@ -16381,10 +16539,16 @@
       "أن تكون المجالات محل المذكرة أو الاتفاقية ضمن نطاق اختصاص الوزارة وفق الأنظمة والتعليمات",
       "فيها يتطلب النص بشكل مباشر على الالتزام بأنظمة وتعليمات نظامية محددة."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "المذكرة",
       "الاتفاقية",
@@ -16425,10 +16589,16 @@
       "1تعديل استخدام المواقف المعتمدة في قبو المبنىا وفق الترخيد الصادر له مظ الأمانة/البلدية (شكل رقم 4.)",
       "خامساً :ً الالتزام بأدلة الأ لوان المعتمدة في خريطة العمارة السعودية الصادرة بالقرار الوزاري رقم"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "dlyl_ajraat_shhadt_amtthal_almbany_.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "المباني",
       "شكل",
@@ -16469,10 +16639,16 @@
       "يتمتشكيللجنتيترميز المقاولين والإىتراضات والتظلمات بقرار منمعا لالوزيربماليقلىنثلاثةأىعاءويوضح",
       "يتم تطبيق المعايير لإدراج المقاولين بالقائمة وجقا لمحددات قرار مقلس الوزراء رقم (118 )االتا ل:"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "المقاولين",
       "الدليل",
@@ -16513,10 +16689,16 @@
       "كيان نظامي يستعمل لإعداد وتجهيز، وتعبئة، وتخزين خاماته ومُنْتَجاته بمساحة تتناسب مع حجم العملوكمية الإنتاج",
       "كيان نظامي مجهّز لاستلام وتخزين وعرض وبيع الحلويات الجاهزة والمعدة في مصانع مرخصة، بمساحة تتناسب مع حجم"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "متطلبات",
       "على",
@@ -16557,10 +16739,16 @@
       "13.الالتزامبالقراراتالصادرةمنالجهاتذاتالعلاقةبشأنالمسافاتالمحددةبينروضةالأطفالأودارالحضانةالمرادالتر خيصلها",
       "يأتيهذاالإصدارنتيجةالعملالذيتقومبهوزارةالبلدياتوالإسكانبالتنسيقمعالجهاتذاتالعلاقةفيسبيلتحسينالبيئة"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "التعليمية",
       "المباني",
@@ -16601,10 +16789,16 @@
       "تعد وزارة الموارد ال شرية والتنمية الاجتماعية هي الجمة صاح ة الاختصاص في تط ي ضوابط تشغيل النسـاء",
       "تعد هذه الضوابط وتصدر القواعد التنييذية المزمة لما بقرار من وزير الشلون ال لدية والقرويةوالإسكان."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "dwabt mmarst nshat altzyyn alnsayy (1).pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "التزيين",
       "النسائي",
@@ -16645,10 +16839,16 @@
       "مقرلا صن ةفلاخملا ةدحولا لوؤسملا نع ةفلاخملا راذـــــنلإا ىدم ريثأتلا ةلهملا يحيحصتلا ة دعب بنتلا هيبسح فينصتلا يداصتقلاا تآشنملل ءارجلإا يعبتلا ءارجلإا يف لاح راركتلا تاحاضيإ لولأا يناثلا ثلاثلا عبارلا سماخلا 12/4/1مدع ديقتلا يزلاب صاخلا لمعلاب بسح تاطارتشلاا لكل لماع فلاخم كلام صيخرتلا قبطني ريغ ةميسج 14موي 1,000800600400200لا دجوي فعاضت ةمارغلا عم حيحصت فلاخملا ة",
       "مقرلا صن ةفلاخملا ةدحولا لوؤسملا نع ةفلاخملا راذـــــنلإا ىدم ريثأتلا ةلهملا يحيحصتلا ة دعب بنتلا هيبسح فينصتلا يداصتقلاا تآشنملل ءارجلإا يعبتلا ءارجلإا يف لاح راركتلا تاحاضيإ لولأا يناثلا ثلاثلا عبارلا سماخلا 13/1/2سدكت داوملا ةيئاذغلا لخاد تاجلاث دريبتلا وأ مجتلا ديةأشنملل كلام صيخرتلا قبطني ريغ ةميسج 1موي 500400300200100لا دجوي فعاضت ةمارغلا عم حيحصت فلاخملا ة"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know. Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "دجوي",
       "صيخرتلا",
@@ -16751,10 +16951,16 @@
       "لائحة الاشتراطات الصحية للأسواق المركزية والبقالات ومحلات بيع التمور وعسل النحل",
       "الأنشطة الالتزام بما ورد في هذه اللائحة للمحافظة على سلامة الإنسان وصحته،"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "List of health requirements for central markets, grocery stores, and the sale of dates and honey.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "مادة",
       "الغذائية",
@@ -16795,10 +17001,16 @@
       "بما ورد في هذه اللائحة، للمحافظة على سلامة الإنسان وصحته، لتتطلع إلى التفاعل معها",
       "وتحتوي هذه اللائحة على ثلاثة أقسام رئيسة: يتناول القسم الأول الاشتراطات العامة"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "List of health requirements for stores that prepare, prepare and sell meat, poultry and their products.pdf",
+    "summary_en": "List of health requirements for stores that prepare, prepare and sell meat, poultry and their products.pdf. The Ministry’s Agency for Municipal Affairs, at a time when it requires those practicing this activity to adhere to the provisions of this regulation, requires knowing the meanings shown in front of each of the following terms: - different (microbial, chemical, physical), so the Ministry found an urgent need to merge some regulations with what was stated in this regulation, to preserve human safety and health, so that you can look forward to interacting with them. This regulation contains three main sections: The first section deals with the general requirements.",
+    "key_points_en": [
+      "The Ministry's Undersecretary for Municipal Affairs at the time calls on those practicing this activity to comply",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "With what is stated in this list, to preserve human safety and health, so you can look forward to interacting with it",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "مادة",
       "اللحوم",
@@ -16839,10 +17051,16 @@
       "يمكن تطبيق الرسوم السنوية الواردة في البنود(6،7،8،15 )والمبينة في الجدول رقم(1 )الملحق بهذه اللائحة على الخدمات البلدية",
       "2-يستمر العمل باللائحة الصادرة بالقرار الوزاري رقم(23542 )وتاريخ(8/5/1440هـ) إلى حين العمل بهذه اللائحة."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "layht rswm alkhdmat albldyt.pdf",
+    "summary_en": "layht rswm alkhdmat albldyt.pdf. This regulation supersedes all provisions that conflict with it contained in regulations, decisions or instructions issued by the Ministry. This regulation supersedes all provisions that conflict with it contained in regulations, decisions or instructions issued by the Ministry. The classification of municipalities for the purposes of applying the provisions of this regulation shall be in accordance with Table No. (2), and fees for municipal services shall be collected in villages located within a range. The annual fees mentioned in clauses (6, 7, 8, 15) and shown in Table No. (1) attached to this regulation shall be applied to municipal services. 2- The regulations issued by Ministerial Resolution No. (23542) dated (5/8/1440 AH) will continue to be implemented until this regulation is implemented.",
+    "key_points_en": [
+      "This regulation supersedes all provisions that conflict with it contained in regulations, decisions or instructions issued by the Ministry.",
+      "This regulation supersedes all provisions that conflict with it contained in regulations, decisions or instructions issued by the Ministry.",
+      "The classification of municipalities for the purposes of applying the provisions of these regulations shall be in accordance with Table No. (2), and municipal services fees shall be collected in the villages located within the scope of",
+      "The annual fees mentioned in clauses (6,7,8,15) and shown in Table No. (1) attached to these regulations may be applied to municipal services.",
+      "2- The regulations issued by Ministerial Resolution No. (23542) dated (5/8/1440 AH) will continue to be implemented until these regulations are implemented."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "لكل",
       "متر",
@@ -16883,10 +17101,16 @@
       "ةداملا ةيناثلا نورشعلاو ىلوتي قريفلا دناسملا تحت فارشإ ةعباتمو سيئر ةنجللا بيترت تافلاخملا لاةدراو بسح خريات اهدورو راعشإو ءاضعلأا ديعاومب ،تاعامتجلاا ميظنتو تافلم لامعأ ةنجللا فحوظ روص نم اهتارارق رضاحمو اهتاعامتجا اهتابطاخمو ىلوتيو ةيلمع خسنلا ةفشرلأاو توزيهج ام هجاتحت ةنجللا نم قاروأ وأ تامزلتسم هريغو امم هبلطتي لمع ةنجللا .",
       "ةداملا ةيداحلا ةرشع ققحتت ةنجللا نم توبث ةفلاخملا يأب نم لئاسو تابثلإا ،ةربتعملا دعتو ضاحم ر طبضلا ةقيثو ةربتعم يف تابثلاا عاقيإو تابوقعلا دعب دكأتلا نم اهلامكتسا تاموقمل اه ةيماظنلا ةملاسو ،اهتاءارجإ اهلو قحلا يف اهتداعإ ىلإ اهردصم لاح دوجو ام يعدتسي كلذ وأ دوجو صقن رثؤم يف اهتانايب ."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "qwa_d ajraat ljnt alnzr .pdf",
+    "summary_en": "qwa_d ajraat ljnt alnzr .pdf. A six-year-old woman, if she wants to put it in a small place, we will fill it with the number of the light of my heart, and I will fill it and put it in the place of the meat of the brother, so he will accept it, and I will make a decision for this person. As long as they are similar to the law, when you are defeated, do not fill the heart with a response. As long as three years have passed, Raqa Raqla has a son who conveys to the father of Lotio Ahseir Radha, Ahsajo Akwao Raqla, from the people of these people, Nekrashmla, if he grows up, he has the right to go back to him. Noktu with a smile. He started crossing his path to the headquarters of his villages, telling him to go to Namla to find his way to Namla. Damla Nanathla Norshalaw Yaluti Garifla Danasmla under the bed of Abatamo Seir Nagla Petrit Taflakhala Laadarawi Bash Khariat Ahduro Raashao I don't think I'm in love with you, I don't think I'm in love with you Angela. As long as his hand is on the right path, he has made it clear that he did not accept it, so he did not want to leave it. He did not accept it, and he did not want to eat it. He made it easy for him to eat it. He made it easy for him to eat it. He is lost, he is adrift in his conversion to",
+    "key_points_en": [
+      "A six-year-old woman, if she wants to put it in a small place, we will fill it with the number of the light of my heart, and I will fill it and put it in the place of the meat of the brother, so he will accept it, and I will make a decision for this person.",
+      "As long as they are similar to the law, when you are defeated, do not fill the heart with a response.",
+      "As long as three years have passed, Raqa Raqla has a son who conveys to the father of Lotio Ahseir Radha, Ahsajo Akwao Raqla, from the people of these people, Nekrashmla, if he grows up, he has the right to go back to him. Noktu with a smile. He started crossing his path to the headquarters of his villages, telling him to go to Namla to find his way to Namla.",
+      "Damla, Nurshalaw, my family, I don't live under the bed of my son, Peter, I don't know, I don't know, I don't know, I don't know, I don't know, I don't think so Ahtabatakhu and Lotio, he shines, he is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one who is the one.",
+      "ةdamla ةيداحلا ةرشع ققحتت ةنجللا نم توبث ةفلاخملا ياب نم لئاسو طبثلا, ةربتعملا دعتو ضام ر طبضلا ةقيتحو ةربتعم يف طبثلاا عقيئو طبوقعلا ةبتأتلا ةمظلاا نمظملة ةمُكطلاء ةملاسو ,اهتاءارجإ اهلو قحلا يف اهتداعإ ىلأ اهردصم لاح Doju um y'adtsi kldz and Dojo صقن رثؤم يف اهتانايب ."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "ةداملا",
       "ةنجللا",
@@ -16927,10 +17151,16 @@
       "وبنــاءً عليــه تــم إعــداد دليــل المــداخن للأنشــطة ةرياجتلا نمض تاردابم هوشتلا يرصبلا قيسنتلاب عـم عـيمج تاـناملأا نـم لـجأ ليهــست حيـضوتو تاطارتــشلاا ةــبولطملا تاــجلاعملاو ةــحرتقملا يناــبملل ةــرياجتلا ةــثيدحلا ةــمئاقلاو ــتلا ي بــلطتت دوجو نخادم .",
       "ةزهجأ تايقنم ءاوهلا ةيسيطانغمورهكلا :ةزــــــــهجأ ةدوزــــــــم تاحــــــــشرمب ءاوــــــــه ةيسيطانغمورهك ةينقتب نيأـتلا ـمعت ل ىـلع ةلازإ تايمسجلا ةقيقدلا تاـثولملاو غلا ةــزيا نم وجلا يلخادلا ةأشنملل جارخإو ءاوه يـقن ىلإ ةئيبلا ةيجراخلا ."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "alnskht alnhay_yt ldlyl almdakhn lla_nshtt altjaryt 17 January 2024.pdf. 3.3 If there is no crown, they will work, and they will not be able to live. Ross Dadtrala, son of Beckert's uncle, joked that the first one was controlling his affairs in his family, and he did not think the loss of the first one was telling him that he was hurt by Bassani Mujh Maalla, Aoun Tashinla. Darkness: This is the leprosy of my life, and we will continue to sleep together. I will continue to serve you, I will help you, I will not bear anything reassured, I will not mourn or mourn my death. Ahdevento Dawmb Hamsi Ahab Duk Aanbla, Yadous Asla Aarmo Ahtmwaqm Qarihal 3Bji Duzt Tahasimla Yatila Yahut Ala Hajha Yaht La Baltat Tatafesh Nam Aounla (B) , with the aim of supporting 3.5 convoys / yenath / tamla, passing through Nam Laja, Didhat Haslamla, Bultamla, I came to you, Zahej, turning my axe, bikert, atagh, nem, awnla (b) Here, for a decisive attack, I found 9.3 m2. And accordingly Accordingly, a guide to the chimneys was prepared for the activities of the city. What do you think about it?",
+    "key_points_en": [
+      "3.3 If there is no crown, they will work, and they will not be able to live. Ross Dadtrala, son of Beckert's uncle, joked that the first one was controlling his affairs in his family, and he did not think the loss of the first one was telling him that he was hurt by Bassani Mujh Maalla, Aoun Tashinla.",
+      "Darkness: This is the leprosy of my life, and we will continue to sleep together. I will continue to serve you, I will help you, I will not bear anything reassured, I will not mourn or mourn my death. This is the right thing to do, I will go to your place, and I will take care of you.",
+      "3, with the intention of supporting 3.5 columns/female/tm, across from the port of Laja Didhat, Hasamla, Boltmla, Ahtioh Btara. Lak Zahij Yadir La my axe bikert aatag nm aounla (B) Hana Laghshah Hasem Lalaqat Na 9.3 m2.",
+      "Accordingly, a chimney guide was prepared for the activities of the city. Thidhla Maaqlao Tala Ya Baltat Dojo Nkhadim.",
+      "2017 And he has no idea what a neighbor is going to do."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "نخادملا",
       "لــيلد",
@@ -16971,10 +17201,16 @@
       "3-3 داعبأ ربقلا 1- أن يكــون القبــر عميقــاً ويلحــد فــي أســفله مــن جهــة القبلــة لحــداً يوضــع فيــه الميــت ويســد عليــه نبللاـــب وأ حاوـــلأ ةراـــجحلا ثـــيحب ىراوـــي هـــيف تـــيملا بـــجحيو هـــتحئار عـــنميو عابـــسلا روـــيطلاو ،هنع نإف مل رسيتي دحل لدبتسيف قشب .",
       "- فرــــشملا دــــمتعملا : صخــــشلا يــــعيبطلا وأ يراــــبتعلاا صخرــــملا هــــل نــــم ةــــهجلا ةــــينعملا ةــــسراممب لاــــمعأ ،فارــــشلاا يذــــلا دــــقاعتي هــــعم كــــلاملا ماــــيقلل فارــــشلااب ىــــلع ذــــيفنتلا قــــفو صيخارــــتلا تاططخملا ةدمتعملا ."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "aldlyl alfny la_nsha wtrmym almqabr 21 fbrayr 2024_0.pdf",
+    "summary_en": "aldlyl alfny la_nsha wtrmym almqabr 21 fbrayr 2024_0.pdf. - Chetftla: a newspaper or a product, and determine the extent of its conformity with the requirements of the code, or general requirements based on The professional judgment specified in a technical regulation or standard specification, and in accordance with the requirements for inspections contained in the Annihilation Code. - I sell it to you. I will go to the beach, I will go to bed, I will treat you, I will treat you, I will treat you, I will make you understand, I will not complain about the good deeds, I will not deceive you. - Tahjala Thaqala: These are the relevant governmental bodies according to their competence to monitor the implementation of the code: Yorqlao, Naxalla, and Yarqlao (Reid of Maala Afdal). 3-3 He caressed Rabaqla. 1- That the grave be deep and at the bottom of which, in the direction of the Qiblah, there should be a limit for the dead person to be placed in it and covered over. I am trying to find a man he likes",
+    "key_points_en": [
+      "- Chetftla: a newspaper or a product, and determine the extent of its conformity with the requirements of the code, or general requirements based on The professional judgment specified in a technical regulation or standard specification, and in accordance with the requirements for inspections contained in the Annihilation Code.",
+      "- I sell it to you. I will go to the beach, I will go to bed, I will treat you, I will treat you, I will treat you, I will make you understand, I will not complain about the good deeds, I will not deceive you.",
+      "- Tahjala Tadqalaa: These are the government agencies concerned according to their jurisdiction to monitor the implementation of the code: Yorqlao, Naxalla, and Yarqlao (Naksalaw, Naxalla, Yalkhala, Razo, Yalkhala). I don't want anyone to regret it (razo, qatala, yaydulla, tafsaw, syyaqalla, doglaw).",
+      "3-3 Da’a Rabaqla 1- The grave should be deep and there should be a limit at the bottom of it in the direction of the Qiblah. The dead person should be placed in it and a tree should be covered over it. Or try to pass by a man who loves Rawi Haif Timla. I'm so confused, I'm frowning, I'm not sure I'm wearing a wood sword.",
+      "- Farshlaab, you have always done: “Farshla, he will make a mistake, or Arabtalaa, Sakhrlamla.” Did he grow a foolish woman and make a bright secret? When the phone is closed, it does not touch the service you are using."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "رباقملا",
       "ليلدلا",
@@ -17015,10 +17251,16 @@
       "2يجب ألاّ تتجاوز مدة إجراءات إصدار الترخيص عن 24 ةعاس نم خريات ميدقت بلطلا دادسلاو نوكي للاخ 24 ةعاس نم خريات لوبق بلطلا .3لاأ زواجتي ددع تاراسملا لكل صيخرت نع 5 تاراسم رفح .4بجي لاأ دزيي عومجم لاوطأ تاريفحلا يف تلاصو ينابملا تامدخلاو نع 125 رتم عقاوب 25 رتم لكل راسم .5بجي لاأ دزيت ةدم صيخرت رفحلا تلاصول ينابملا تامدخلاو نع 10 مايأ لمع .",
       "ديدمت صيخارت رفحلا :دنع مدع لامكإ لامعلأا للاخ ةرتفلا ةينمزلا ةددحملا بسح صيخرتلا ةرداصلا متي ام يلي : 1يجب تقديم طلب تمديد مدة ترخيص أعمال الحفر من خلال خدمة نسِّق بواسطة الجهة ةبلاط صيخرتلا دعب لاخدإ تانايب صيخرتلا ركذو ببس بلط ديدمت ةدملا .2بجي لاأ دزيت ةدم ديدمتلا نع فصن ةدم صيخرتلا يلصلأا ."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "lay_ht trakhys alhfryat.pdf",
+    "summary_en": "lay_ht trakhys alhfryat.pdf. Sixth century: Taarja Turshu Sikhart Rafhala: Nokt Tarajja Balat Radsa Sikhart Rafhala (Yadaa - Aarat - Dadaatm - Talaso Yanabm - New Tatham) according to the following: First: Issuing regular drilling licenses: 1 Regular drilling licenses are issued in accordance with the conditions stated in Article Four of these regulations. Third: Raddasa Excavation permits shall be issued for several connections to buildings and services in one drilling license in accordance with the following: 1 Drilling licenses shall be issued for connections to buildings and services in accordance with the conditions stated in the article above herein, whenever possible, at the end of the survey. The duration of the licensing procedures shall not exceed 24 years Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Third: Drilling licenses for several connections to buildings and services are issued in one drilling license according to the following: 1 Drilling licenses are issued for connections to buildings and services in accordance with the conditions stated in the article above.",
+      "In the event of a complaint or complaint, when a person is accused of being accused of harmful behavior or a complaint filed by the Grievances and Complaints Committee stipulated in the Licensing Procedures System, this will indicate the possibility of redressing or resolving it.",
+      "2The duration of the license issuance procedures must not exceed 24 years. 125 Ratm Aqoub 25 Rasm for each rasam. 5 Beji La Adzit Adam Sekrit Rafhal Talasul Yanabmla Tamadkhalaw Na 10 May Lama.",
+      "Don't let the landfill work for you until the end of the year. You can get a job by clearing the stones. Reply when: 1. A request to extend the period of the excavation work license must be submitted through the service coordinated by the government agency. To take the place of the stones, use the Didmt tiles. 2. Please no. I'm sorry, I'm sorry."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "رفحلا",
       "صيخارت",
@@ -17059,10 +17301,16 @@
       "البصري في المدن السعودية، وبناء عليه قامت الوزارة بإعداد هذا الدليل بهدف تحسين المشهد الحضري على",
       "إستراتيجية الوزارة في التعامل مع ملف التشوه البصري أنها تقوم على سلسلة من الركائز التي ترمي إلى"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "dlyl tswyr alarady alfda balnwdhj almwhd.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Enhancing the visual appeal of cities is most notable by setting controls for urban design and imposing a set of rules and regulations",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "The Ministry's strategy in dealing with the file of visual distortion is based on a series of pillars that aim to..."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "الفضاء",
       "الأراضي",
@@ -17103,10 +17351,16 @@
       "انطلاقاً من التوجيهات السامية الكريمة التي تهدف إلى تطوير مسيرة التنمية الشاملة، فإن وزارة الشؤون البلدية والقروية",
       "وتالتنسككككككيق مع اللهات عات العلاقة وفق لية تضككككككمن تطبيق الأنظمة والتعليمات الصككككككادرة ت إعداد اشـــــــتراطات اللوحات"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "The relationship with the relevant authorities is maintained according to a mechanism that ensures the application of regulations and instructions to the instruments, and a team that prepares requirements for signs"
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "اللوحات",
       "على",
@@ -17147,10 +17401,16 @@
       "1-1 رسم ترخيص نشاط تقديم منتجات التبغفي المطاعم والمقاهي 30.000 20,000 10,000 20,000 10,000 15,000 10,000 5,000 للرخصة",
       "يكون للألفاظ والعبارات التالية، أينما وردت في هذه اللائحة، المعاني المحددة إزاء كل منها، ما لم يدل سياق"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "List of fees for submitting tobacco products.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "License: Written approval from the municipality allowing the provision of tobacco products.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "The following words and expressions, wherever they appear in these regulations, will have the meanings specified for each of them, unless the context indicates:"
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "بلدية",
       "محافظة",
@@ -17222,10 +17482,16 @@
       "1 .تطبق بنود هذه اللائحة على جميع اللوحات الدعائية والإعلانية التي تقع داخل مناطق حدود التنمية بالمدن السعودية",
       "3 .لا تنطبق هذه الاشتراطات على اللوحات التي تُنشئها الوزارة والهيئات الحكومية لإبراز خدماتها"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "1. The provisions of this regulation apply to all advertising and billboards located within the development boundary areas in Saudi cities.",
+      "3. These requirements do not apply to signs created by the Ministry and government agencies to highlight their services"
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "اللوحات",
       "على",
@@ -17266,10 +17532,16 @@
       "1- يســــتوفى رســــم لمرة واحدة مقابل إصــــ د ار الترخيص بتأســــي أي برص اتصــــال، بصــــرف النار عن ملكية الموقع الذي",
       "1- يســــتوفى رســــم لمرة واحدة مقابل إصــــدار الترخيص بتأســــي أي صــــراف بلي، بصــــرف النار عن ملكية الموقع الذي"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "لكل",
       "متر",
@@ -17341,10 +17613,16 @@
       "أنظمة البناء واستعمالات الأراضي المعتمدة من جهة الاختصاص في المدن والقرى ، وتعتبر وزارة الشؤون البلدية والقروية",
       "وزارة الشؤون البلدية وال قروية والإسكان."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "الرياضية",
       "على",
@@ -17385,10 +17663,16 @@
       ".L*-ljr a.r;-si lt lf ;r.r-*.a ;rt U i'r-[j , iJdLll J\"rr:,Jl rt ;.,:.,,1 \"ur ;i,:JlL J\"l .i,ijl",
       "r3.r-',Jl) ; ill i-r.tlly i-\"Ja'(l L-=A,rrr.r-.,o l-4,^ ,;):-;C,ril.-44j1 ;t L;ll 6:13l \"lj.lr"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "أداة الإصدار + لائحة الاشتراطات تقديم منتجات التبغ داخل المدن وخارجها.pdf",
+    "summary_en": "أداة الإصدار + لائحة الاشتراطات تقديم منتجات التبغ داخل المدن وخارجها.pdf. , A-1>t+*Jl : r?Jrtl et-a1;ll ,4J-*!*Jl J;;Jl (;-;ri.ll 2':z^ ,.,11c.1.1-3Jl , i..3,rj.iJl rlJ.ijl a-:.;r Lftl g.il : t reolz- 9T , irr.t ;, ji , i-,r-..t i13<+ dJlFl / ,-l*,Al pr\"rJ ilt - -rr3p .l l-J dJl LrSlliJl cri,:,ill +7l:-, , ta;,hl3i,-*'.lrl ,l jl..;Jl ;r Ac.j*=.\" :?-s*.etl C,ttrlj-?yl .L*-ljr a.r;-si lt lf ;r.r-*.a ;rt U i'r-[j , iJdLll J\"rr:,Jl rt ;.,:.,,1 \"ur ;i,:JlL J\"l .i,ijl r3.r-',Jl) ; ill i-r.tlly i-\"Ja'(l L-=A,rrr.r-.,o l-4,^ ,;):-;C,ril.-44j1 ;t L;ll 6:13l \"lj.lr",
+    "key_points_en": [
+      ", A-1>t+*Jl : r?Jrtl et-a1;ll ,4J-*!*Jl J;;Jl (;-;ri.ll 2':z^ ,.,11c.1.1-3Jl , i..3,rj.iJl rlJ.ijl",
+      "a-:.;r Lftl g.il : t reolz- 9T , irr.t ;, ji , i-,r-..t i13<+ dJlFl / ,-l*,Al pr\"rJ ilt - -rr3p .l",
+      "l-J dJl LrSlliJl cri,:,ill +7l:-, , ta;,hl3i,-*'.lrl ,l jl..;Jl ;r Ac.j*=.\" :?-s*.etl C,ttrlj-?yl",
+      ".L*-ljr a.r;-si lt lf ;r.r-*.a ;rt U i'r-[j , iJdLll J\"rr:,Jl rt ;.,:.,,1 \"ur ;i,:JlL J\"l .i,ijl",
+      "r3.r-',Jl) ; ill i-r.tlly i-\"Ja'(l L-=A,rrr.r-.,o l-4,^ ,;):-;C,ril.-44j1 ;t L;ll 6:13l \"lj.lr"
+    ],
+    "translate_engine": "same",
     "topics": [
       "ojgjojlg",
       "ijljg",
@@ -17429,10 +17713,16 @@
       "الاشتراطات البلدية التي توضح الارتدادات، والارتفاعات، ونسبة البناء، ومواقف السيارات، والأسوار، ...",
       "إلى نصف مساحة الطابق الذي يتوفر به نظام إطفاء آلي وإنذار صوتي معتمد."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "على",
       "الاشتراطات",
@@ -17473,10 +17763,16 @@
       "الاشتراطات البلدية التي توضح الارتدادات والارتفاعات ونسبة البناء ومواقف السيارات والأسوار...إلخ.",
       "إلى نصف مساحة الطابق الذي يتوفر به نظام إطفاء آلي وإنذار صوتي معتمد."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "الاجتماعية",
       "الأهلية",
@@ -17605,10 +17901,16 @@
       "الوزارة: وزارة الشؤون البلدية والقروية والإسكان.",
       "يكون تصـــــــــــــنيف الأمانات والبلديات لأغراض تطبيق الرســـــــــــــوم المشـــــــــــــار إليها في المادة الرابعة من هذه المعايير وفق الجدول رقم (2)،"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "بلدية",
       "محافظة",
@@ -17649,10 +17951,16 @@
       "وجوده، يكون تصميم الواجهة وفقاً لما تم اعتماده في الترخيص الصادر من الأمانة/البلدية.",
       "وفق ضوابط التشجير المعتمدة من الوزارة.لا ينطبق التشجير"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "ashtratat alhlaqt alrjalyt_1.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "متطلبات",
       "الحلاقة",
@@ -17693,10 +18001,16 @@
       "2يسمح بممارسة الأنشطة المتجانسة المعتمدة من قبل الوزارة ضمن المساحة الواردة في الترخيص.",
       "يكون تصميم الواجهات وفقاً لما تم اعتماده في الترخيص الصادر من الأمانة/البلدية."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "متطلبات",
       "المتطلبات",
@@ -17737,10 +18051,16 @@
       "الإقرار ةي الطلب با تتتتيفاء جميع اشتتتتراطات ومتطلبات إصتتتدار شتتتهادة امتثال المباني ال اردة",
       "ومك نات مخالفة للترخيص مما يستتتهم ةي الحد من التشتتت البصتتتر ةي تلك المباني والارتقاء بج دة"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "dlyl-ajraat-shhadt-amtthal-almbany000.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "المباني",
       "امتثال",
@@ -17781,10 +18101,16 @@
       "وفق ضوابط التشجير المعتمدة من الوزارة.لا ينطبق التشجير",
       "وتســـهيلالاشتراطاتللمســـتثمرينوالمستفيدينوذلكمنخلالتوفيرالبيئةالنظاميةالمناسبةللاستثمارالتجـــاريوضبطعملية"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "متطلبات",
       "البناء",
@@ -17825,10 +18151,16 @@
       "2يسمح بممارسة الأنشطة المتجانسة المعتمدة من قبل الوزارة ضمن المساحة الواردة في الترخيص.",
       "وفق ضوابط التشجير المعتمدة من الوزارة.التشجير"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "ashtratat hdayq alhywan.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "متطلبات",
       "يجب",
@@ -17869,10 +18201,16 @@
       "البيئةالنظاميةالمناسبةللاستثمارالتجـــاريوضبطعمليةالتطويرمماســـيكونلـــهأثراا إيجابيـــاا علىالبيئةالعمرانيةوالنســـيج",
       "ملكية / عقد إيجار / عقد استثمار ) عند إصدار باقي المتطلبات البلدية باستثناء اللوحات التجارية يتم تركي بها على كل وحدة."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "ashtratat almstwd_at walmkhazn.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "متطلبات",
       "المستودعات",
@@ -17912,10 +18250,15 @@
       "جدول تصنيف المخالفات وتحديد العقوبات لنظام تصنيف المقاولين",
       "جدول تصنيف المخالفات وتحديد العقوبات لنظام تصنيف المقاولين"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "تصنيف",
       "جدول",
@@ -17956,10 +18299,16 @@
       "2يجب أن تكون إجراءاتالتصريحوفقاً لنظام إجراءات التراخيص البلدية ولائحته التنفيذية.",
       "خلال توفير البيئة النظامية المناسبة للاستثمار التجـــاري وضبط عملية التطوير ورفع معدل الامتثال بالاشتراطات البلدية مما"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "المركبات",
       "ركن",
@@ -18000,10 +18349,16 @@
       "٥٣٤١هـ/٩/٣٢ وتاريخ( ٩٥/م )رقم الملكي بالمرسوم الصادرة البلدية التراخيص إجراءات نظام على وبناءً",
       "تلغ ه الاشتراوات ك ما يتعاوض معاا م حكام وودت لوائح و راوات و تعليمات و اشتراوات د دوتاا الوزاو ."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "متطلبات",
       "تكوز",
@@ -18072,10 +18427,13 @@
       "الصادرة بالقرار الوزاري رقم (66000) وتاريخ20 /12 /1435هـ",
       "اللائحة التنفيذية الم دثة لقواعد النطاق العمراني"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "اللائحة",
       "التنفيذية",
@@ -18116,10 +18474,16 @@
       "يلزم عمل راسووووووة فنية من المكاتب ال ندسووووووية المصوووووونفة لدى الوزارة لتصووووووميم المباني المرا",
       "مهلة القائمة المباني وتمنح نشره، تاريخ من به ويعمل الإلكتروني الوزارة موقع على الدليل هذا ينشر :ثانياً"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "المباني",
       "تحت",
@@ -18160,10 +18524,16 @@
       "وسائل النقل لتشـــجيع الاستثمار وتســـهيل الاشتراطات للمســـتثمرين والمستفيدين وذلك من خلال توفير البيئة النظامية المناسبة",
       "خلال البحث في أفضل الممارسات العالمية فيما يتعلق باختصاص الوزارة، وبالتنســـيق مع الجهـــات ذات العلاقة وفقآلية تضمـــن"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "متطلبات",
       "المتطلبات",
@@ -18248,10 +18618,16 @@
       "4alLj4ais iiajYl lae Jsias l4allsliag lile Laiel jwalass lilllà",
       "info@momra.gov.sa Z +966 11 4075675 11136 Jull 955 jy I9aia"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "JLil Ministry of Municipal & Rural Affairs",
+      "JLil Ministry of Municipal & Rural Affairs",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "momra",
       "municipal",
@@ -18292,10 +18668,16 @@
       "جميع الأمانات، لكي تتوافق مع المســــــــتيدات الال زســــــــقه الوزارة لتحقيقلا، بما ياــــــــم ســــــــلولة الإجراءات، وتوحيد الاشــــــــتراطات،",
       "- توضح هذه الاشتراطات الحد الأدنى م المتطلبات الفنية والاشتراطات البلدية الال ييب تطبيقلا ع ه المباني السكنية باختلاف"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "السكنية",
       "البناء",
@@ -18367,10 +18749,16 @@
       "- الوزارؤ: وزارؤ الشةوو البلدية والقروية والإسكاو.",
       "- الوزير: وزير الشةوو البلدية والقروية والإسكاو."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "aldlyl-alfny-lansha-wtrmym-almqabr-21-fbrayr-2024.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "المقابر",
       "الدليل",
@@ -18411,10 +18799,16 @@
       "النسدددائي وعليه امت وزارة الشدددةون البلدية والقروية والإسدددكان بإعداد هذق القواعد لمحلت التزيين النسدددائي والأنشدددطة",
       "ضوابط ممارسة نشاط التزيين النسائي الصادرة بقرار مجلو الوزرال ر م 342) وتاريخ18/8/1435هـدددددد المعدلة بقرار"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "alqwad-altnfydhyt-ldwabt-mmarst-nshat-altzyyn-alnsayy-almtmdt-1444.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "التزيين",
       "النسائي",
@@ -18455,10 +18849,16 @@
       "عدم استيفاء أحد الاشتراطات بنظام الضوابط الإدارية",
       "وفق ضوابط التشجير المعتمدة من الوزارةالتشجير"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "متطلبات",
       "على",
@@ -18499,10 +18899,16 @@
       "2يسمح بممارسة الأنشطة الإضافية المتجانسة المعتمدة من قبل الوزارة ضمن المساحة الواردة في الترخيص.",
       "التشجيرلا ينطبقوفق ضوابط التشجير المعتمدة من الوزارة."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "متطلبات",
       "الأنشطة",
@@ -18543,10 +18949,16 @@
       "8/3/8 تشكل اللجنة الفنية من البلدية والأمارة ووزارة المالية بناء على دعوة خطية من الامين .",
       "3/8/3 يصدر قرار من الوزير بمعاوضة عقار تملكه البلدية بعقار مملوك للغير ."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "البلدية",
       "على",
@@ -18693,10 +19105,16 @@
       "ثانيـــاً: علـــى الجهـــات الحكومية ـ التـــي يتطلب تقديمها للخدمة وجود عقد إيجار ـ الاســـتعانة بشـــبكة )إيجار(",
       "والقضائيـــة ، وأن تضـــع وزارتا العدل والإســـكان الشـــروط والمتطلبات اللازم توافرهـــا في العقد حتى يمكن"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "إيجار",
       "العقد",
@@ -18825,10 +19243,16 @@
       "التراخيص البلدية من خحلها، وفق المتطلبات الواردة في هذا الدليل.",
       "التراخيص البلدية من خحلها، وفق المتطلبات الواردة في هذا الدليل."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "GetFileAttachment-17.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "الاستشارية",
       "والشركات",
@@ -18869,10 +19293,16 @@
       "انطلاقاً من دور الووزارة في السوعي للتسوهيل عوو الموواالمين والمقيسوين للا وتفادة مون الخودمات المقدموةل وإتاحوة المعلوموات",
       "توفرهووا الوووزارة عووو ملمصووة بلوودي أو اكلموو الالتحوواق ب نووام التثقيووف الصووحي التووي تقدموو المرازووز والم عاهوود"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "dlyl mttlbat alshhadt alshyt.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "توفرهووا الوووزارة عووو ملمصووة بلوودي أو اكلموو الالتحوواق ب نووام التثقيووف الصووحي التووي تقدموو المرازووز والم عاهوود"
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "الصحية",
       "الشهادة",
@@ -18913,10 +19343,16 @@
       "والقرى المرتبطة بها بموجب قرار وزاري يصدره",
       "4-5-صيانة نظام الطاقة المتجددة(إن وُجد )"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "nhayy dlyl altshghyl walsyant ldwrat almyah al_amt altsmym alm_dl 7-1-2025.pdf",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "الصيانة",
       "العامة",
@@ -18957,10 +19393,16 @@
       "شهادة إخلاء موقع:هي وثيقة تعطى للجهة طالبة الترخيص بعد التأكد مـن إعـادة موقـع العمـل إلـى حالتـه الطبيعيـة",
       "المقاول:هو المنفذ لأعمال الحفر على الطبيعة ويكون مرتبط بالجهة طالبة الترخيص، ويجب أن يكـون معتمـداا حسـب"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "الحفر",
       "العلاقة",
@@ -19001,10 +19443,16 @@
       "والمستلزمات المنزلية مما يتيح المزيد من الخيارات أمام المستهلك، بجانب توفير",
       "معظم احتياجاته من مواد غذائية واستهلاكية متنوعة في مكان واحد وبالتالي توفير"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "الفصل",
       "المركزية",
@@ -19043,10 +19491,14 @@
       "122 ةدالما مقر 43: تلايدعتلا تافاضلإاو تاءاغللااو : 122 ةدالما مقر 44: 123 ةدالما مقر 45: تادعلما ل ةتقؤلما داولماو : 123 ةدالما مقر 46: تايمكلا : 124 ةدالما مقر 47: سايق ل: 124",
       "تايوتحلما لودج مقدّمة: 17 قاطنلا دودحو قيبطتلا : 20 قاطن قيبطتلا : 20 ت N 22 1 ماـــع 22 2 تانوكم عوشرلما 23 3 قاطن ل..."
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "ةدالما",
       "مقر",
@@ -19087,10 +19539,16 @@
       "54 ): يوضح الشكل العام والمكونات الرئيسية لنظام الجر للسلم المتحرك 16شكل رقم",
       "42 ): مصعد هيدروليكي بنظام رفع غير مباشر10شكل رقم"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "رقم",
       "شكل",
@@ -19131,10 +19589,16 @@
       "تصنيفاتها، وغير مخصص للطرق الواقعة خارج النطاق العمراني الواقعة تحت إشراف ومسؤولية وزارة النقل.",
       "وسوف تقوم وكالة الوزارة للشؤون الفنية بإخضاع الدليل للتحديث المستمر بصفة دورية وكلما دعت"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "المشروع",
       "رقم",
@@ -19175,10 +19639,16 @@
       "الحماية الكاثودية Cathodic protection وهي النظام الذي يثبت على المنشأ للحماية من الصدأ",
       "4-4-21 نظام الإنذار بقلة الارتفاع أسفل الجسر(Vertical Clearance Control): 4-98"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "شكل",
       "الجسور",
@@ -19219,10 +19689,16 @@
       "لهذا ارتأت وزارة الشؤون البلدية والقروية، ممثلة في وكالتها للشؤون الفنية، إصدار هذا الدليل المجمّع، الذي يضم كل",
       "وسوف تقوم وكالة الوزارة للشؤون الفنية بإخضاع هذا الدليل للتحديث المستمر كلما دعت الحاجة، أو ظهرت معطيات أو خبرات"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "الشكل",
       "إلى",
@@ -19263,10 +19739,16 @@
       "وتحتوي اللائحة على ثلاثة أقسام رئيسة: يتناول القسم الأول الاشتراطات العامّة",
       "التفاعل معها بإبداء الآراء والمقترحات من خلال موقع الوزارة على الإنترنت:"
     ],
-    "title_en": "",
-    "summary_en": "",
-    "key_points_en": [],
-    "translate_engine": "",
+    "title_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summary_en": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "key_points_en": [
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    ],
+    "translate_engine": "deep-translator",
     "topics": [
       "مادة",
       "البيض",
