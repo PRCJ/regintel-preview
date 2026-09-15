@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-15T20:21:38.155328+00:00",
+  "updated_at": "2026-09-15T23:30:02.690728+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "35014880073",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/35014880073",
+  "message": "merged 14 ministry PDFs from parallel crawl",
+  "run_id": "35032865853",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/35032865853",
   "totals": {
-    "pdfs": 2094,
+    "pdfs": 2108,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -28,12 +28,12 @@
       "count": 183
     },
     {
-      "jurisdiction": "Saudi Arabia - NCA",
-      "count": 104
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "count": 106
     },
     {
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "count": 93
+      "jurisdiction": "Saudi Arabia - NCA",
+      "count": 104
     },
     {
       "jurisdiction": "Saudi Arabia - CMA",
@@ -52,15 +52,15 @@
       "count": 12
     },
     {
+      "jurisdiction": "Saudi Arabia - SAMA",
+      "count": 10
+    },
+    {
       "jurisdiction": "Saudi Arabia - IA",
       "count": 10
     },
     {
       "jurisdiction": "Saudi Arabia - MOJ",
-      "count": 9
-    },
-    {
-      "jurisdiction": "Saudi Arabia - SAMA",
       "count": 9
     },
     {
@@ -71,114 +71,114 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2094
+      "count": 2108
     }
   ],
   "current_source": null,
   "recent_pdfs": [
     {
+      "title": "قواعد جباية الزكاة من المستثمرين في الصناديق الاستثمارية",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/CalculateZakat-investment-funds.pdf",
+      "downloaded_at": "2026-09-15T23:02:45.593422+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "قواعد عد م خضوع المكلف المملوك لوقف جباية الزكاة ​​",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/القواعد.pdf",
+      "downloaded_at": "2026-09-15T23:02:42.489670+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "قواعد عدم خضوع الجمعيات والمؤسسات الأهلية والوحدات التدريبية لجباية الزكاة​​",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/قواعد-عدم-خضوع-الجمعيات-والمؤسسات-الخيرية-والوحدات-التدريبية-لجباية-الزكاة.pdf",
+      "downloaded_at": "2026-09-15T23:02:40.547120+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "قواعد حساب زكاة أنشطة التمويل الصادرة بالقرار الوزاري رقم 2215 وتاريخ 7-7- 1440 المعدلة بموجب القرار الوزاري رقم(137) وت",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/قواعد%20حساب%20زكاة%20أنشطة%20التمويل.pdf",
+      "downloaded_at": "2026-09-15T23:02:38.912904+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "قواعد حساب زكاة مكلفي التقديري \"تحل هذه القواعد محل قواعد حساب زكاة مكلفي التقديري الإصدار الأول، وتسري على إقرارات مكلف",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/قواعد%20حساب%20زكاة%20مكلفي%20التقديري%202502.pdf",
+      "downloaded_at": "2026-09-15T23:02:38.087110+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "القرار الوزاري المعدل رقم 319 وتاريخ 1445/2/28هـ​",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/القرار%20الوزاري%20319%20بتعديل%20القرار%20الوزاري%202218.pdf",
+      "downloaded_at": "2026-09-15T23:02:31.793219+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "القرار الوزاري المعدل رقم 1343 وتاريخ 1441/3/28هـ",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/التعديل%20على%20قرار%20التحمل.pdf",
+      "downloaded_at": "2026-09-15T23:02:30.005875+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "القرار الوزاري رقم 2218 وتاريخ 1440/7/7هـ",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/قرار_التحمل.PDF",
+      "downloaded_at": "2026-09-15T23:02:26.929502+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "القرار الوزاري",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/القرارات%20الوزارية%20لأنشطة%20التمويل.pdf",
+      "downloaded_at": "2026-09-15T23:02:25.351512+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "قواعد حساب زكاة مكلفي التقديري \"تسري هذه القواعد على إقرارات مكلفي التقديري التي تُقدم بعد 2019/12/31م\"​​",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/قرار%20وقواعد%20التقديري.pdf",
+      "downloaded_at": "2026-09-15T23:02:22.313164+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "القرار الوزاري​",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/القرار%20الوزاري%20رقم%2029791.pdf",
+      "downloaded_at": "2026-09-15T23:02:17.393287+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "القرار​",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/القرار%20الوزاري_37981.pdf",
+      "downloaded_at": "2026-09-15T23:02:16.291321+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "القرار​",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/القرار%20الوزاري%2061600.pdf",
+      "downloaded_at": "2026-09-15T23:02:15.547868+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "عرض",
+      "jurisdiction": "Saudi Arabia - SAMA",
+      "url": "https://www.sama.gov.sa/ar-sa/MediaCenter/Documents/Identity/SAMA_brand_guidelines.pdf",
+      "downloaded_at": "2026-09-15T22:55:38.281024+00:00",
+      "source_kind": "ministry"
+    },
+    {
       "title": "Download File",
       "jurisdiction": "Saudi Arabia - SDAIA",
       "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/2373caf0-1d44-47a5-8363-64605f1f16be/Mechanism+for+Requesting+a+Legal+Opinion.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-2373caf0-1d44-47a5-8363-64605f1f16be-q2blqiD",
       "downloaded_at": "2026-09-10T22:39:10.784122+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/047a4149-ba11-4919-9341-260164125ba5/The+Rules+Governing+the+National+Register+of+Controllers+Within+the+Kingdom.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-047a4149-ba11-4919-9341-260164125ba5-q1h55or",
-      "downloaded_at": "2026-09-08T13:03:13.957695+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/1f2c6774-2afe-41b4-b96b-4762c5c71b00/Guidelines+for+Binding+Common+Rules+%28BCR%29+For+Personal+Data+Transfer.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-1f2c6774-2afe-41b4-b96b-4762c5c71b00-q1h57D6",
-      "downloaded_at": "2026-09-08T13:03:12.357192+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/16aec46f-ea3d-47f6-8e0d-e49ffa2349d5/Risk+Assessment+Guideline+for+Transferring+Personal+Data+Outside+the+Kingdom.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-16aec46f-ea3d-47f6-8e0d-e49ffa2349d5-q1h56hw",
-      "downloaded_at": "2026-09-08T13:03:08.855791+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/19ec3250-16a6-47c7-8e8c-b8e1d6f86633/Personal+Data+Processing+Activities+Records+Guideline.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-19ec3250-16a6-47c7-8e8c-b8e1d6f86633-q1h57wD",
-      "downloaded_at": "2026-09-08T13:03:00.173803+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/1d3217bd-64b2-4e87-86a1-f0d094712cd4/Personal+Data+Disclosure+Cases+Guideline.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-1d3217bd-64b2-4e87-86a1-f0d094712cd4-q1h53Fx",
-      "downloaded_at": "2026-09-08T13:02:53.219337+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/26a4b6a4-121f-4dc1-b22a-08b5f71ce101/Personal+Data+Destruction%2C+Anonymization%2C+and+Encryption+Guideline.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-26a4b6a4-121f-4dc1-b22a-08b5f71ce101-q1h56aq",
-      "downloaded_at": "2026-09-08T13:02:46.439067+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/f579bc32-fda8-47bd-bc6f-66b8cb77985c/ENG-Guide+to+the+saudi+PDP+law+for+controllersprocessors.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-f579bc32-fda8-47bd-bc6f-66b8cb77985c-q1h56Hb",
-      "downloaded_at": "2026-09-08T13:02:39.658178+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/affd3916-0c4d-46e9-bb66-613a860fd541/Minimum+Personal+Data+Determination+Guideline.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-affd3916-0c4d-46e9-bb66-613a860fd541-q1h57pz",
-      "downloaded_at": "2026-09-08T13:02:35.968790+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/3125da48-43dd-46bc-9156-1f7b91ab8f54/Elaboration+and+Developing+Privacy+Policy+Guideline.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-3125da48-43dd-46bc-9156-1f7b91ab8f54-q1h53Ml",
-      "downloaded_at": "2026-09-08T13:02:28.274080+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/2a9a4744-a2ae-444f-bad2-6dacde843637/The+impelementing+regulation+of+the+personal+data+protection+law.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-2a9a4744-a2ae-444f-bad2-6dacde843637-q1h56nV",
-      "downloaded_at": "2026-09-08T13:02:23.207806+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/b5d1907f-1b54-469d-8609-204ede2fa928/Data+Sharing+Policy.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-b5d1907f-1b54-469d-8609-204ede2fa928-q1h54DW",
-      "downloaded_at": "2026-09-08T13:02:20.741815+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/381e1ec2-9a51-42a9-94ff-18cfb4d46e26/Rules+Governing+the+Issuance+of+Accreditation+Certificates+for+Controllers+and+Processers.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-381e1ec2-9a51-42a9-94ff-18cfb4d46e26-q1h54yH",
-      "downloaded_at": "2026-09-08T13:01:50.424871+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/e5bbede0-1119-4f70-b4ef-f043ce58d780/Regulation+on+Personal+Data+Transfer+Outside+the+Kingdom..pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-e5bbede0-1119-4f70-b4ef-f043ce58d780-q1h54UK",
-      "downloaded_at": "2026-09-08T13:01:49.020338+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Secretary of the Board guide.pdf",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Secretary of the Board guide.pdf",
-      "downloaded_at": "2026-09-07T19:58:21.396502+00:00",
       "source_kind": "ministry"
     }
   ],
