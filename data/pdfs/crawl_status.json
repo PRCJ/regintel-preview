@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-16T14:08:25.947080+00:00",
+  "updated_at": "2026-09-16T20:13:13.848407+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "35101718002",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/35101718002",
+  "message": "merged 9 ministry PDFs from parallel crawl",
+  "run_id": "35140901301",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/35140901301",
   "totals": {
-    "pdfs": 2117,
+    "pdfs": 2126,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -37,7 +37,7 @@
     },
     {
       "jurisdiction": "Saudi Arabia - CMA",
-      "count": 62
+      "count": 71
     },
     {
       "jurisdiction": "Saudi Arabia - SASO",
@@ -71,11 +71,74 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2117
+      "count": 2126
     }
   ],
   "current_source": null,
   "recent_pdfs": [
+    {
+      "title": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/Implementing_Rules_on_Targeted_Financial_Sanctions_en.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/Implementing_Rules_on_Targeted_Financial_Sanctions_en.pdf",
+      "downloaded_at": "2026-09-16T19:40:30.094901+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/Simplified_Due_Diligence_Guideline_en.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/Simplified_Due_Diligence_Guideline_en.pdf",
+      "downloaded_at": "2026-09-16T19:40:28.944347+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/Enhanced_Due_Diligence_Guideline_en.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/Enhanced_Due_Diligence_Guideline_en.pdf",
+      "downloaded_at": "2026-09-16T19:40:27.340653+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/BRA_Guideline_en.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/BRA_Guideline_en.pdf",
+      "downloaded_at": "2026-09-16T19:40:25.249636+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "CRA Authorisation Application Guidance Notes",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/en/RulesRegulations/FormsSite/Documents/CRA_Authorisation_Application_Guidance_Notes.pdf",
+      "downloaded_at": "2026-09-16T19:40:23.402028+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Guidance Notes for New Registration Application Form",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/en/RulesRegulations/FormsSite/Documents/Guidance_Notes_for_New_Registration_Application_Form.pdf",
+      "downloaded_at": "2026-09-16T19:40:22.719981+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Cyber_Security_en.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Cyber_Security_en.pdf",
+      "downloaded_at": "2026-09-16T19:40:22.034533+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Listed CompaniesEN.PDF",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Listed CompaniesEN.PDF",
+      "downloaded_at": "2026-09-16T19:40:11.521378+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Guide to Obligations.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Guide to Obligations.pdf",
+      "downloaded_at": "2026-09-16T19:40:08.260917+00:00",
+      "source_kind": "ministry"
+    },
     {
       "title": "Download",
       "jurisdiction": "Saudi Arabia - ZATCA",
@@ -116,69 +179,6 @@
       "jurisdiction": "Saudi Arabia - ZATCA",
       "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/CRS_FATCA_Nillreport.pdf",
       "downloaded_at": "2026-09-16T04:50:24.562275+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/CRS_Indicia.pdf",
-      "downloaded_at": "2026-09-16T04:50:23.286974+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/CRS_Nationality_Tax_Residency.pdf",
-      "downloaded_at": "2026-09-16T04:50:22.041099+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/Foreign-Account-Tax-Compliance-Act-Indicia-FATCA.pdf",
-      "downloaded_at": "2026-09-16T04:49:54.633865+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "قواعد جباية الزكاة من المستثمرين في الصناديق الاستثمارية",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/CalculateZakat-investment-funds.pdf",
-      "downloaded_at": "2026-09-15T23:02:45.593422+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "قواعد عد م خضوع المكلف المملوك لوقف جباية الزكاة ​​",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/القواعد.pdf",
-      "downloaded_at": "2026-09-15T23:02:42.489670+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "قواعد عدم خضوع الجمعيات والمؤسسات الأهلية والوحدات التدريبية لجباية الزكاة​​",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/قواعد-عدم-خضوع-الجمعيات-والمؤسسات-الخيرية-والوحدات-التدريبية-لجباية-الزكاة.pdf",
-      "downloaded_at": "2026-09-15T23:02:40.547120+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "قواعد حساب زكاة أنشطة التمويل الصادرة بالقرار الوزاري رقم 2215 وتاريخ 7-7- 1440 المعدلة بموجب القرار الوزاري رقم(137) وت",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/قواعد%20حساب%20زكاة%20أنشطة%20التمويل.pdf",
-      "downloaded_at": "2026-09-15T23:02:38.912904+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "قواعد حساب زكاة مكلفي التقديري \"تحل هذه القواعد محل قواعد حساب زكاة مكلفي التقديري الإصدار الأول، وتسري على إقرارات مكلف",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/قواعد%20حساب%20زكاة%20مكلفي%20التقديري%202502.pdf",
-      "downloaded_at": "2026-09-15T23:02:38.087110+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "القرار الوزاري المعدل رقم 319 وتاريخ 1445/2/28هـ​",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/القرار%20الوزاري%20319%20بتعديل%20القرار%20الوزاري%202218.pdf",
-      "downloaded_at": "2026-09-15T23:02:31.793219+00:00",
       "source_kind": "ministry"
     }
   ],
