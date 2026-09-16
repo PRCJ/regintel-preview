@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-15T23:30:08.548863+00:00",
+  "updated_at": "2026-09-16T05:19:12.395279+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "35032865853",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/35032865853",
+  "message": "merged 9 ministry PDFs from parallel crawl",
+  "run_id": "35056251088",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/35056251088",
   "totals": {
-    "pdfs": 2108,
+    "pdfs": 2117,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -29,7 +29,7 @@
     },
     {
       "jurisdiction": "Saudi Arabia - ZATCA",
-      "count": 106
+      "count": 115
     },
     {
       "jurisdiction": "Saudi Arabia - NCA",
@@ -71,11 +71,74 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2108
+      "count": 2117
     }
   ],
   "current_source": null,
   "recent_pdfs": [
+    {
+      "title": "Download",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/Template%20for%20Self-Certification%20%26%20Declaration%20Form%20ENTITIES.pdf",
+      "downloaded_at": "2026-09-16T04:50:31.669381+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/CRS_CBI_RBI.pdf",
+      "downloaded_at": "2026-09-16T04:50:29.691093+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/CRS_UndocumentedAccounts.pdf",
+      "downloaded_at": "2026-09-16T04:50:28.631928+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/Dormant-and-Closed-Account-under-the-Common-Reporting-Standard-CRS.pdf",
+      "downloaded_at": "2026-09-16T04:50:27.572422+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/Clarification-on-the-use-and-Reporting-of-US-TINs-and-US-TIN-Codes-under-FATCA.pdf",
+      "downloaded_at": "2026-09-16T04:50:25.858178+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/CRS_FATCA_Nillreport.pdf",
+      "downloaded_at": "2026-09-16T04:50:24.562275+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/CRS_Indicia.pdf",
+      "downloaded_at": "2026-09-16T04:50:23.286974+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/CRS_Nationality_Tax_Residency.pdf",
+      "downloaded_at": "2026-09-16T04:50:22.041099+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/Foreign-Account-Tax-Compliance-Act-Indicia-FATCA.pdf",
+      "downloaded_at": "2026-09-16T04:49:54.633865+00:00",
+      "source_kind": "ministry"
+    },
     {
       "title": "قواعد جباية الزكاة من المستثمرين في الصناديق الاستثمارية",
       "jurisdiction": "Saudi Arabia - ZATCA",
@@ -116,69 +179,6 @@
       "jurisdiction": "Saudi Arabia - ZATCA",
       "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/القرار%20الوزاري%20319%20بتعديل%20القرار%20الوزاري%202218.pdf",
       "downloaded_at": "2026-09-15T23:02:31.793219+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "القرار الوزاري المعدل رقم 1343 وتاريخ 1441/3/28هـ",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/التعديل%20على%20قرار%20التحمل.pdf",
-      "downloaded_at": "2026-09-15T23:02:30.005875+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "القرار الوزاري رقم 2218 وتاريخ 1440/7/7هـ",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/قرار_التحمل.PDF",
-      "downloaded_at": "2026-09-15T23:02:26.929502+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "القرار الوزاري",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/القرارات%20الوزارية%20لأنشطة%20التمويل.pdf",
-      "downloaded_at": "2026-09-15T23:02:25.351512+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "قواعد حساب زكاة مكلفي التقديري \"تسري هذه القواعد على إقرارات مكلفي التقديري التي تُقدم بعد 2019/12/31م\"​​",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/قرار%20وقواعد%20التقديري.pdf",
-      "downloaded_at": "2026-09-15T23:02:22.313164+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "القرار الوزاري​",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/القرار%20الوزاري%20رقم%2029791.pdf",
-      "downloaded_at": "2026-09-15T23:02:17.393287+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "القرار​",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/القرار%20الوزاري_37981.pdf",
-      "downloaded_at": "2026-09-15T23:02:16.291321+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "القرار​",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/ar/RulesRegulations/Taxes/Documents/القرار%20الوزاري%2061600.pdf",
-      "downloaded_at": "2026-09-15T23:02:15.547868+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "عرض",
-      "jurisdiction": "Saudi Arabia - SAMA",
-      "url": "https://www.sama.gov.sa/ar-sa/MediaCenter/Documents/Identity/SAMA_brand_guidelines.pdf",
-      "downloaded_at": "2026-09-15T22:55:38.281024+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/2373caf0-1d44-47a5-8363-64605f1f16be/Mechanism+for+Requesting+a+Legal+Opinion.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-2373caf0-1d44-47a5-8363-64605f1f16be-q2blqiD",
-      "downloaded_at": "2026-09-10T22:39:10.784122+00:00",
       "source_kind": "ministry"
     }
   ],
