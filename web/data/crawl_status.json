@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-17T20:23:55.460064+00:00",
+  "updated_at": "2026-09-17T23:30:47.209625+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "35266318211",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/35266318211",
+  "message": "merged 1 ministry PDFs from parallel crawl",
+  "run_id": "35283795760",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/35283795760",
   "totals": {
-    "pdfs": 2126,
+    "pdfs": 2127,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -41,7 +41,7 @@
     },
     {
       "jurisdiction": "Saudi Arabia - SASO",
-      "count": 32
+      "count": 33
     },
     {
       "jurisdiction": "Saudi Arabia - GOSI",
@@ -71,11 +71,18 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2126
+      "count": 2127
     }
   ],
   "current_source": null,
   "recent_pdfs": [
+    {
+      "title": "Click for More",
+      "jurisdiction": "Saudi Arabia - SASO",
+      "url": "https://www.saso.gov.sa/ar/sectors/measurement/Documents/%d8%a7%d9%84%d9%84%d8%a7%d8%a6%d8%ad%d8%a9%20%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a%d8%a9%20%d9%84%d9%84%d9%82%d9%8a%d8%a7%d8%b3%20%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%8a%d8%b1%d8%a9.pdf",
+      "downloaded_at": "2026-09-17T23:01:31.380926+00:00",
+      "source_kind": "ministry"
+    },
     {
       "title": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/Implementing_Rules_on_Targeted_Financial_Sanctions_en.pdf",
       "jurisdiction": "Saudi Arabia - CMA",
@@ -172,13 +179,6 @@
       "jurisdiction": "Saudi Arabia - ZATCA",
       "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/Clarification-on-the-use-and-Reporting-of-US-TINs-and-US-TIN-Codes-under-FATCA.pdf",
       "downloaded_at": "2026-09-16T04:50:25.858178+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/CRS_FATCA_Nillreport.pdf",
-      "downloaded_at": "2026-09-16T04:50:24.562275+00:00",
       "source_kind": "ministry"
     }
   ],
