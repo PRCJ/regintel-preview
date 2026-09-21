@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-21T05:24:15.095954+00:00",
+  "updated_at": "2026-09-21T15:44:30.790337+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "35561899467",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/35561899467",
+  "message": "merged 5 ministry PDFs from parallel crawl",
+  "run_id": "35616212370",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/35616212370",
   "totals": {
-    "pdfs": 2127,
+    "pdfs": 2132,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -41,7 +41,7 @@
     },
     {
       "jurisdiction": "Saudi Arabia - SASO",
-      "count": 33
+      "count": 38
     },
     {
       "jurisdiction": "Saudi Arabia - GOSI",
@@ -71,11 +71,46 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2127
+      "count": 2132
     }
   ],
   "current_source": null,
   "recent_pdfs": [
+    {
+      "title": "اللائحة الفنية للمتطلبات العامة لسلامة الآلات تاريخ الاعتماد: 28/12/2023 تاريخ النشر:​ 29/03​/2024​​ تحميل",
+      "jurisdiction": "Saudi Arabia - SASO",
+      "url": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Documents/TR-Requirements-Machinery-Safety.pdf",
+      "downloaded_at": "2026-09-21T15:17:33.106587+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "اللائحة الفنية للصهاريج - الجزء الثالث: صهاريج نقل الغاز الجاف تاريخ الاعتماد: 03/10/2024 تاريخ النشر:​ 06/12/2024​​ الت",
+      "jurisdiction": "Saudi Arabia - SASO",
+      "url": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Documents/Technical-Regulations-for-Tanks-Part3-Dry-Gas-Transport-Tanks.pdf",
+      "downloaded_at": "2026-09-21T15:16:17.929337+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "اللائحة الفنية للمركبات ذاتية القيادة تاريخ الاعتماد: 17/07/2025 تاريخ النشر:​ 31/10/2025​ التطبيق الإلزامي: 29/04/2026 ",
+      "jurisdiction": "Saudi Arabia - SASO",
+      "url": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Documents/Technical-Regulation-Autonomous-Vehicles.pdf",
+      "downloaded_at": "2026-09-21T15:16:11.369507+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "قائمة المواصفات المتعلقة بتطبيق اللائحة الفنية للمركبات ذاتية القيادة تاريخ الاعتماد: 17/07/2025 تاريخ النشر:​ 31/10/202",
+      "jurisdiction": "Saudi Arabia - SASO",
+      "url": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Documents/List-of-Standards-Relevant-to-the-Implementation-of-the-Technical-Regulation-for-Autonomous-Vehicles.pdf",
+      "downloaded_at": "2026-09-21T15:15:48.083499+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "أصل الوثيقة",
+      "jurisdiction": "Saudi Arabia - SASO",
+      "url": "https://www.saso.gov.sa/ar/Laws-And-Regulations/exeRules/Documents/Regulation-Technical-Inspection-Vehicles.pdf",
+      "downloaded_at": "2026-09-21T15:15:44.692066+00:00",
+      "source_kind": "ministry"
+    },
     {
       "title": "Click for More",
       "jurisdiction": "Saudi Arabia - SASO",
@@ -144,41 +179,6 @@
       "jurisdiction": "Saudi Arabia - CMA",
       "url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Guide to Obligations.pdf",
       "downloaded_at": "2026-09-16T19:40:08.260917+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/Template%20for%20Self-Certification%20%26%20Declaration%20Form%20ENTITIES.pdf",
-      "downloaded_at": "2026-09-16T04:50:31.669381+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/CRS_CBI_RBI.pdf",
-      "downloaded_at": "2026-09-16T04:50:29.691093+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/CRS_UndocumentedAccounts.pdf",
-      "downloaded_at": "2026-09-16T04:50:28.631928+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/Dormant-and-Closed-Account-under-the-Common-Reporting-Standard-CRS.pdf",
-      "downloaded_at": "2026-09-16T04:50:27.572422+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/CircularsDocuments/Clarification-on-the-use-and-Reporting-of-US-TINs-and-US-TIN-Codes-under-FATCA.pdf",
-      "downloaded_at": "2026-09-16T04:50:25.858178+00:00",
       "source_kind": "ministry"
     }
   ],

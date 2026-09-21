@@ -188123,6 +188123,71 @@
       "http_status": 200,
       "content_type": "application/pdf",
       "downloaded_at": "2026-09-17T23:01:31.380926+00:00"
+    },
+    {
+      "url": "https://www.saso.gov.sa/ar/Laws-And-Regulations/exeRules/Documents/Regulation-Technical-Inspection-Vehicles.pdf",
+      "jurisdiction": "Saudi Arabia - SASO",
+      "source_kind": "ministry",
+      "source_page": "https://www.saso.gov.sa/ar/Laws-And-Regulations/exeRules/Pages/Regulation-Technical-Inspection-Vehicles.aspx",
+      "title": "أصل الوثيقة",
+      "path": "data/pdfs/Saudi_Arabia_SASO/ministry/Regulation-Technical-Inspection-Vehicles.pdf",
+      "bytes": 236388,
+      "sha256": "384597f58e59f9c1",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-09-21T15:15:44.692066+00:00"
+    },
+    {
+      "url": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Documents/List-of-Standards-Relevant-to-the-Implementation-of-the-Technical-Regulation-for-Autonomous-Vehicles.pdf",
+      "jurisdiction": "Saudi Arabia - SASO",
+      "source_kind": "ministry",
+      "source_page": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Pages/default.aspx",
+      "title": "قائمة المواصفات المتعلقة بتطبيق اللائحة الفنية للمركبات ذاتية القيادة تاريخ الاعتماد: 17/07/2025 تاريخ النشر:​ 31/10/2025​ التطبيق الإلزامي: 29/04/2026 ​ ​ تحميل",
+      "path": "data/pdfs/Saudi_Arabia_SASO/ministry/List-of-Standards-Relevant-to-the-Implementation-of-the-Technical-Regulation-for-Autonomous-Vehicles.pdf",
+      "bytes": 922887,
+      "sha256": "42673a330dd2adac",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-09-21T15:15:48.083499+00:00"
+    },
+    {
+      "url": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Documents/Technical-Regulation-Autonomous-Vehicles.pdf",
+      "jurisdiction": "Saudi Arabia - SASO",
+      "source_kind": "ministry",
+      "source_page": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Pages/default.aspx",
+      "title": "اللائحة الفنية للمركبات ذاتية القيادة تاريخ الاعتماد: 17/07/2025 تاريخ النشر:​ 31/10/2025​ التطبيق الإلزامي: 29/04/2026 ​ تحميل",
+      "path": "data/pdfs/Saudi_Arabia_SASO/ministry/Technical-Regulation-Autonomous-Vehicles.pdf",
+      "bytes": 2111498,
+      "sha256": "06c8a8b0a4f31014",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-09-21T15:16:11.369507+00:00"
+    },
+    {
+      "url": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Documents/Technical-Regulations-for-Tanks-Part3-Dry-Gas-Transport-Tanks.pdf",
+      "jurisdiction": "Saudi Arabia - SASO",
+      "source_kind": "ministry",
+      "source_page": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Pages/default.aspx",
+      "title": "اللائحة الفنية للصهاريج - الجزء الثالث: صهاريج نقل الغاز الجاف تاريخ الاعتماد: 03/10/2024 تاريخ النشر:​ 06/12/2024​​ التطبيق الإلزامي: 06/06/2025 تحميل",
+      "path": "data/pdfs/Saudi_Arabia_SASO/ministry/Technical-Regulations-for-Tanks-Part3-Dry-Gas-Transport-Tanks.pdf",
+      "bytes": 411473,
+      "sha256": "5178ec55565d8b64",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-09-21T15:16:17.929337+00:00"
+    },
+    {
+      "url": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Documents/TR-Requirements-Machinery-Safety.pdf",
+      "jurisdiction": "Saudi Arabia - SASO",
+      "source_kind": "ministry",
+      "source_page": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Pages/default.aspx",
+      "title": "اللائحة الفنية للمتطلبات العامة لسلامة الآلات تاريخ الاعتماد: 28/12/2023 تاريخ النشر:​ 29/03​/2024​​ تحميل",
+      "path": "data/pdfs/Saudi_Arabia_SASO/ministry/TR-Requirements-Machinery-Safety.pdf",
+      "bytes": 5754817,
+      "sha256": "b25658901d5453a6",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-09-21T15:17:33.106587+00:00"
     }
   ],
   "discovered": [
