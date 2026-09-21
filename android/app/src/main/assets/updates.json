@@ -1,7 +1,7 @@
 [
   {
-    "id": "4005f2f3d1bcfdad",
-    "discovered_at": "2026-09-20T10:10:50.280962+00:00",
+    "id": "6d91240050d7eb2f",
+    "discovered_at": "2026-09-21T11:13:31.860404+00:00",
     "country": "Canada - Federal",
     "region": "North America",
     "authority": "Canadian Securities Administrators (CSA)",
@@ -15,8 +15,38 @@
     "tracked_by": "collector"
   },
   {
-    "id": "83de4602b11d20b6",
-    "discovered_at": "2026-09-20T10:10:50.280962+00:00",
+    "id": "5cefd22167f397d4",
+    "discovered_at": "2026-09-21T11:13:31.860404+00:00",
+    "country": "Canada - Federal",
+    "region": "North America",
+    "authority": "Employment and Social Development Canada",
+    "law_area": "Enterprise",
+    "topical_relevance": "Environment Health & Safety, Labour and Employment, Modern Slavery, Records Management",
+    "title": "Government of Canada launches Black Canadian Communities Program",
+    "link": "https://www.canada.ca/en/employment-social-development/news/2026/09/government-of-canada-launches-black-canadian-communities-program.html",
+    "source_url": "https://www.canada.ca/en/news/advanced-news-search/news-results.html?_=1594308968371&dprtmnt=departmentofemploymentandsocialdevelopment&start=&end=",
+    "relevancy": "Pending",
+    "alert_status": "new",
+    "tracked_by": "collector"
+  },
+  {
+    "id": "3e20067eed119e2c",
+    "discovered_at": "2026-09-21T11:13:31.860404+00:00",
+    "country": "Canada - Federal",
+    "region": "North America",
+    "authority": "Employment and Social Development Canada",
+    "law_area": "Enterprise",
+    "topical_relevance": "Environment Health & Safety, Labour and Employment, Modern Slavery, Records Management",
+    "title": "Backgrounder : Black Canadian Communities Program",
+    "link": "https://www.canada.ca/en/employment-social-development/news/2026/09/backgrounder--black-canadian-communities-program.html",
+    "source_url": "https://www.canada.ca/en/news/advanced-news-search/news-results.html?_=1594308968371&dprtmnt=departmentofemploymentandsocialdevelopment&start=&end=",
+    "relevancy": "Pending",
+    "alert_status": "new",
+    "tracked_by": "collector"
+  },
+  {
+    "id": "098938ebf2486436",
+    "discovered_at": "2026-09-21T11:13:31.860404+00:00",
     "country": "Canada - Federal",
     "region": "North America",
     "authority": "Canadian Securities Administrators (CSA)",
