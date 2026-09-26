@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-25T23:55:04.332278+00:00",
+  "updated_at": "2026-09-26T05:24:32.117709+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "36200274033",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/36200274033",
+  "message": "merged 5 ministry PDFs from parallel crawl",
+  "run_id": "36218711877",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/36218711877",
   "totals": {
-    "pdfs": 2134,
+    "pdfs": 2139,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -29,7 +29,7 @@
     },
     {
       "jurisdiction": "Saudi Arabia - ZATCA",
-      "count": 115
+      "count": 120
     },
     {
       "jurisdiction": "Saudi Arabia - NCA",
@@ -71,11 +71,46 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2134
+      "count": 2139
     }
   ],
   "current_source": null,
   "recent_pdfs": [
+    {
+      "title": "Download",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/Documents/Convention%20on%20Mutual%20Administrative%20Assistance%20in%20Tax%20Matters.pdf",
+      "downloaded_at": "2026-09-26T04:58:54.213152+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/Documents/CBCR%20Multilateral%20Competent%20Authority%20Agreement.pdf",
+      "downloaded_at": "2026-09-26T04:58:53.627468+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/Documents/Agreement%20between%20the%20Government%20of%20the%20United%20States%20of%20America%20FATCA.pdf",
+      "downloaded_at": "2026-09-26T04:58:53.068688+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/Documents/CRS%20Multilateral%20Competent%20Authority.pdf",
+      "downloaded_at": "2026-09-26T04:58:52.150456+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "Download",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/Publications/Ministerial%20Resolution%20No.%20(131)%20%E2%80%93%20Penalty%20Regulation.pdf",
+      "downloaded_at": "2026-09-26T04:58:51.264542+00:00",
+      "source_kind": "ministry"
+    },
     {
       "title": "اللائحة الفنية لتركيبات العربات المعلقة تاريخ الاعتماد: 14/07/2023 تاريخ النشر:​ 25/08​/2023​ تحميل",
       "jurisdiction": "Saudi Arabia - SASO",
@@ -144,41 +179,6 @@
       "jurisdiction": "Saudi Arabia - CMA",
       "url": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/Simplified_Due_Diligence_Guideline_en.pdf",
       "downloaded_at": "2026-09-16T19:40:28.944347+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/Enhanced_Due_Diligence_Guideline_en.pdf",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/Enhanced_Due_Diligence_Guideline_en.pdf",
-      "downloaded_at": "2026-09-16T19:40:27.340653+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/BRA_Guideline_en.pdf",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/BRA_Guideline_en.pdf",
-      "downloaded_at": "2026-09-16T19:40:25.249636+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "CRA Authorisation Application Guidance Notes",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/en/RulesRegulations/FormsSite/Documents/CRA_Authorisation_Application_Guidance_Notes.pdf",
-      "downloaded_at": "2026-09-16T19:40:23.402028+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Guidance Notes for New Registration Application Form",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/en/RulesRegulations/FormsSite/Documents/Guidance_Notes_for_New_Registration_Application_Form.pdf",
-      "downloaded_at": "2026-09-16T19:40:22.719981+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Cyber_Security_en.pdf",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/en/RulesRegulations/Guides/Documents/Cyber_Security_en.pdf",
-      "downloaded_at": "2026-09-16T19:40:22.034533+00:00",
       "source_kind": "ministry"
     }
   ],
