@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-26T05:24:40.910565+00:00",
+  "updated_at": "2026-09-26T13:36:50.542067+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "36218711877",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/36218711877",
+  "message": "merged 1 ministry PDFs from parallel crawl",
+  "run_id": "36243576903",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/36243576903",
   "totals": {
-    "pdfs": 2139,
+    "pdfs": 2140,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -41,7 +41,7 @@
     },
     {
       "jurisdiction": "Saudi Arabia - SASO",
-      "count": 40
+      "count": 41
     },
     {
       "jurisdiction": "Saudi Arabia - GOSI",
@@ -71,11 +71,18 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2139
+      "count": 2140
     }
   ],
   "current_source": null,
   "recent_pdfs": [
+    {
+      "title": "اللائحة الفنية لمتطلبات وضع الاستعداد والسكون في الأجهزة الكهربائية والإلكترونية تاريخ الاعتماد: 06/04/2023 تاريخ النشر:",
+      "jurisdiction": "Saudi Arabia - SASO",
+      "url": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Documents/TR-Requirements-Electrical-Electronic-Equipment.pdf",
+      "downloaded_at": "2026-09-26T13:12:11.275878+00:00",
+      "source_kind": "ministry"
+    },
     {
       "title": "Download",
       "jurisdiction": "Saudi Arabia - ZATCA",
@@ -172,13 +179,6 @@
       "jurisdiction": "Saudi Arabia - CMA",
       "url": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/Implementing_Rules_on_Targeted_Financial_Sanctions_en.pdf",
       "downloaded_at": "2026-09-16T19:40:30.094901+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/Simplified_Due_Diligence_Guideline_en.pdf",
-      "jurisdiction": "Saudi Arabia - CMA",
-      "url": "https://cma.gov.sa/en/RulesRegulations/Circulars/Documents/Simplified_Due_Diligence_Guideline_en.pdf",
-      "downloaded_at": "2026-09-16T19:40:28.944347+00:00",
       "source_kind": "ministry"
     }
   ],

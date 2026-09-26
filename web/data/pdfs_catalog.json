@@ -1,5 +1,30 @@
 [
   {
+    "id": "9189ec73295b32a4",
+    "title": "اللائحة الفنية لمتطلبات وضع الاستعداد والسكون في الأجهزة الكهربائية والإلكترونية تاريخ الاعتماد: 06/04/2023 تاريخ النشر:​ 19/05/2023​ تحميل",
+    "filename": "TR-Requirements-Electrical-Electronic-Equipment.pdf",
+    "jurisdiction": "Saudi Arabia - SASO",
+    "site_code": "SASO",
+    "source_kind": "ministry",
+    "law_type": "regulation",
+    "year": 2023,
+    "years": [
+      2023
+    ],
+    "language": "und",
+    "status": "downloaded",
+    "host": "saso.gov.sa",
+    "filename_tags": [],
+    "source_page": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Pages/default.aspx",
+    "url": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Documents/TR-Requirements-Electrical-Electronic-Equipment.pdf",
+    "open_url": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Documents/TR-Requirements-Electrical-Electronic-Equipment.pdf",
+    "download_url": null,
+    "bytes": 3668319,
+    "sha256": "9189ec73295b32a4",
+    "downloaded_at": "2026-09-26T13:12:11.275878+00:00",
+    "local_path": "data/pdfs/Saudi_Arabia_SASO/ministry/TR-Requirements-Electrical-Electronic-Equipment.pdf"
+  },
+  {
     "id": "621cf8e8e74fd2c9",
     "title": "Convention on Mutual Administrative Assistance in Tax Matters",
     "filename": "Convention on Mutual Administrative Assistance in Tax Matters.pdf",

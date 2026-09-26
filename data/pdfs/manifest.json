@@ -188279,6 +188279,19 @@
       "http_status": 200,
       "content_type": "application/pdf",
       "downloaded_at": "2026-09-26T04:58:54.213152+00:00"
+    },
+    {
+      "url": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Documents/TR-Requirements-Electrical-Electronic-Equipment.pdf",
+      "jurisdiction": "Saudi Arabia - SASO",
+      "source_kind": "ministry",
+      "source_page": "https://www.saso.gov.sa/ar/Laws-And-Regulations/Technical_regulations/Pages/default.aspx",
+      "title": "اللائحة الفنية لمتطلبات وضع الاستعداد والسكون في الأجهزة الكهربائية والإلكترونية تاريخ الاعتماد: 06/04/2023 تاريخ النشر:​ 19/05/2023​ تحميل",
+      "path": "data/pdfs/Saudi_Arabia_SASO/ministry/TR-Requirements-Electrical-Electronic-Equipment.pdf",
+      "bytes": 3668319,
+      "sha256": "9189ec73295b32a4",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-09-26T13:12:11.275878+00:00"
     }
   ],
   "discovered": [
