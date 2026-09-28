@@ -10458,7 +10458,25 @@
     "alert_status": "new"
   },
   {
-    "id": "96927a613ffd8896",
+    "id": "e4060603b85c2927",
+    "name": "Deputy Superintendent Radiskovic participates in a fireside chat at IIF-CBA Canada Forum 2026 September 11, 2026",
+    "summary": "Topics: Crypto/ Digital Assets, ESG, Derivatives, Public & OTC Market · Law area: Private, Capital · Jurisdiction: Canada (federal) · Issued / tracked under: Office of the Superintendent of Financial Institutions (OSFI) · Awaiting analyst review",
+    "country": "Canada",
+    "level": "Federal",
+    "level_detail": "Federal",
+    "law_area": "Private, Capital",
+    "topic": "Crypto/ Digital Assets, ESG, Derivatives, Public & OTC Market",
+    "link": "https://www.osfi-bsif.gc.ca/index%2ephp/en/news/deputy-superintendent-radiskovic-participates-fireside-chat-iif-cba-canada-forum-2026",
+    "authority": "Office of the Superintendent of Financial Institutions (OSFI)",
+    "authority_url": "https://www.osfi-bsif.gc.ca/en",
+    "region": "North America",
+    "date": "2026-09-28T12:08:06.166967+00:00",
+    "source": "collector",
+    "relevancy": "Pending",
+    "alert_status": "new"
+  },
+  {
+    "id": "9a616321d809a34f",
     "name": "Page content changed — Canadian Securities Administrators (CSA)",
     "summary": "Topics: Take Private/ Over Rules, Shareholder Rights, Crypto/ Digital Assets, Merger Control (+7 more) · Law area: Private, Capital · Jurisdiction: Canada (federal) · Issued / tracked under: Canadian Securities Administrators (CSA) · Awaiting analyst review",
     "country": "Canada",
@@ -10470,13 +10488,13 @@
     "authority": "Canadian Securities Administrators (CSA)",
     "authority_url": "https://www.securities-administrators.ca/",
     "region": "North America",
-    "date": "2026-09-27T10:54:48.058382+00:00",
+    "date": "2026-09-28T12:08:06.166967+00:00",
     "source": "collector",
     "relevancy": "Pending",
     "alert_status": "new"
   },
   {
-    "id": "272c499b982ef4ab",
+    "id": "f1f06fa6bf485534",
     "name": "Page content changed — Canadian Securities Administrators (CSA)",
     "summary": "Topics: Corporate Governance, Corporate Disputes & Arbitration, Corporate/Entity Formation Laws/Transparency, Securities Law Class Action · Law area: Enterprise · Jurisdiction: Canada (federal) · Issued / tracked under: Canadian Securities Administrators (CSA) · Awaiting analyst review",
     "country": "Canada",
@@ -10488,7 +10506,7 @@
     "authority": "Canadian Securities Administrators (CSA)",
     "authority_url": "https://www.securities-administrators.ca/news/",
     "region": "North America",
-    "date": "2026-09-27T10:54:48.058382+00:00",
+    "date": "2026-09-28T12:08:06.166967+00:00",
     "source": "collector",
     "relevancy": "Pending",
     "alert_status": "new"

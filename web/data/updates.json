@@ -1,7 +1,7 @@
 [
   {
-    "id": "96927a613ffd8896",
-    "discovered_at": "2026-09-27T10:54:48.058382+00:00",
+    "id": "9a616321d809a34f",
+    "discovered_at": "2026-09-28T12:08:06.166967+00:00",
     "country": "Canada - Federal",
     "region": "North America",
     "authority": "Canadian Securities Administrators (CSA)",
@@ -15,8 +15,23 @@
     "tracked_by": "collector"
   },
   {
-    "id": "272c499b982ef4ab",
-    "discovered_at": "2026-09-27T10:54:48.058382+00:00",
+    "id": "e4060603b85c2927",
+    "discovered_at": "2026-09-28T12:08:06.166967+00:00",
+    "country": "Canada - Federal",
+    "region": "North America",
+    "authority": "Office of the Superintendent of Financial Institutions (OSFI)",
+    "law_area": "Private; Capital",
+    "topical_relevance": "Crypto/ Digital Assets, ESG, Derivatives, Public & OTC Market",
+    "title": "Deputy Superintendent Radiskovic participates in a fireside chat at IIF-CBA Canada Forum 2026 September 11, 2026",
+    "link": "https://www.osfi-bsif.gc.ca/index%2ephp/en/news/deputy-superintendent-radiskovic-participates-fireside-chat-iif-cba-canada-forum-2026",
+    "source_url": "https://www.osfi-bsif.gc.ca/en",
+    "relevancy": "Pending",
+    "alert_status": "new",
+    "tracked_by": "collector"
+  },
+  {
+    "id": "f1f06fa6bf485534",
+    "discovered_at": "2026-09-28T12:08:06.166967+00:00",
     "country": "Canada - Federal",
     "region": "North America",
     "authority": "Canadian Securities Administrators (CSA)",
