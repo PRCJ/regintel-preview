@@ -1,5 +1,50 @@
 [
   {
+    "id": "e3b78f10722cf8e4",
+    "title": "Rules Registering Auditors of Entities EN 2026",
+    "jurisdiction": "Saudi Arabia - CMA",
+    "source_kind": "ministry",
+    "url": "https://cma.org.sa/en/RulesRegulations/Regulations/Documents/Rules-Registering-Auditors-of-Entities-EN_2026.pdf",
+    "open_url": "https://cma.org.sa/en/RulesRegulations/Regulations/Documents/Rules-Registering-Auditors-of-Entities-EN_2026.pdf",
+    "source_page": "https://cma.org.sa/en/RulesRegulations/Regulations/Pages/default.aspx",
+    "summary": "Rules Registering Auditors of Entities EN 2026 issued under the Environmental Law (Royal Decree M/30 dated 2/6/1424H). Implemented by CMA. To apply you must submit: b) The accounting firm must submit its application for registration in accordance; c) The CPA must submit his application for registration through t he accounting.",
+    "key_points": [
+      "Parent law: Environmental Law — Royal Decree M/30 dated 2/6/1424H",
+      "Regulator: CMA",
+      "Apply with: b) The accounting firm must submit its application for registration in accordance",
+      "Apply with: c) The CPA must submit his application for registration through t he accounting"
+    ],
+    "title_en": "Rules Registering Auditors of Entities EN 2026",
+    "summary_en": "Rules Registering Auditors of Entities EN 2026 issued under the Environmental Law (Royal Decree M/30 dated 2/6/1424H). Implemented by CMA. To apply you must submit: b) The accounting firm must submit its application for registration in accordance; c) The CPA must submit his application for registration through t he accounting.",
+    "key_points_en": [
+      "Parent law: Environmental Law — Royal Decree M/30 dated 2/6/1424H",
+      "Regulator: CMA",
+      "Apply with: b) The accounting firm must submit its application for registration in accordance",
+      "Apply with: c) The CPA must submit his application for registration through t he accounting"
+    ],
+    "translate_engine": "same",
+    "topics": [
+      "regulation",
+      "MEWA",
+      "environment"
+    ],
+    "document_type": "regulation",
+    "method": "extractive_regulation",
+    "summarized_at": "2026-09-29T22:27:38.554374+00:00",
+    "ai_relevance_score": 92,
+    "ai_relevance_category": "critical",
+    "ai_document_type": "REGULATION",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Document type is a law/regulation that typically creates obligations.",
+    "english_title": "Rules Registering Auditors of Entities EN 2026",
+    "english_summary": "Rules Registering Auditors of Entities EN 2026 issued under the Environmental Law (Royal Decree M/30 dated 2/6/1424H). Implemented by CMA. To apply you must submit: b) The accounting firm must submit its application for registration in accordance; c) The CPA must submit his application for registration through t he accounting.",
+    "regulator": "Capital Market Authority (CMA)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-09-29T22:27:48.951645+00:00",
+    "score_method": "heuristic"
+  },
+  {
     "id": "9189ec73295b32a4",
     "title": "اللائحة الفنية لمتطلبات وضع الاستعداد والسكون في الأجهزة الكهربائية والإلكترونية تاريخ الاعتماد: 06/04/2023 تاريخ النشر:​ 19/05/2023​ تحميل",
     "jurisdiction": "Saudi Arabia - SASO",
