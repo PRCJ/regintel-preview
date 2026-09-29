@@ -1,5 +1,30 @@
 [
   {
+    "id": "e3b78f10722cf8e4",
+    "title": "Rules Registering Auditors of Entities EN 2026",
+    "filename": "Rules-Registering-Auditors-of-Entities-EN_2026.pdf",
+    "jurisdiction": "Saudi Arabia - CMA",
+    "site_code": "CMA",
+    "source_kind": "ministry",
+    "law_type": "regulation",
+    "year": 2026,
+    "years": [
+      2026
+    ],
+    "language": "und",
+    "status": "downloaded",
+    "host": "cma.org.sa",
+    "filename_tags": [],
+    "source_page": "https://cma.org.sa/en/RulesRegulations/Regulations/Pages/default.aspx",
+    "url": "https://cma.org.sa/en/RulesRegulations/Regulations/Documents/Rules-Registering-Auditors-of-Entities-EN_2026.pdf",
+    "open_url": "https://cma.org.sa/en/RulesRegulations/Regulations/Documents/Rules-Registering-Auditors-of-Entities-EN_2026.pdf",
+    "download_url": null,
+    "bytes": 331829,
+    "sha256": "e3b78f10722cf8e4",
+    "downloaded_at": "2026-09-29T18:06:48.432679+00:00",
+    "local_path": "data/pdfs/Saudi_Arabia_CMA/ministry/Rules-Registering-Auditors-of-Entities-EN_2026.pdf"
+  },
+  {
     "id": "9189ec73295b32a4",
     "title": "اللائحة الفنية لمتطلبات وضع الاستعداد والسكون في الأجهزة الكهربائية والإلكترونية تاريخ الاعتماد: 06/04/2023 تاريخ النشر:​ 19/05/2023​ تحميل",
     "filename": "TR-Requirements-Electrical-Electronic-Equipment.pdf",
