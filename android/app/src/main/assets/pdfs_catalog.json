@@ -1,5 +1,30 @@
 [
   {
+    "id": "cc2c0f18233c33e2",
+    "title": "Download File",
+    "filename": "PlatformGuidelinesCleanVersion_EN.pdf",
+    "jurisdiction": "Saudi Arabia - SDAIA",
+    "site_code": "SDAIA",
+    "source_kind": "ministry",
+    "law_type": "other",
+    "year": 2026,
+    "years": [
+      2026
+    ],
+    "language": "en",
+    "status": "downloaded",
+    "host": "dgp.sdaia.gov.sa",
+    "filename_tags": [],
+    "source_page": "https://dgp.sdaia.gov.sa/wps/portal/pdp/services/dataregulatorysandbox",
+    "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/4b9c8e09-4547-4e4c-a3e7-0818d66ebf29/PlatformGuidelinesCleanVersion_EN.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-4b9c8e09-4547-4e4c-a3e7-0818d66ebf29-q3JlZ-8",
+    "open_url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/4b9c8e09-4547-4e4c-a3e7-0818d66ebf29/PlatformGuidelinesCleanVersion_EN.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-4b9c8e09-4547-4e4c-a3e7-0818d66ebf29-q3JlZ-8",
+    "download_url": null,
+    "bytes": 761579,
+    "sha256": "cc2c0f18233c33e2",
+    "downloaded_at": "2026-09-29T23:50:16.325831+00:00",
+    "local_path": "data/pdfs/Saudi_Arabia_SDAIA/ministry/PlatformGuidelinesCleanVersion_EN.pdf"
+  },
+  {
     "id": "e3b78f10722cf8e4",
     "title": "Rules Registering Auditors of Entities EN 2026",
     "filename": "Rules-Registering-Auditors-of-Entities-EN_2026.pdf",

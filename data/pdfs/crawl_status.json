@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-09-29T18:42:27.836357+00:00",
+  "updated_at": "2026-09-30T00:17:15.956008+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "36609006157",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/36609006157",
+  "message": "merged 1 ministry PDFs from parallel crawl",
+  "run_id": "36646144044",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/36646144044",
   "totals": {
-    "pdfs": 2141,
+    "pdfs": 2142,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -13,7 +13,7 @@
   "by_jurisdiction": [
     {
       "jurisdiction": "Saudi Arabia - SDAIA",
-      "count": 874
+      "count": 875
     },
     {
       "jurisdiction": "Saudi Arabia - MEWA",
@@ -71,11 +71,18 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2141
+      "count": 2142
     }
   ],
   "current_source": null,
   "recent_pdfs": [
+    {
+      "title": "Download File",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/4b9c8e09-4547-4e4c-a3e7-0818d66ebf29/PlatformGuidelinesCleanVersion_EN.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-4b9c8e09-4547-4e4c-a3e7-0818d66ebf29-q3JlZ-8",
+      "downloaded_at": "2026-09-29T23:50:16.325831+00:00",
+      "source_kind": "ministry"
+    },
     {
       "title": "https://cma.org.sa/en/RulesRegulations/Regulations/Documents/Rules-Registering-Auditors-of-Entities-EN_2026.pdf",
       "jurisdiction": "Saudi Arabia - CMA",
@@ -172,13 +179,6 @@
       "jurisdiction": "Saudi Arabia - SASO",
       "url": "https://www.saso.gov.sa/ar/Laws-And-Regulations/exeRules/Documents/Regulation-Technical-Inspection-Vehicles.pdf",
       "downloaded_at": "2026-09-21T15:15:44.692066+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Click for More",
-      "jurisdiction": "Saudi Arabia - SASO",
-      "url": "https://www.saso.gov.sa/ar/sectors/measurement/Documents/%d8%a7%d9%84%d9%84%d8%a7%d8%a6%d8%ad%d8%a9%20%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a%d8%a9%20%d9%84%d9%84%d9%82%d9%8a%d8%a7%d8%b3%20%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d9%8a%d8%b1%d8%a9.pdf",
-      "downloaded_at": "2026-09-17T23:01:31.380926+00:00",
       "source_kind": "ministry"
     }
   ],
