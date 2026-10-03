@@ -188344,6 +188344,58 @@
       "http_status": 200,
       "content_type": "application/pdf",
       "downloaded_at": "2026-10-01T05:48:08.093486+00:00"
+    },
+    {
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/GuidelinesDocuments/AEOI_External_User_Guide.pdf",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "source_kind": "ministry",
+      "source_page": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/Pages/guidelines.aspx",
+      "title": "Download",
+      "path": "data/pdfs/Saudi_Arabia_ZATCA/ministry/AEOI_External_User_Guide.pdf",
+      "bytes": 5568345,
+      "sha256": "76a0b18404a4eb39",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-10-03T05:20:28.676397+00:00"
+    },
+    {
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/GuidelinesDocuments/CRS_Correction_and_Deletion_manual.pdf",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "source_kind": "ministry",
+      "source_page": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/Pages/guidelines.aspx",
+      "title": "Download",
+      "path": "data/pdfs/Saudi_Arabia_ZATCA/ministry/CRS_Correction_and_Deletion_manual.pdf",
+      "bytes": 2963652,
+      "sha256": "1b4b423df260188e",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-10-03T05:20:31.343167+00:00"
+    },
+    {
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/GuidelinesDocuments/CRS_Guidance_Notes.pdf",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "source_kind": "ministry",
+      "source_page": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/Pages/guidelines.aspx",
+      "title": "Download",
+      "path": "data/pdfs/Saudi_Arabia_ZATCA/ministry/CRS_Guidance_Notes.pdf",
+      "bytes": 2095645,
+      "sha256": "1bb94f2ca5e46696",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-10-03T05:20:33.547713+00:00"
+    },
+    {
+      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/GuidelinesDocuments/FATCA_Correction_and_Deletion_manual.pdf",
+      "jurisdiction": "Saudi Arabia - ZATCA",
+      "source_kind": "ministry",
+      "source_page": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/Pages/guidelines.aspx",
+      "title": "Download",
+      "path": "data/pdfs/Saudi_Arabia_ZATCA/ministry/FATCA_Correction_and_Deletion_manual.pdf",
+      "bytes": 6353009,
+      "sha256": "872da145bd887eda",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-10-03T05:20:54.287006+00:00"
     }
   ],
   "discovered": [
