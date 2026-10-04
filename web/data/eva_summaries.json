@@ -1,5 +1,55 @@
 [
   {
+    "id": "76a26bdb9a560d69",
+    "title": "Download File",
+    "jurisdiction": "Saudi Arabia - SDAIA",
+    "source_kind": "ministry",
+    "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/4b9c8e09-4547-4e4c-a3e7-0818d66ebf29/%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84+%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%B4%D8%A7%D8%AF%D9%8A+%D9%84%D9%84%D8%A8%D9%8A%D9%8A%D9%94%D8%A9+%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9+%D9%84%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA+++%D9%A1-%D9%A2++EN.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-4b9c8e09-4547-4e4c-a3e7-0818d66ebf29-q3SMRM7",
+    "open_url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/4b9c8e09-4547-4e4c-a3e7-0818d66ebf29/%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84+%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%B4%D8%A7%D8%AF%D9%8A+%D9%84%D9%84%D8%A8%D9%8A%D9%8A%D9%94%D8%A9+%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9+%D9%84%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA+++%D9%A1-%D9%A2++EN.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-4b9c8e09-4547-4e4c-a3e7-0818d66ebf29-q3SMRM7",
+    "source_page": "https://dgp.sdaia.gov.sa/wps/portal/pdp/services/dataregulatorysandbox",
+    "summary": "Download File. 11 Eighth: Participation Process 12 4 عام Public Classification: Document Introduction The Data Regulatory Sandbox supports and enables participating entities to test data -related products and services under the supervision of the regulatory authority, striking a balance between fostering innovation and ensuring compliance with applicable data laws and policies prior to broader implementation Bioinformatics Data: For the purposes of this Guideline, bioinformatics data refers to data resulting from the study or measurement of biological characteristics, components, or processes associated with individuals, such as genetic and genomic data, biomarkers, and other data of a biological nature relevant to the products and services under testing Personal Data Protection Track This track focuses on enabling compliance with the Personal Data Protection Law and its Regulations, thereby safeguarding individuals’ rights and promoting responsible practices in the collection, processing, and use of personal data The Authority (SDAIA) reserves the right to request any additional information or data from the participant at any stage for the purposes of evaluation, monitoring, or verifying complia",
+    "key_points": [
+      "11 Eighth: Participation Process 12 4 عام Public Classification: Document Introduction The Data Regulatory Sandbox supports and enables participating entities to test data -related products and services under the supervision of the regulatory authority, striking a balance between fostering innovation and ensuring compliance with applicable data laws and policies prior to broader implementation",
+      "Bioinformatics Data: For the purposes of this Guideline, bioinformatics data refers to data resulting from the study or measurement of biological characteristics, components, or processes associated with individuals, such as genetic and genomic data, biomarkers, and other data of a biological nature relevant to the products and services under testing",
+      "Personal Data Protection Track This track focuses on enabling compliance with the Personal Data Protection Law and its Regulations, thereby safeguarding individuals’ rights and promoting responsible practices in the collection, processing, and use of personal data",
+      "The Authority (SDAIA) reserves the right to request any additional information or data from the participant at any stage for the purposes of evaluation, monitoring, or verifying compliance",
+      "Data: A collection of facts in their raw or unstructured form, such as numbers, letters, still images, videos, audio recordings, or emojis"
+    ],
+    "title_en": "Download File",
+    "summary_en": "Download File. 11 Eighth: Participation Process 12 4 عام Public Classification: Document Introduction The Data Regulatory Sandbox supports and enables participating entities to test data -related products and services under the supervision of the regulatory authority, striking a balance between fostering innovation and ensuring compliance with applicable data laws and policies prior to broader implementation Bioinformatics Data: For the purposes of this Guideline, bioinformatics data refers to data resulting from the study or measurement of biological characteristics, components, or processes associated with individuals, such as genetic and genomic data, biomarkers, and other data of a biological nature relevant to the products and services under testing Personal Data Protection Track This track focuses on enabling compliance with the Personal Data Protection Law and its Regulations, thereby safeguarding individuals’ rights and promoting responsible practices in the collection, processing, and use of personal data The Authority (SDAIA) reserves the right to request any additional information or data from the participant at any stage for the purposes of evaluation, monitoring, or verifying complia",
+    "key_points_en": [
+      "11 Eighth: Participation Process 12 4 عام Public Classification: Document Introduction The Data Regulatory Sandbox supports and enables participating entities to test data -related products and services under the supervision of the regulatory authority, striking a balance between fostering innovation and ensuring compliance with applicable data laws and policies prior to broader implementation",
+      "Bioinformatics Data: For the purposes of this Guideline, bioinformatics data refers to data resulting from the study or measurement of biological characteristics, components, or processes associated with individuals, such as genetic and genomic data, biomarkers, and other data of a biological nature relevant to the products and services under testing",
+      "Personal Data Protection Track This track focuses on enabling compliance with the Personal Data Protection Law and its Regulations, thereby safeguarding individuals’ rights and promoting responsible practices in the collection, processing, and use of personal data",
+      "The Authority (SDAIA) reserves the right to request any additional information or data from the participant at any stage for the purposes of evaluation, monitoring, or verifying compliance",
+      "Data: A collection of facts in their raw or unstructured form, such as numbers, letters, still images, videos, audio recordings, or emojis"
+    ],
+    "translate_engine": "same",
+    "topics": [
+      "sandbox",
+      "regulatory",
+      "service",
+      "track",
+      "requirements",
+      "product"
+    ],
+    "document_type": "other",
+    "method": "extractive",
+    "summarized_at": "2026-10-04T21:42:41.253269+00:00",
+    "ai_relevance_score": 78,
+    "ai_relevance_category": "high",
+    "ai_document_type": "GUIDANCE",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Strong legal/regulatory keywords in title or summary.",
+    "english_title": "Download File",
+    "english_summary": "Download File. 11 Eighth: Participation Process 12 4 عام Public Classification: Document Introduction The Data Regulatory Sandbox supports and enables participating entities to test data -related products and services under the supervision of the regulatory authority, striking a balance between fostering innovation and ensuring compliance with applicable data laws and policies prior to broader implementation Bioinformatics Data: For the purposes of this Guideline, bioinformatics data refers to data resulting from the study or measurement of biological characteristics, components, or processes associated with individuals, such as genetic and genomic data, biomarkers, and other data of a biological nature relevant to the products and services under testing Personal Data Protection Track This track focuses on enabling compliance with the Personal Data Protection Law and its Regulations, thereby safeguarding individuals’ rights and promoting responsible practices in the collection, processing, and use of personal data The Authority (SDAIA) reserves the right to request any additional information or data from the participant at any stage for the purposes of evaluation, monitoring, or…",
+    "regulator": "Saudi Data and Artificial Intelligence Authority (SDAIA)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-10-04T21:42:52.756137+00:00",
+    "score_method": "heuristic"
+  },
+  {
     "id": "76a0b18404a4eb39",
     "title": "AEOI External User Guide",
     "jurisdiction": "Saudi Arabia - ZATCA",
