@@ -1,5 +1,30 @@
 [
   {
+    "id": "76a26bdb9a560d69",
+    "title": "Download File",
+    "filename": "الدليل+الاسترشادي+للبيي_ة+التنظيمية+التجريبية+للبيانات+++١-٢++EN.pdf",
+    "jurisdiction": "Saudi Arabia - SDAIA",
+    "site_code": "SDAIA",
+    "source_kind": "ministry",
+    "law_type": "other",
+    "year": 2026,
+    "years": [
+      2026
+    ],
+    "language": "en",
+    "status": "downloaded",
+    "host": "dgp.sdaia.gov.sa",
+    "filename_tags": [],
+    "source_page": "https://dgp.sdaia.gov.sa/wps/portal/pdp/services/dataregulatorysandbox",
+    "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/4b9c8e09-4547-4e4c-a3e7-0818d66ebf29/%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84+%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%B4%D8%A7%D8%AF%D9%8A+%D9%84%D9%84%D8%A8%D9%8A%D9%8A%D9%94%D8%A9+%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9+%D9%84%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA+++%D9%A1-%D9%A2++EN.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-4b9c8e09-4547-4e4c-a3e7-0818d66ebf29-q3SMRM7",
+    "open_url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/4b9c8e09-4547-4e4c-a3e7-0818d66ebf29/%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84+%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%B4%D8%A7%D8%AF%D9%8A+%D9%84%D9%84%D8%A8%D9%8A%D9%8A%D9%94%D8%A9+%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9+%D9%84%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA+++%D9%A1-%D9%A2++EN.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-4b9c8e09-4547-4e4c-a3e7-0818d66ebf29-q3SMRM7",
+    "download_url": null,
+    "bytes": 614396,
+    "sha256": "76a26bdb9a560d69",
+    "downloaded_at": "2026-10-04T19:39:58.330869+00:00",
+    "local_path": "data/pdfs/Saudi_Arabia_SDAIA/ministry/الدليل+الاسترشادي+للبيي_ة+التنظيمية+التجريبية+للبيانات+++١-٢++EN.pdf"
+  },
+  {
     "id": "872da145bd887eda",
     "title": "FATCA Correction and Deletion manual",
     "filename": "FATCA_Correction_and_Deletion_manual.pdf",
