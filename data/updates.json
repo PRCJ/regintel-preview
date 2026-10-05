@@ -1,7 +1,7 @@
 [
   {
-    "id": "8623d50f186d1d5b",
-    "discovered_at": "2026-10-04T11:24:07.306766+00:00",
+    "id": "eabec135e0b5795d",
+    "discovered_at": "2026-10-05T12:48:28.076003+00:00",
     "country": "Canada - Federal",
     "region": "North America",
     "authority": "Canadian Securities Administrators (CSA)",
@@ -10,6 +10,21 @@
     "title": "Page content changed — Canadian Securities Administrators (CSA)",
     "link": "https://www.securities-administrators.ca/",
     "source_url": "https://www.securities-administrators.ca/",
+    "relevancy": "Pending",
+    "alert_status": "new",
+    "tracked_by": "collector"
+  },
+  {
+    "id": "2c4d18bcbb2b76a4",
+    "discovered_at": "2026-10-05T12:48:28.076003+00:00",
+    "country": "Canada - Federal",
+    "region": "North America",
+    "authority": "Canadian Securities Administrators (CSA)",
+    "law_area": "Enterprise",
+    "topical_relevance": "Corporate Governance, Corporate Disputes & Arbitration, Corporate/Entity Formation Laws/Transparency, Securities Law Class Action",
+    "title": "Page content changed — Canadian Securities Administrators (CSA)",
+    "link": "https://www.securities-administrators.ca/news/",
+    "source_url": "https://www.securities-administrators.ca/news/",
     "relevancy": "Pending",
     "alert_status": "new",
     "tracked_by": "collector"
@@ -55,21 +70,6 @@
     "title": "Bank of Canada and OSFI issue joint statement on use of the Bank's Standing Liquidity Facility September 29, 2026",
     "link": "https://www.osfi-bsif.gc.ca/index%2ephp/en/news/bank-canada-osfi-issue-joint-statement-use-banks-standing-liquidity-facility",
     "source_url": "https://www.osfi-bsif.gc.ca/en",
-    "relevancy": "Pending",
-    "alert_status": "new",
-    "tracked_by": "collector"
-  },
-  {
-    "id": "9df5c378e3f2615b",
-    "discovered_at": "2026-10-04T11:24:07.306766+00:00",
-    "country": "Canada - Federal",
-    "region": "North America",
-    "authority": "Canadian Securities Administrators (CSA)",
-    "law_area": "Enterprise",
-    "topical_relevance": "Corporate Governance, Corporate Disputes & Arbitration, Corporate/Entity Formation Laws/Transparency, Securities Law Class Action",
-    "title": "Page content changed — Canadian Securities Administrators (CSA)",
-    "link": "https://www.securities-administrators.ca/news/",
-    "source_url": "https://www.securities-administrators.ca/news/",
     "relevancy": "Pending",
     "alert_status": "new",
     "tracked_by": "collector"
