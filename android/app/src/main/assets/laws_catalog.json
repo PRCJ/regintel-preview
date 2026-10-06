@@ -11088,7 +11088,25 @@
     "alert_status": "new"
   },
   {
-    "id": "eabec135e0b5795d",
+    "id": "5e1e5d72bf408102",
+    "name": "Canada and Northwest Territories partner to improve health infrastructure and access to health care for communities",
+    "summary": "Topics: Environment Health & Safety · Law area: Enterprise · Jurisdiction: Canada (federal) · Issued / tracked under: Health Canada · Awaiting analyst review",
+    "country": "Canada",
+    "level": "Federal",
+    "level_detail": "Federal",
+    "law_area": "Enterprise",
+    "topic": "Environment Health & Safety",
+    "link": "https://www.canada.ca/en/health-canada/news/2026/10/canada-and-northwest-territories-partner-to-improve-health-infrastructure-and-access-to-health-care-for-communities.html",
+    "authority": "Health Canada",
+    "authority_url": "https://www.canada.ca/en/news/advanced-news-search/news-results.html?_=1715886804157&dprtmnt=departmentofhealth&start=&end=",
+    "region": "North America",
+    "date": "2026-10-06T12:17:59.738073+00:00",
+    "source": "collector",
+    "relevancy": "Pending",
+    "alert_status": "new"
+  },
+  {
+    "id": "0cda0ac2440c3e9c",
     "name": "Page content changed — Canadian Securities Administrators (CSA)",
     "summary": "Topics: Take Private/ Over Rules, Shareholder Rights, Crypto/ Digital Assets, Merger Control (+7 more) · Law area: Private, Capital · Jurisdiction: Canada (federal) · Issued / tracked under: Canadian Securities Administrators (CSA) · Awaiting analyst review",
     "country": "Canada",
@@ -11100,13 +11118,13 @@
     "authority": "Canadian Securities Administrators (CSA)",
     "authority_url": "https://www.securities-administrators.ca/",
     "region": "North America",
-    "date": "2026-10-05T12:48:28.076003+00:00",
+    "date": "2026-10-06T12:17:59.738073+00:00",
     "source": "collector",
     "relevancy": "Pending",
     "alert_status": "new"
   },
   {
-    "id": "2c4d18bcbb2b76a4",
+    "id": "57485247f3cde57e",
     "name": "Page content changed — Canadian Securities Administrators (CSA)",
     "summary": "Topics: Corporate Governance, Corporate Disputes & Arbitration, Corporate/Entity Formation Laws/Transparency, Securities Law Class Action · Law area: Enterprise · Jurisdiction: Canada (federal) · Issued / tracked under: Canadian Securities Administrators (CSA) · Awaiting analyst review",
     "country": "Canada",
@@ -11118,7 +11136,7 @@
     "authority": "Canadian Securities Administrators (CSA)",
     "authority_url": "https://www.securities-administrators.ca/news/",
     "region": "North America",
-    "date": "2026-10-05T12:48:28.076003+00:00",
+    "date": "2026-10-06T12:17:59.738073+00:00",
     "source": "collector",
     "relevancy": "Pending",
     "alert_status": "new"
