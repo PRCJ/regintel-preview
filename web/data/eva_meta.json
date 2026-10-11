@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-10-11T13:10:50.529586+00:00",
-  "count": 2284,
-  "total_indexed": 2284,
+  "updated_at": "2026-10-11T22:11:08.978696+00:00",
+  "count": 2286,
+  "total_indexed": 2286,
   "llm_available": false,
   "translate": {
     "argos": false,
     "deep_translator": true,
     "primary": "deep-translator",
-    "with_en": 1363
+    "with_en": 1365
   },
-  "scored": 2284,
+  "scored": 2286,
   "score_bands": {
-    "high": 1175,
+    "high": 1177,
     "critical": 24,
     "not_relevant": 1033,
     "medium": 43,
