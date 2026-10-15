@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-14T20:49:24.250194+00:00",
+  "updated_at": "2026-10-15T05:03:01.635237+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "38629446728",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/38629446728",
+  "message": "merged 1 ministry PDFs from parallel crawl",
+  "run_id": "38681053119",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/38681053119",
   "totals": {
-    "pdfs": 2162,
+    "pdfs": 2163,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -52,16 +52,16 @@
       "count": 12
     },
     {
+      "jurisdiction": "Saudi Arabia - MOJ",
+      "count": 10
+    },
+    {
       "jurisdiction": "Saudi Arabia - SAMA",
       "count": 10
     },
     {
       "jurisdiction": "Saudi Arabia - IA",
       "count": 10
-    },
-    {
-      "jurisdiction": "Saudi Arabia - MOJ",
-      "count": 9
     },
     {
       "jurisdiction": "British Columbia",
@@ -71,11 +71,18 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2162
+      "count": 2163
     }
   ],
   "current_source": null,
   "recent_pdfs": [
+    {
+      "title": "Show Service",
+      "jurisdiction": "Saudi Arabia - MOJ",
+      "url": "https://www.moj.gov.sa/Documents/DictionaryOfLegalTermsV1.pdf",
+      "downloaded_at": "2026-10-15T04:24:10.064331+00:00",
+      "source_kind": "ministry"
+    },
     {
       "title": "quoted-path",
       "jurisdiction": "Saudi Arabia - SDAIA",
@@ -172,13 +179,6 @@
       "jurisdiction": "Saudi Arabia - SDAIA",
       "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/4b9c8e09-4547-4e4c-a3e7-0818d66ebf29/%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84+%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%B4%D8%A7%D8%AF%D9%8A+%D9%84%D9%84%D8%A8%D9%8A%D9%8A%D9%94%D8%A9+%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9+%D9%84%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA+++%D9%A1-%D9%A2++EN.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-4b9c8e09-4547-4e4c-a3e7-0818d66ebf29-q3SMRM7",
       "downloaded_at": "2026-10-04T19:39:58.330869+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download",
-      "jurisdiction": "Saudi Arabia - ZATCA",
-      "url": "https://zatca.gov.sa/en/RulesRegulations/InformationExchange/GuidelinesDocuments/FATCA_Correction_and_Deletion_manual.pdf",
-      "downloaded_at": "2026-10-03T05:20:54.287006+00:00",
       "source_kind": "ministry"
     }
   ],

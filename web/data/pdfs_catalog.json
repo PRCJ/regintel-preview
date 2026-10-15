@@ -1,5 +1,30 @@
 [
   {
+    "id": "ff9aebfa09564384",
+    "title": "Show Service",
+    "filename": "DictionaryOfLegalTermsV1.pdf",
+    "jurisdiction": "Saudi Arabia - MOJ",
+    "site_code": "MOJ",
+    "source_kind": "ministry",
+    "law_type": "other",
+    "year": 2026,
+    "years": [
+      2026
+    ],
+    "language": "und",
+    "status": "downloaded",
+    "host": "moj.gov.sa",
+    "filename_tags": [],
+    "source_page": "https://laws.moj.gov.sa/en",
+    "url": "https://www.moj.gov.sa/Documents/DictionaryOfLegalTermsV1.pdf",
+    "open_url": "https://www.moj.gov.sa/Documents/DictionaryOfLegalTermsV1.pdf",
+    "download_url": null,
+    "bytes": 4251141,
+    "sha256": "ff9aebfa09564384",
+    "downloaded_at": "2026-10-15T04:24:10.064331+00:00",
+    "local_path": "data/pdfs/Saudi_Arabia_MOJ/ministry/DictionaryOfLegalTermsV1.pdf"
+  },
+  {
     "id": "7ced97fc92361c63",
     "title": "quoted-path",
     "filename": "الدليل+الاسترشادي+للبيي_ة+التنظيمية+التجريبية+للبيانات+نسخة+عربي١-٢.pdf",

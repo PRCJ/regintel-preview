@@ -188578,6 +188578,19 @@
       "http_status": 200,
       "content_type": "application/pdf",
       "downloaded_at": "2026-10-11T20:39:17.251658+00:00"
+    },
+    {
+      "url": "https://www.moj.gov.sa/Documents/DictionaryOfLegalTermsV1.pdf",
+      "jurisdiction": "Saudi Arabia - MOJ",
+      "source_kind": "ministry",
+      "source_page": "https://laws.moj.gov.sa/en",
+      "title": "Show Service",
+      "path": "data/pdfs/Saudi_Arabia_MOJ/ministry/DictionaryOfLegalTermsV1.pdf",
+      "bytes": 4251141,
+      "sha256": "ff9aebfa09564384",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-10-15T04:24:10.064331+00:00"
     }
   ],
   "discovered": [
