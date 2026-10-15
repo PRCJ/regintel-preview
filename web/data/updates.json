@@ -1,7 +1,7 @@
 [
   {
-    "id": "3991212815bf8a20",
-    "discovered_at": "2026-10-14T10:43:03.031873+00:00",
+    "id": "783f2d0f3ca8f190",
+    "discovered_at": "2026-10-15T10:26:30.547222+00:00",
     "country": "Canada - Federal",
     "region": "North America",
     "authority": "Canadian Securities Administrators (CSA)",
@@ -10,6 +10,36 @@
     "title": "Page content changed — Canadian Securities Administrators (CSA)",
     "link": "https://www.securities-administrators.ca/",
     "source_url": "https://www.securities-administrators.ca/",
+    "relevancy": "Pending",
+    "alert_status": "new",
+    "tracked_by": "collector"
+  },
+  {
+    "id": "e6914d0e13d1b3b6",
+    "discovered_at": "2026-10-15T10:26:30.547222+00:00",
+    "country": "Canada - Federal",
+    "region": "North America",
+    "authority": "Office of the Privacy Commissioner of Canada",
+    "law_area": "Enterprise",
+    "topical_relevance": "Labour and Employment, Data Privacy, AI & Cybersecurity, Records Management",
+    "title": "Privacy Commissioner of Canada satisfied with WestJet’s enhanced security measures following cyberattack; closes investigation",
+    "link": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261014/",
+    "source_url": "https://www.priv.gc.ca/en/about-the-opc/publications/?Page=1",
+    "relevancy": "Pending",
+    "alert_status": "new",
+    "tracked_by": "collector"
+  },
+  {
+    "id": "8cfe2179c0914a03",
+    "discovered_at": "2026-10-15T10:26:30.547222+00:00",
+    "country": "Canada - Federal",
+    "region": "North America",
+    "authority": "Canadian Securities Administrators (CSA)",
+    "law_area": "Enterprise",
+    "topical_relevance": "Corporate Governance, Corporate Disputes & Arbitration, Corporate/Entity Formation Laws/Transparency, Securities Law Class Action",
+    "title": "Page content changed — Canadian Securities Administrators (CSA)",
+    "link": "https://www.securities-administrators.ca/news/",
+    "source_url": "https://www.securities-administrators.ca/news/",
     "relevancy": "Pending",
     "alert_status": "new",
     "tracked_by": "collector"
@@ -40,21 +70,6 @@
     "title": "Government of Canada announces appointment of Dr. George Mutwiri to the Canadian Institutes of Health Research Governing Council",
     "link": "https://www.canada.ca/en/health-canada/news/2026/10/government-of-canada-announces-appointment-of-dr-george-mutwiri-to-thecanadian-institutes-of-health-research-governing-council.html",
     "source_url": "https://www.canada.ca/en/news/advanced-news-search/news-results.html?_=1715886804157&dprtmnt=departmentofhealth&start=&end=",
-    "relevancy": "Pending",
-    "alert_status": "new",
-    "tracked_by": "collector"
-  },
-  {
-    "id": "b4b6b7b6f8f31532",
-    "discovered_at": "2026-10-14T10:43:03.031873+00:00",
-    "country": "Canada - Federal",
-    "region": "North America",
-    "authority": "Canadian Securities Administrators (CSA)",
-    "law_area": "Enterprise",
-    "topical_relevance": "Corporate Governance, Corporate Disputes & Arbitration, Corporate/Entity Formation Laws/Transparency, Securities Law Class Action",
-    "title": "Page content changed — Canadian Securities Administrators (CSA)",
-    "link": "https://www.securities-administrators.ca/news/",
-    "source_url": "https://www.securities-administrators.ca/news/",
     "relevancy": "Pending",
     "alert_status": "new",
     "tracked_by": "collector"
