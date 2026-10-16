@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-15T23:40:09.271070+00:00",
+  "updated_at": "2026-10-16T04:56:58.406795+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "38820735456",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/38820735456",
+  "message": "merged 2 ministry PDFs from parallel crawl",
+  "run_id": "38849817699",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/38849817699",
   "totals": {
-    "pdfs": 2163,
+    "pdfs": 2165,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -13,7 +13,7 @@
   "by_jurisdiction": [
     {
       "jurisdiction": "Saudi Arabia - SDAIA",
-      "count": 891
+      "count": 892
     },
     {
       "jurisdiction": "Saudi Arabia - MEWA",
@@ -53,7 +53,7 @@
     },
     {
       "jurisdiction": "Saudi Arabia - MOJ",
-      "count": 10
+      "count": 11
     },
     {
       "jurisdiction": "Saudi Arabia - SAMA",
@@ -71,11 +71,25 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2163
+      "count": 2165
     }
   ],
   "current_source": null,
   "recent_pdfs": [
+    {
+      "title": "quoted-path",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/1d3217bd-64b2-4e87-86a1-f0d094712cd4/Personal+Data+Disclosure+Cases+Guideline.pdf?MOD=AJPERES&amp;CONVERT_TO=url&amp;CACHEID=ROOTWORKSPACE-1d3217bd-64b2-4e87-86a1-f0d094712cd4-q1h53Fx",
+      "downloaded_at": "2026-10-16T04:29:52.514409+00:00",
+      "source_kind": "ministry"
+    },
+    {
+      "title": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=C3O9dWSbRvCEWj78UDAmYA",
+      "jurisdiction": "Saudi Arabia - MOJ",
+      "url": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=C3O9dWSbRvCEWj78UDAmYA",
+      "downloaded_at": "2026-10-16T04:19:48.932471+00:00",
+      "source_kind": "ministry"
+    },
     {
       "title": "Show Service",
       "jurisdiction": "Saudi Arabia - MOJ",
@@ -165,20 +179,6 @@
       "jurisdiction": "Saudi Arabia - SDAIA",
       "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/d60cac13-b94f-4e58-9af5-14c4979c376d/%D9%86%D8%B8%D8%A7%D9%85_%D8%AD%D9%85%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-d60cac13-b94f-4e58-9af5-14c4979c376d-q1h53SN",
       "downloaded_at": "2026-10-11T20:22:13.420832+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "تحميل الدليل",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/a2d99662-e9a5-4693-a406-9ca92ea23741/%D8%AF%D9%84%D9%8A%D9%84+%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85+%D9%84%D8%AE%D8%AF%D9%85%D8%A9+%D8%B7%D9%84%D8%A8+%D8%A8%D9%8A%D8%A7%D9%86+%D8%A7%D9%84%D8%B1%D8%A3%D9%8A+%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85%D9%8A.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-a2d99662-e9a5-4693-a406-9ca92ea23741-q4ql6BH",
-      "downloaded_at": "2026-10-11T20:21:50.451705+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/4b9c8e09-4547-4e4c-a3e7-0818d66ebf29/%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84+%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%B4%D8%A7%D8%AF%D9%8A+%D9%84%D9%84%D8%A8%D9%8A%D9%8A%D9%94%D8%A9+%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9+%D9%84%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA+++%D9%A1-%D9%A2++EN.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-4b9c8e09-4547-4e4c-a3e7-0818d66ebf29-q3SMRM7",
-      "downloaded_at": "2026-10-04T19:39:58.330869+00:00",
       "source_kind": "ministry"
     }
   ],

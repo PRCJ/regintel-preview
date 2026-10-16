@@ -1,5 +1,55 @@
 [
   {
+    "id": "0702658d36f957f1",
+    "title": "quoted-path",
+    "filename": "Personal+Data+Disclosure+Cases+Guideline.pdf",
+    "jurisdiction": "Saudi Arabia - SDAIA",
+    "site_code": "SDAIA",
+    "source_kind": "ministry",
+    "law_type": "other",
+    "year": 2026,
+    "years": [
+      2026
+    ],
+    "language": "und",
+    "status": "downloaded",
+    "host": "dgp.sdaia.gov.sa",
+    "filename_tags": [],
+    "source_page": "https://dgp.sdaia.gov.sa/wps/portal/pdp/services/legalconsultationrequest/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTQzNHD0sTYyMAsxdjA3MQiz9vH09fQw9DUz0w8EKPB1dzTwMgw2MDEPDLA3MjAONfL0cPY0NAoz1o4jRb4ADOBoQ0h-mH6UfVVwCNCcKrBThkjAnU6BLfP1MTb2NjQwsjDAUYDoVrACPW4ITi_QLckND88yCPModFRUBjSx8Jw!!/dz/d5/L0lHSkovd0RNQUZrQUVnQSEhLzROVkUvZW4!/?uri=nm:oid:Z6_IAE6H1S021VB5063MN55K32083&st=",
+    "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/1d3217bd-64b2-4e87-86a1-f0d094712cd4/Personal+Data+Disclosure+Cases+Guideline.pdf?MOD=AJPERES&amp;CONVERT_TO=url&amp;CACHEID=ROOTWORKSPACE-1d3217bd-64b2-4e87-86a1-f0d094712cd4-q1h53Fx",
+    "open_url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/1d3217bd-64b2-4e87-86a1-f0d094712cd4/Personal+Data+Disclosure+Cases+Guideline.pdf?MOD=AJPERES&amp;CONVERT_TO=url&amp;CACHEID=ROOTWORKSPACE-1d3217bd-64b2-4e87-86a1-f0d094712cd4-q1h53Fx",
+    "download_url": null,
+    "bytes": 2394957,
+    "sha256": "0702658d36f957f1",
+    "downloaded_at": "2026-10-16T04:29:52.514409+00:00",
+    "local_path": "data/pdfs/Saudi_Arabia_SDAIA/ministry/Personal+Data+Disclosure+Cases+Guideline.pdf"
+  },
+  {
+    "id": "4ac1c5176b02f99c",
+    "title": "httpslaws gatewaymojgovsaapislegislation",
+    "filename": "httpslaws_gatewaymojgovsaapislegislation.pdf",
+    "jurisdiction": "Saudi Arabia - MOJ",
+    "site_code": "MOJ",
+    "source_kind": "ministry",
+    "law_type": "other",
+    "year": 2026,
+    "years": [
+      2026
+    ],
+    "language": "und",
+    "status": "downloaded",
+    "host": "laws-gateway.moj.gov.sa",
+    "filename_tags": [],
+    "source_page": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=C3O9dWSbRvCEWj78UDAmYA",
+    "url": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=C3O9dWSbRvCEWj78UDAmYA",
+    "open_url": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=C3O9dWSbRvCEWj78UDAmYA",
+    "download_url": null,
+    "bytes": 7605586,
+    "sha256": "4ac1c5176b02f99c",
+    "downloaded_at": "2026-10-16T04:19:48.932471+00:00",
+    "local_path": "data/pdfs/Saudi_Arabia_MOJ/ministry/httpslaws_gatewaymojgovsaapislegislation.pdf"
+  },
+  {
     "id": "ff9aebfa09564384",
     "title": "Show Service",
     "filename": "DictionaryOfLegalTermsV1.pdf",

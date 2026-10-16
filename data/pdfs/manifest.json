@@ -188591,6 +188591,32 @@
       "http_status": 200,
       "content_type": "application/pdf",
       "downloaded_at": "2026-10-15T04:24:10.064331+00:00"
+    },
+    {
+      "url": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=C3O9dWSbRvCEWj78UDAmYA",
+      "jurisdiction": "Saudi Arabia - MOJ",
+      "source_kind": "ministry",
+      "source_page": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=C3O9dWSbRvCEWj78UDAmYA",
+      "title": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=C3O9dWSbRvCEWj78UDAmYA",
+      "path": "data/pdfs/Saudi_Arabia_MOJ/ministry/httpslaws_gatewaymojgovsaapislegislation.pdf",
+      "bytes": 7605586,
+      "sha256": "4ac1c5176b02f99c",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-10-16T04:19:48.932471+00:00"
+    },
+    {
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/1d3217bd-64b2-4e87-86a1-f0d094712cd4/Personal+Data+Disclosure+Cases+Guideline.pdf?MOD=AJPERES&amp;CONVERT_TO=url&amp;CACHEID=ROOTWORKSPACE-1d3217bd-64b2-4e87-86a1-f0d094712cd4-q1h53Fx",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "ministry",
+      "source_page": "https://dgp.sdaia.gov.sa/wps/portal/pdp/services/legalconsultationrequest/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTQzNHD0sTYyMAsxdjA3MQiz9vH09fQw9DUz0w8EKPB1dzTwMgw2MDEPDLA3MjAONfL0cPY0NAoz1o4jRb4ADOBoQ0h-mH6UfVVwCNCcKrBThkjAnU6BLfP1MTb2NjQwsjDAUYDoVrACPW4ITi_QLckND88yCPModFRUBjSx8Jw!!/dz/d5/L0lHSkovd0RNQUZrQUVnQSEhLzROVkUvZW4!/?uri=nm:oid:Z6_IAE6H1S021VB5063MN55K32083&st=",
+      "title": "quoted-path",
+      "path": "data/pdfs/Saudi_Arabia_SDAIA/ministry/Personal+Data+Disclosure+Cases+Guideline.pdf",
+      "bytes": 2394957,
+      "sha256": "0702658d36f957f1",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-10-16T04:29:52.514409+00:00"
     }
   ],
   "discovered": [
