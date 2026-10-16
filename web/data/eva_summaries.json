@@ -1,5 +1,42 @@
 [
   {
+    "id": "4ac1c5176b02f99c",
+    "title": "httpslaws gatewaymojgovsaapislegislation",
+    "jurisdiction": "Saudi Arabia - MOJ",
+    "source_kind": "ministry",
+    "url": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=C3O9dWSbRvCEWj78UDAmYA",
+    "open_url": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=C3O9dWSbRvCEWj78UDAmYA",
+    "source_page": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=C3O9dWSbRvCEWj78UDAmYA",
+    "summary": "معجــــــــــــــــم المصطلحات العـــــــــــــدلية issued under the Environmental Law. Implemented by MOJ.",
+    "key_points": [
+      "Regulator: MOJ"
+    ],
+    "title_en": "",
+    "summary_en": "",
+    "key_points_en": [],
+    "translate_engine": "",
+    "topics": [
+      "regulation",
+      "MEWA",
+      "environment"
+    ],
+    "document_type": "regulation",
+    "method": "extractive_regulation",
+    "summarized_at": "2026-10-16T11:42:37.341354+00:00",
+    "ai_relevance_score": 92,
+    "ai_relevance_category": "critical",
+    "ai_document_type": "REGULATION",
+    "ai_status": "analyzed",
+    "ai_confidence": 0.45,
+    "ai_relevance_reason": "Document type is a law/regulation that typically creates obligations.",
+    "english_title": "httpslaws gatewaymojgovsaapislegislation",
+    "english_summary": "معجــــــــــــــــم المصطلحات العـــــــــــــدلية issued under the Environmental Law. Implemented by MOJ.",
+    "regulator": "Ministry of Justice (MOJ)",
+    "text_extraction_status": "extracted",
+    "scored_at": "2026-10-16T11:42:51.547365+00:00",
+    "score_method": "heuristic"
+  },
+  {
     "id": "ff9aebfa09564384",
     "title": "Show Service",
     "jurisdiction": "Saudi Arabia - MOJ",
