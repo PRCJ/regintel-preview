@@ -1,5 +1,30 @@
 [
   {
+    "id": "d2af40847d42f80f",
+    "title": "quoted-path",
+    "filename": "RulesGoverningtheIssuanceofAccreditationCertificatesforControllersandProcessers.pdf",
+    "jurisdiction": "Saudi Arabia - SDAIA",
+    "site_code": "SDAIA",
+    "source_kind": "ministry",
+    "law_type": "other",
+    "year": 2026,
+    "years": [
+      2026
+    ],
+    "language": "und",
+    "status": "downloaded",
+    "host": "dgp.sdaia.gov.sa",
+    "filename_tags": [],
+    "source_page": "https://dgp.sdaia.gov.sa/wps/portal/pdp/knowledgecenter/details/Rulesandguidelinesp2/!ut/p/z1/jY9dC4IwFIZ_UZy5MavLFUIai8o0200MnDZYc-TH7290maSduxee9-U8IKAAYeWga9npxkrj802E95hF4S5IEQ7yDUUh4QdK9wSjyxKuX0CWrz1wwjxhMUFHAuKfPvpxDM31cxAg2g6SOdCb4Bff8hqEk91joW3VQHHujWqlLetel8poq1qH_U9icm1FRsBY-wNMeKXKgntmmaVmcFHF3sJVcXw!/dz/d5/L0lHSkovd0RNQU5rQUVnQSEhLzROVkUvYXI!/?uri=nm:oid:Z6_IAE6H1S021VB5063MN55K32083&st=",
+    "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/59de10d1-3243-491f-a5a0-4f25a0ea425b/RulesGoverningtheIssuanceofAccreditationCertificatesforControllersandProcessers.pdf?MOD=AJPERES&amp;CONVERT_TO=url&amp;CACHEID=ROOTWORKSPACE-59de10d1-3243-491f-a5a0-4f25a0ea425b-q1h55TZ",
+    "open_url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/59de10d1-3243-491f-a5a0-4f25a0ea425b/RulesGoverningtheIssuanceofAccreditationCertificatesforControllersandProcessers.pdf?MOD=AJPERES&amp;CONVERT_TO=url&amp;CACHEID=ROOTWORKSPACE-59de10d1-3243-491f-a5a0-4f25a0ea425b-q1h55TZ",
+    "download_url": null,
+    "bytes": 561721,
+    "sha256": "d2af40847d42f80f",
+    "downloaded_at": "2026-10-17T22:20:49.141479+00:00",
+    "local_path": "data/pdfs/Saudi_Arabia_SDAIA/ministry/RulesGoverningtheIssuanceofAccreditationCertificatesforControllersandProcessers.pdf"
+  },
+  {
     "id": "0702658d36f957f1",
     "title": "quoted-path",
     "filename": "Personal+Data+Disclosure+Cases+Guideline.pdf",
