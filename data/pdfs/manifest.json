@@ -188630,6 +188630,19 @@
       "http_status": 200,
       "content_type": "application/pdf",
       "downloaded_at": "2026-10-17T22:20:49.141479+00:00"
+    },
+    {
+      "url": "https://cma.org.sa/RulesRegulations/Consulting/Documents/The_Draft_Amendments_to_the_Investment_Funds_ar.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "source_kind": "ministry",
+      "source_page": "https://cma.org.sa",
+      "title": "مشروع تعديل لائحة صناديق الاستثمار ولائحة صناديق الاستثمار العقاري وقائمة المصطلحات المستخدمة في لوائح هيئة السوق المالية وقواعدها",
+      "path": "data/pdfs/Saudi_Arabia_CMA/ministry/The_Draft_Amendments_to_the_Investment_Funds_ar.pdf",
+      "bytes": 1185220,
+      "sha256": "3a480633b1c26854",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-10-18T18:39:18.624810+00:00"
     }
   ],
   "discovered": [
