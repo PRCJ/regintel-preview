@@ -1,7 +1,7 @@
 [
   {
-    "id": "b6da552043e99d8c",
-    "discovered_at": "2026-10-18T09:59:36.266208+00:00",
+    "id": "eaee7d136230f9cd",
+    "discovered_at": "2026-10-19T11:22:30.108948+00:00",
     "country": "Canada - Federal",
     "region": "North America",
     "authority": "Canadian Securities Administrators (CSA)",
@@ -10,6 +10,21 @@
     "title": "Page content changed — Canadian Securities Administrators (CSA)",
     "link": "https://www.securities-administrators.ca/",
     "source_url": "https://www.securities-administrators.ca/",
+    "relevancy": "Pending",
+    "alert_status": "new",
+    "tracked_by": "collector"
+  },
+  {
+    "id": "e92378e5e9cd2cd4",
+    "discovered_at": "2026-10-19T11:22:30.108948+00:00",
+    "country": "Canada - Federal",
+    "region": "North America",
+    "authority": "Canadian Securities Administrators (CSA)",
+    "law_area": "Enterprise",
+    "topical_relevance": "Corporate Governance, Corporate Disputes & Arbitration, Corporate/Entity Formation Laws/Transparency, Securities Law Class Action",
+    "title": "Page content changed — Canadian Securities Administrators (CSA)",
+    "link": "https://www.securities-administrators.ca/news/",
+    "source_url": "https://www.securities-administrators.ca/news/",
     "relevancy": "Pending",
     "alert_status": "new",
     "tracked_by": "collector"
@@ -115,21 +130,6 @@
     "title": "Secretary of State Zerucelli to announce investment in apprenticeship training infrastructure, innovation and equipment",
     "link": "https://www.canada.ca/en/employment-social-development/news/2026/10/secretary-of-state-zerucelli-to-announce-investment-in-apprenticeship-training-infrastructure-innovation-and-equipment.html",
     "source_url": "https://www.canada.ca/en/news/advanced-news-search/news-results.html?_=1594308968371&dprtmnt=departmentofemploymentandsocialdevelopment&start=&end=",
-    "relevancy": "Pending",
-    "alert_status": "new",
-    "tracked_by": "collector"
-  },
-  {
-    "id": "c11627b6ecc365de",
-    "discovered_at": "2026-10-18T09:59:36.266208+00:00",
-    "country": "Canada - Federal",
-    "region": "North America",
-    "authority": "Canadian Securities Administrators (CSA)",
-    "law_area": "Enterprise",
-    "topical_relevance": "Corporate Governance, Corporate Disputes & Arbitration, Corporate/Entity Formation Laws/Transparency, Securities Law Class Action",
-    "title": "Page content changed — Canadian Securities Administrators (CSA)",
-    "link": "https://www.securities-administrators.ca/news/",
-    "source_url": "https://www.securities-administrators.ca/news/",
     "relevancy": "Pending",
     "alert_status": "new",
     "tracked_by": "collector"
