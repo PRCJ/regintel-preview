@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-21T05:08:11.175525+00:00",
+  "updated_at": "2026-10-21T14:21:44.144020+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "39544097202",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/39544097202",
+  "message": "merged 1 ministry PDFs from parallel crawl",
+  "run_id": "39610015201",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/39610015201",
   "totals": {
-    "pdfs": 2167,
+    "pdfs": 2168,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -37,7 +37,7 @@
     },
     {
       "jurisdiction": "Saudi Arabia - CMA",
-      "count": 73
+      "count": 74
     },
     {
       "jurisdiction": "Saudi Arabia - SASO",
@@ -71,11 +71,18 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2167
+      "count": 2168
     }
   ],
   "current_source": null,
   "recent_pdfs": [
+    {
+      "title": "الرابط",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.org.sa/RulesRegulations/Consulting/Documents/Enhancing_Disclosure_within_the_Management_ar.pdf",
+      "downloaded_at": "2026-10-21T13:46:05.638222+00:00",
+      "source_kind": "ministry"
+    },
     {
       "title": "مشروع تعديل لائحة صناديق الاستثمار ولائحة صناديق الاستثمار العقاري وقائمة المصطلحات المستخدمة في لوائح هيئة السوق المالي",
       "jurisdiction": "Saudi Arabia - CMA",
@@ -172,13 +179,6 @@
       "jurisdiction": "Saudi Arabia - SDAIA",
       "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/b71b54cf-3cda-4a2b-ace1-73283ddd7445/AR_%D8%AF%D9%84%D9%8A%D9%84+%D9%86%D8%B8%D8%A7%D9%85+%D8%AD%D9%85%D8%A7%D9%8A%D8%A9+%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9+%D9%84%D8%AC%D9%87%D8%A7%D8%AA+%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%85+%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-b71b54cf-3cda-4a2b-ace1-73283ddd7445-q1h571v",
       "downloaded_at": "2026-10-11T20:22:23.168286+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "تحميل",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/f4456d78-ad09-43ee-9af0-7c281bad0655/%D8%AF%D9%84%D9%8A%D9%84+%D9%86%D8%B8%D8%A7%D9%85+%D8%AD%D9%85%D8%A7%D9%8A%D8%A9+%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA+%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9+HANDBOOK_AR_.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-f4456d78-ad09-43ee-9af0-7c281bad0655-q1h57jB",
-      "downloaded_at": "2026-10-11T20:22:19.810282+00:00",
       "source_kind": "ministry"
     }
   ],
