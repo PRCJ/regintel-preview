@@ -188656,6 +188656,58 @@
       "http_status": 200,
       "content_type": "application/pdf",
       "downloaded_at": "2026-10-21T13:46:05.638222+00:00"
+    },
+    {
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/a2d99662-e9a5-4693-a406-9ca92ea23741/%D8%AF%D9%84%D9%8A%D9%84+%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85+%D9%84%D8%AE%D8%AF%D9%85%D8%A9+%D8%B7%D9%84%D8%A8+%D8%A8%D9%8A%D8%A7%D9%86+%D8%A7%D9%84%D8%B1%D8%A3%D9%8A+%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85%D9%8A.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-a2d99662-e9a5-4693-a406-9ca92ea23741-q5zmYpU",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "ministry",
+      "source_page": "https://dgp.sdaia.gov.sa/wps/portal/pdp/services/LegalConsultationRequest/!ut/p/z1/jZBBDoIwEEVPZKa0UGWJYiJiERUQuzFNrNgECoHq-UU2Lozo7CZ5P_PfAIccuBYPVQijai3Kfj9xerYt6q1cG-N46hNEEzcKWbCxAmTDcQACb0lX1gFhK81cRMkOs7UXEBQT4P_k0Zfx0K98Bhx4Z2A9gO8e2dzpe7DIcUKCUTJ9meCWLVgBvBHmNlH6WkO-l8W9HGRrHcu2e0n7woikFbq7ynZ7N526SHOTodLFpa76wnz01Ix8AJ8_GYAx6fETGA5SQ1OlqXbKR7Pcz56Q1oia/dz/d5/L0lHSkovd0RNQU5rQUVnQSEhLzROVkUvYXI!/",
+      "title": "تحميل الدليل",
+      "path": "data/pdfs/Saudi_Arabia_SDAIA/ministry/دليل+المستخدم+لخدمة+طلب+بيان+الرأي+النظامي.pdf",
+      "bytes": 940243,
+      "sha256": "a918f3c7d82815c9",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-10-22T20:08:01.517435+00:00"
+    },
+    {
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/b0527e37-49f9-4437-a375-210186b616eb/%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D9%8A%D8%A9+%D9%85%D8%B3%D8%AA%D9%88%D9%89+%D8%AE%D8%AF%D9%85%D8%A9+%D8%B7%D9%84%D8%A8+%D8%A8%D9%8A%D8%A7%D9%86+%D8%A7%D9%84%D8%B1%D8%A3%D9%8A+%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85%D9%8A.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-b0527e37-49f9-4437-a375-210186b616eb-q5zmYpU",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "ministry",
+      "source_page": "https://dgp.sdaia.gov.sa/wps/portal/pdp/services/LegalConsultationRequest/!ut/p/z1/jZBBDoIwEEVPZKa0UGWJYiJiERUQuzFNrNgECoHq-UU2Lozo7CZ5P_PfAIccuBYPVQijai3Kfj9xerYt6q1cG-N46hNEEzcKWbCxAmTDcQACb0lX1gFhK81cRMkOs7UXEBQT4P_k0Zfx0K98Bhx4Z2A9gO8e2dzpe7DIcUKCUTJ9meCWLVgBvBHmNlH6WkO-l8W9HGRrHcu2e0n7woikFbq7ynZ7N526SHOTodLFpa76wnz01Ix8AJ8_GYAx6fETGA5SQ1OlqXbKR7Pcz56Q1oia/dz/d5/L0lHSkovd0RNQU5rQUVnQSEhLzROVkUvYXI!/",
+      "title": "تحميل الدليل",
+      "path": "data/pdfs/Saudi_Arabia_SDAIA/ministry/اتفاقية+مستوى+خدمة+طلب+بيان+الرأي+النظامي.pdf",
+      "bytes": 502997,
+      "sha256": "c147dc488a3d129e",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-10-22T20:08:03.062445+00:00"
+    },
+    {
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/de88f943-5d50-4ac7-888d-585ee58da5cc/Request+For+Legal+Opinion+Clarification+User+Guide.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-de88f943-5d50-4ac7-888d-585ee58da5cc-q5zmWQx",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "ministry",
+      "source_page": "https://dgp.sdaia.gov.sa/wps/portal/pdp/knowledgecenter/details/RegulationonPersonalDataTransferOutsidetheKingdom/!ut/p/z1/jZDLDoIwEEW_yEyhAXWJSiIQFOUhdmOaUKAJFFIK3y-ylAjObpJzM3MuEEiBCDrwgireCFqN-5OYL8eyzbMWIl1LDgYysX8xDA_rKNrC4wuIk_0I3HTftRyMAgzknzz6MRZayydAgHQK3DVwNNGlf_QLIC1V5YaLvIH0zoq-mmQbETDZfaRPVNFIUtHlTF571fGMqZJ5XBRZU48Pk8VTOzwD5p1MwIJ0SCW0dRwLoxpaO7feGTezJA!!/dz/d5/L0lHSkovd0RNQU5rQUVnQSEhLzROVkUvZW4!/?uri=nm:oid:Z6_416AH9422P7D306T9NKMIL1I04&st=",
+      "title": "Download File",
+      "path": "data/pdfs/Saudi_Arabia_SDAIA/ministry/Request+For+Legal+Opinion+Clarification+User+Guide.pdf",
+      "bytes": 1088967,
+      "sha256": "84aa0756d8d5576c",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-10-22T20:11:05.701525+00:00"
+    },
+    {
+      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/f4b1726c-79be-41a3-a4b7-af4991004aee/Request+for+Legal+Opinion+Clarification+Service+Level+Agreement.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-f4b1726c-79be-41a3-a4b7-af4991004aee-q5zmWQx",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "source_kind": "ministry",
+      "source_page": "https://dgp.sdaia.gov.sa/wps/portal/pdp/knowledgecenter/details/RegulationonPersonalDataTransferOutsidetheKingdom/!ut/p/z1/jZDLDoIwEEW_yEyhAXWJSiIQFOUhdmOaUKAJFFIK3y-ylAjObpJzM3MuEEiBCDrwgireCFqN-5OYL8eyzbMWIl1LDgYysX8xDA_rKNrC4wuIk_0I3HTftRyMAgzknzz6MRZayydAgHQK3DVwNNGlf_QLIC1V5YaLvIH0zoq-mmQbETDZfaRPVNFIUtHlTF571fGMqZJ5XBRZU48Pk8VTOzwD5p1MwIJ0SCW0dRwLoxpaO7feGTezJA!!/dz/d5/L0lHSkovd0RNQU5rQUVnQSEhLzROVkUvZW4!/?uri=nm:oid:Z6_416AH9422P7D306T9NKMIL1I04&st=",
+      "title": "Download File",
+      "path": "data/pdfs/Saudi_Arabia_SDAIA/ministry/Request+for+Legal+Opinion+Clarification+Service+Level+Agreement.pdf",
+      "bytes": 535171,
+      "sha256": "208b28f33d29a556",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-10-22T20:11:07.408176+00:00"
     }
   ],
   "discovered": [
