@@ -1,7 +1,7 @@
 [
   {
-    "id": "45c03815b635a9fe",
-    "discovered_at": "2026-10-24T09:53:44.740029+00:00",
+    "id": "898103f972bf5c00",
+    "discovered_at": "2026-10-25T10:15:12.542395+00:00",
     "country": "Canada - Federal",
     "region": "North America",
     "authority": "Canadian Securities Administrators (CSA)",
@@ -10,6 +10,21 @@
     "title": "Page content changed — Canadian Securities Administrators (CSA)",
     "link": "https://www.securities-administrators.ca/",
     "source_url": "https://www.securities-administrators.ca/",
+    "relevancy": "Pending",
+    "alert_status": "new",
+    "tracked_by": "collector"
+  },
+  {
+    "id": "5726a6ad8c4f54d6",
+    "discovered_at": "2026-10-25T10:15:12.542395+00:00",
+    "country": "Canada - Federal",
+    "region": "North America",
+    "authority": "Canadian Securities Administrators (CSA)",
+    "law_area": "Enterprise",
+    "topical_relevance": "Corporate Governance, Corporate Disputes & Arbitration, Corporate/Entity Formation Laws/Transparency, Securities Law Class Action",
+    "title": "Page content changed — Canadian Securities Administrators (CSA)",
+    "link": "https://www.securities-administrators.ca/news/",
+    "source_url": "https://www.securities-administrators.ca/news/",
     "relevancy": "Pending",
     "alert_status": "new",
     "tracked_by": "collector"
@@ -145,21 +160,6 @@
     "title": "Submission of the Office of the Privacy Commissioner of Canada on Enhancing trust in artificial intelligence through increased transparency",
     "link": "https://www.priv.gc.ca/en/opc-actions-and-decisions/submissions-to-consultations/sub_ised_20260923/",
     "source_url": "https://www.priv.gc.ca/en/about-the-opc/publications/?Page=1",
-    "relevancy": "Pending",
-    "alert_status": "new",
-    "tracked_by": "collector"
-  },
-  {
-    "id": "3fb33048454abe86",
-    "discovered_at": "2026-10-24T09:53:44.740029+00:00",
-    "country": "Canada - Federal",
-    "region": "North America",
-    "authority": "Canadian Securities Administrators (CSA)",
-    "law_area": "Enterprise",
-    "topical_relevance": "Corporate Governance, Corporate Disputes & Arbitration, Corporate/Entity Formation Laws/Transparency, Securities Law Class Action",
-    "title": "Page content changed — Canadian Securities Administrators (CSA)",
-    "link": "https://www.securities-administrators.ca/news/",
-    "source_url": "https://www.securities-administrators.ca/news/",
     "relevancy": "Pending",
     "alert_status": "new",
     "tracked_by": "collector"
