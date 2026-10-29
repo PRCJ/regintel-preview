@@ -1,5 +1,30 @@
 [
   {
+    "id": "be71904317dc1509",
+    "title": "الرابط",
+    "filename": "Corporate_Governance_and_Investor_Protection_ar.pdf",
+    "jurisdiction": "Saudi Arabia - CMA",
+    "site_code": "CMA",
+    "source_kind": "ministry",
+    "law_type": "regulation",
+    "year": 2026,
+    "years": [
+      2026
+    ],
+    "language": "und",
+    "status": "downloaded",
+    "host": "cma.org.sa",
+    "filename_tags": [],
+    "source_page": "https://cma.org.sa",
+    "url": "https://cma.org.sa/RulesRegulations/Consulting/Documents/Corporate_Governance_and_Investor_Protection_ar.pdf",
+    "open_url": "https://cma.org.sa/RulesRegulations/Consulting/Documents/Corporate_Governance_and_Investor_Protection_ar.pdf",
+    "download_url": null,
+    "bytes": 297798,
+    "sha256": "be71904317dc1509",
+    "downloaded_at": "2026-10-29T15:14:20.507653+00:00",
+    "local_path": "data/pdfs/Saudi_Arabia_CMA/ministry/Corporate_Governance_and_Investor_Protection_ar.pdf"
+  },
+  {
     "id": "208b28f33d29a556",
     "title": "Download File",
     "filename": "Request+for+Legal+Opinion+Clarification+Service+Level+Agreement.pdf",

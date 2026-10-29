@@ -188708,6 +188708,19 @@
       "http_status": 200,
       "content_type": "application/pdf",
       "downloaded_at": "2026-10-22T20:11:07.408176+00:00"
+    },
+    {
+      "url": "https://cma.org.sa/RulesRegulations/Consulting/Documents/Corporate_Governance_and_Investor_Protection_ar.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "source_kind": "ministry",
+      "source_page": "https://cma.org.sa",
+      "title": "الرابط",
+      "path": "data/pdfs/Saudi_Arabia_CMA/ministry/Corporate_Governance_and_Investor_Protection_ar.pdf",
+      "bytes": 297798,
+      "sha256": "be71904317dc1509",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-10-29T15:14:20.507653+00:00"
     }
   ],
   "discovered": [

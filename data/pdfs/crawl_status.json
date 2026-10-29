@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29T06:13:13.883005+00:00",
+  "updated_at": "2026-10-29T15:50:32.320547+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "40823879029",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/40823879029",
+  "message": "merged 1 ministry PDFs from parallel crawl",
+  "run_id": "40898572186",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/40898572186",
   "totals": {
-    "pdfs": 2172,
+    "pdfs": 2173,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -37,7 +37,7 @@
     },
     {
       "jurisdiction": "Saudi Arabia - CMA",
-      "count": 74
+      "count": 75
     },
     {
       "jurisdiction": "Saudi Arabia - SASO",
@@ -71,11 +71,18 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2172
+      "count": 2173
     }
   ],
   "current_source": null,
   "recent_pdfs": [
+    {
+      "title": "الرابط",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.org.sa/RulesRegulations/Consulting/Documents/Corporate_Governance_and_Investor_Protection_ar.pdf",
+      "downloaded_at": "2026-10-29T15:14:20.507653+00:00",
+      "source_kind": "ministry"
+    },
     {
       "title": "Download File",
       "jurisdiction": "Saudi Arabia - SDAIA",
@@ -172,13 +179,6 @@
       "jurisdiction": "Saudi Arabia - SDAIA",
       "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/046657e6-aaab-4063-a3ac-ff2ad6d8ba0a/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9+%D8%AA%D8%AD%D9%82%D9%8A%D9%82+%D8%A7%D9%84%D8%A7%D9%95%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA+%D9%85%D9%86+%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-046657e6-aaab-4063-a3ac-ff2ad6d8ba0a-q3NyJe4",
       "downloaded_at": "2026-10-11T20:33:39.796196+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "Download File",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/de88f943-5d50-4ac7-888d-585ee58da5cc/Request+For+Legal+Opinion+Clarification+User+Guide.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-de88f943-5d50-4ac7-888d-585ee58da5cc-q4qlczT",
-      "downloaded_at": "2026-10-11T20:22:52.670597+00:00",
       "source_kind": "ministry"
     }
   ],
