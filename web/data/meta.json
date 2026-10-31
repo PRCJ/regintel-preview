@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-10-30T11:45:03.550558+00:00",
+  "generated_at": "2026-10-31T11:18:41.673623+00:00",
   "counts": {
     "primary_sources": 1330,
     "tracking_records": 114,
     "gazette_sources": 67,
     "secondary_sources": 68,
     "detailed_plan_rows": 85,
-    "updates": 712,
-    "laws": 2116
+    "updates": 717,
+    "laws": 2121
   },
-  "last_collector_run": "2026-10-30T11:45:03.915452+00:00",
+  "last_collector_run": "2026-10-31T11:18:42.168123+00:00",
   "last_collector_stats": {
     "sources_attempted": 50,
     "ok": 46,
     "fail": 4,
-    "new_updates": 10,
-    "total_updates": 712
+    "new_updates": 7,
+    "total_updates": 717
   }
 }
