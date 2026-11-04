@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-03T20:07:07.705468+00:00",
+  "updated_at": "2026-11-04T01:12:48.318684+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "41702931732",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/41702931732",
+  "message": "merged 0 ministry PDFs from parallel crawl",
+  "run_id": "41747549047",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/41747549047",
   "totals": {
     "pdfs": 2173,
     "errors": 22131,
