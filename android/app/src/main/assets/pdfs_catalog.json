@@ -1,5 +1,30 @@
 [
   {
+    "id": "7248e0da7439e128",
+    "title": "سياسة حرية المعلومات",
+    "filename": "حرية المعلومات.pdf",
+    "jurisdiction": "Saudi Arabia - SDAIA",
+    "site_code": "SDAIA",
+    "source_kind": "ministry",
+    "law_type": "other",
+    "year": 2026,
+    "years": [
+      2026
+    ],
+    "language": "und",
+    "status": "downloaded",
+    "host": "sdaia.gov.sa",
+    "filename_tags": [],
+    "source_page": "https://sdaia.gov.sa/ar/SDAIA/AboutPortal/Pages/FreedomInformation.aspx",
+    "url": "https://sdaia.gov.sa/ar/SDAIA/about/Documents/%d8%ad%d8%b1%d9%8a%d8%a9%20%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa.pdf",
+    "open_url": "https://sdaia.gov.sa/ar/SDAIA/about/Documents/%d8%ad%d8%b1%d9%8a%d8%a9%20%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa.pdf",
+    "download_url": null,
+    "bytes": 1700100,
+    "sha256": "7248e0da7439e128",
+    "downloaded_at": "2026-11-08T20:47:53.916499+00:00",
+    "local_path": "data/pdfs/Saudi_Arabia_SDAIA/ministry/حرية المعلومات.pdf"
+  },
+  {
     "id": "be71904317dc1509",
     "title": "الرابط",
     "filename": "Corporate_Governance_and_Investor_Protection_ar.pdf",

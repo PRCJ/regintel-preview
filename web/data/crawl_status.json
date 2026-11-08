@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08T15:39:13.986396+00:00",
+  "updated_at": "2026-11-08T20:58:56.512552+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "42492409501",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/42492409501",
+  "message": "merged 1 ministry PDFs from parallel crawl",
+  "run_id": "42519761769",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/42519761769",
   "totals": {
-    "pdfs": 2173,
+    "pdfs": 2174,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -13,7 +13,7 @@
   "by_jurisdiction": [
     {
       "jurisdiction": "Saudi Arabia - SDAIA",
-      "count": 897
+      "count": 898
     },
     {
       "jurisdiction": "Saudi Arabia - MEWA",
@@ -71,11 +71,18 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2173
+      "count": 2174
     }
   ],
   "current_source": null,
   "recent_pdfs": [
+    {
+      "title": "سياسة حرية المعلومات",
+      "jurisdiction": "Saudi Arabia - SDAIA",
+      "url": "https://sdaia.gov.sa/ar/SDAIA/about/Documents/%d8%ad%d8%b1%d9%8a%d8%a9%20%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa.pdf",
+      "downloaded_at": "2026-11-08T20:47:53.916499+00:00",
+      "source_kind": "ministry"
+    },
     {
       "title": "الرابط",
       "jurisdiction": "Saudi Arabia - CMA",
@@ -172,13 +179,6 @@
       "jurisdiction": "Saudi Arabia - SDAIA",
       "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/91c23fee-8005-4c9e-b4f8-8e58e1dc41a6/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9+%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9+%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-91c23fee-8005-4c9e-b4f8-8e58e1dc41a6-q1h54nx",
       "downloaded_at": "2026-10-11T20:33:44.611721+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "تحميل",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/046657e6-aaab-4063-a3ac-ff2ad6d8ba0a/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9+%D8%AA%D8%AD%D9%82%D9%8A%D9%82+%D8%A7%D9%84%D8%A7%D9%95%D9%8A%D8%B1%D8%A7%D8%AF%D8%A7%D8%AA+%D9%85%D9%86+%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-046657e6-aaab-4063-a3ac-ff2ad6d8ba0a-q3NyJe4",
-      "downloaded_at": "2026-10-11T20:33:39.796196+00:00",
       "source_kind": "ministry"
     }
   ],
