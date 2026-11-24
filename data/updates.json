@@ -1,5 +1,20 @@
 [
   {
+    "id": "fee2dbafc1784e5f",
+    "discovered_at": "2026-11-24T16:34:29.079476+00:00",
+    "country": "Canada - Federal",
+    "region": "North America",
+    "authority": "Government of Canada",
+    "law_area": "Enterprise",
+    "topical_relevance": "All",
+    "title": "What We Heard Report available",
+    "link": "https://agriculture.canada.ca/en/department/transparency/public-opinion-research-consultations/what-we-heard-report-national-agricultural-soil-health-strategy-regional-engagement-sessions",
+    "source_url": "https://www.canada.ca/en/government/system/consultations/consultingcanadians.html",
+    "relevancy": "Pending",
+    "alert_status": "new",
+    "tracked_by": "collector"
+  },
+  {
     "id": "61032120a17624bf",
     "discovered_at": "2026-11-23T16:38:34.545834+00:00",
     "country": "Canada - Federal",
