@@ -188799,6 +188799,19 @@
       "http_status": 200,
       "content_type": "application/pdf",
       "downloaded_at": "2026-11-25T00:45:52.220444+00:00"
+    },
+    {
+      "url": "https://cma.org.sa/RulesRegulations/Consulting/Documents/the_Regulatory_Provisions_for_the_Parallel_Market_ar.pdf",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "source_kind": "ministry",
+      "source_page": "https://cma.org.sa",
+      "title": "الرابط",
+      "path": "data/pdfs/Saudi_Arabia_CMA/ministry/the_Regulatory_Provisions_for_the_Parallel_Market_ar.pdf",
+      "bytes": 348968,
+      "sha256": "73ffb7ce46de84b4",
+      "http_status": 200,
+      "content_type": "application/pdf",
+      "downloaded_at": "2026-11-25T14:12:04.880889+00:00"
     }
   ],
   "discovered": [

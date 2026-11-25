@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-25T01:11:13.130928+00:00",
+  "updated_at": "2026-11-25T14:48:02.959127+00:00",
   "phase": "idle",
-  "message": "relabeled 0 ministry PDFs by host",
-  "run_id": "45518851718",
-  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/45518851718",
+  "message": "merged 1 ministry PDFs from parallel crawl",
+  "run_id": "45630508584",
+  "github_run_url": "https://github.com/PRCJ/regintel-preview/actions/runs/45630508584",
   "totals": {
-    "pdfs": 2179,
+    "pdfs": 2180,
     "errors": 22131,
     "source_reports": 53,
     "jurisdictions": 14
@@ -37,7 +37,7 @@
     },
     {
       "jurisdiction": "Saudi Arabia - CMA",
-      "count": 75
+      "count": 76
     },
     {
       "jurisdiction": "Saudi Arabia - SASO",
@@ -71,11 +71,18 @@
   "by_source_kind": [
     {
       "source_kind": "ministry",
-      "count": 2179
+      "count": 2180
     }
   ],
   "current_source": null,
   "recent_pdfs": [
+    {
+      "title": "الرابط",
+      "jurisdiction": "Saudi Arabia - CMA",
+      "url": "https://cma.org.sa/RulesRegulations/Consulting/Documents/the_Regulatory_Provisions_for_the_Parallel_Market_ar.pdf",
+      "downloaded_at": "2026-11-25T14:12:04.880889+00:00",
+      "source_kind": "ministry"
+    },
     {
       "title": "Download File",
       "jurisdiction": "Saudi Arabia - SDAIA",
@@ -172,13 +179,6 @@
       "jurisdiction": "Saudi Arabia - SDAIA",
       "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/59de10d1-3243-491f-a5a0-4f25a0ea425b/RulesGoverningtheIssuanceofAccreditationCertificatesforControllersandProcessers.pdf?MOD=AJPERES&amp;CONVERT_TO=url&amp;CACHEID=ROOTWORKSPACE-59de10d1-3243-491f-a5a0-4f25a0ea425b-q1h55TZ",
       "downloaded_at": "2026-10-17T22:20:49.141479+00:00",
-      "source_kind": "ministry"
-    },
-    {
-      "title": "quoted-path",
-      "jurisdiction": "Saudi Arabia - SDAIA",
-      "url": "https://dgp.sdaia.gov.sa/wps/wcm/connect/1d3217bd-64b2-4e87-86a1-f0d094712cd4/Personal+Data+Disclosure+Cases+Guideline.pdf?MOD=AJPERES&amp;CONVERT_TO=url&amp;CACHEID=ROOTWORKSPACE-1d3217bd-64b2-4e87-86a1-f0d094712cd4-q1h53Fx",
-      "downloaded_at": "2026-10-16T04:29:52.514409+00:00",
       "source_kind": "ministry"
     }
   ],
